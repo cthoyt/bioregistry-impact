@@ -1,5 +1,10 @@
 import wikidata_client
 import pandas as pd
+from pathlib import Path
+
+HERE = Path(__file__).parent.resolve()
+DATA = HERE.joinpath("data")
+PATH = DATA.joinpath("depdends_on_bioregistry.tsv")
 
 #: A SPARQL query that looks through the transitive software dependencies/uses
 #: of the Bioregistry (Q109302681) and curies (Q116738064)
@@ -18,7 +23,8 @@ SPARQL = """\
 def main():
     r = wikidata_client.query(SPARQL)
     df = pd.DataFrame(r).replace(pd.NA, "").sort_values("shortName")
-    print(df.to_markdown())
+    df = df[df['itemLabel'].map(lambda s: not s.startswith("bio2bel-"))]
+    df.to_csv(PATH, sep='\t', index=False)
 
 
 if __name__ == '__main__':
