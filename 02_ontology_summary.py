@@ -45,7 +45,6 @@ USE_PP = {
 @click.command()
 @click.option("--refresh", is_flag=True)
 def main(refresh: bool) -> None:
-    refresh = True
     rows = []
 
     # load up existing results, if they exist already
@@ -63,7 +62,7 @@ def main(refresh: bool) -> None:
             tqdm.write(f"failed on {resource.prefix}")
             continue
         else:
-            rows.append((resource.prefix, resource.get_name() or "", query, count))
+            rows.append((resource.prefix, resource.get_wikidata_entity(), resource.get_name() or "", query, count))
 
         if i % 20 == 0:
             _write(rows)
@@ -72,8 +71,8 @@ def main(refresh: bool) -> None:
 
 
 def _write(rows: list[tuple[str, str, str, str]]) -> None:
-    df = pd.DataFrame(rows, columns=["prefix", "name", "query", "count"])
-    df.sort_values("count", ascending=False, inplace=True)
+    df = pd.DataFrame(rows, columns=["prefix", "wikidata", "name", "query", "count"])
+    df.sort_values(["count", "prefix"], ascending=(False, True), inplace=True)
     df.to_csv(PATH, sep="\t", index=False)
 
 
