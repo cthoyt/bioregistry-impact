@@ -1,0 +1,32 @@
+	item	itemLabel	itemDescription	types	shortName	bioregistry	frequency
+73	Q81661623	Drosophila development	ontology of the development of Drosophila melanogaster	ontology	fbdv	fbdv	1336
+76	Q17027854	Human Phenotype Ontology	provides a logical standard to describe and computationally analyze phenotypic abnormalities found in human disease	ontology	hp	hp	501
+40	Q116924914	Related Sciences	Biotech company	company			194
+34	Q7999828	WikiPathways	database of biological pathways	database|scientific community|ELIXIR Node Service|biological database		wikipathways	141
+2	Q7072326	OBO Foundry	the Open Biological and Biomedical Ontology (OBO) Foundry is a collective of ontology developers that are committed to collaboration and adherence to shared principles	community			105
+38	Q60750423	Global Alliance for Genomics and Health	research consortium	organization			95
+42	Q120550072	Bioontologies	Python library	Python package			83
+60	Q55118285	Cell Ontology	an ontology for cell types	ontology	cl	cl	56
+79	Q81661707	Mammalian Phenotype Ontology	Standard terms for annotating mammalian phenotypic data.	ontology	mp	mp	36
+44	Q135641367	NP-KG	biomedical knowledge graph	project			25
+48	Q22230760	Ontology Lookup Service	repository for biomedical ontologies	database|terminology registry	OLS		18
+26	Q109302681	The Bioregistry	open source, community curated registry, meta-registry, and compact identifier resolver	software|database|Python package|collection		bioregistry	16
+62	Q21039006	Cell line Ontology	ontology which describes anatomic origin and nature of eukaryotic cell lines	ontology	clo	clo	15
+57	Q55118319	Common Anatomy Reference Ontology	ontology	ontology	caro	caro	7
+78	Q113012668	Medical Action Ontology	ontology part of OBO Foundry	ontology	maxo	maxo	6
+91	Q81661827	Unified phenotype ontology (uPheno)	ontology for unified phenotypical descriptictions	ontology	upheno	upheno	4
+24	Q55582517	BridgeDb	framework to map identifiers between various biological databases	software|ELIXIR Recommended Interoperability Resources			4
+95	Q81660503	C. elegans phenotype	ontology for the phenotypes of Caenorhabditis elegans	ontology	wbphenotype	wbphenotype	4
+41	Q116924884	BERN2	Python software package for named entity recognition	Python package			3
+12	Q109607807	Biolink Model	high level datamodel of biological entities (genes, diseases, phenotypes, pathways, individuals, substances, etc) and their associations	project|data standard			3
+37	Q123267667	F-UJI	FAIRsFAIR Research Data Object Assessment Service	web application|semantic web software|online service			3
+29	Q116924843	text2term	Python software package	software|Python package			2
+22	Q135641346	biocypher	Python software package	software|Python package			2
+90	Q7876491	Uberon	ontology	ontology	uberon	uberon	1
+0	Q123561349	refineGEMs	Python software package	software|Python package			1
+43	Q132391623	ssslm	Python library	Python package			1
+35	Q125352352	OntoGPT	Python package for extracting structured information from text	software library			1
+27	Q111239110	Biomappings	repository of community curated and predicted equivalences and related mappings between named biological entities that are not available from primary sources.	software|database|collection			1
+25	Q108911530	LinkML	flexible modeling framework that allow for working with semantic web standards alongside a modern data stack	software|technical standard|semantic web software|interchange format|ontology language			1
+15	Q116908470	linkml	Python software package	Python package			1
+100	Q81661852	Zebrafish Phenotype Ontology	ontology for the phenotypes of the Zebrafish	ontology	zp	zp	1

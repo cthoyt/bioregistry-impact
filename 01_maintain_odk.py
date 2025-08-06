@@ -7,6 +7,7 @@ from pathlib import Path
 
 import bioregistry
 import click
+import pandas as pd
 import wikidata_client
 import yaml
 from quickstatements_client import EntityLine
@@ -20,6 +21,7 @@ ODK_REPOS_PATH = DEV.joinpath("obo-community-health", "data", "odk_repos.yaml")
 DATA = HERE.joinpath("data")
 DATA.mkdir(exist_ok=True)
 
+PATH = DATA.joinpath("prefix.tsv")
 
 #: Query for ontologies in OBO Foundry and if they have already been
 #: tagged as using the ODK (P2283) or depending on ODK (P1547)
@@ -37,6 +39,8 @@ SPARQL = """\
 """
 
 
+# TODO output prefix to wikidata map
+
 def main():
     prefix_to_odk = {
         prefix: version
@@ -49,9 +53,8 @@ def main():
     for record in wikidata_client.query(SPARQL):
         obo_prefix = record["oboPrefix"].lower()
         if record.get("usesODK"):
-            obo_prefix_annotated_with_odk.add(obo_prefix)
-        else:
-            obo_prefix_to_qid[obo_prefix] = record["item"]
+            obo_prefix_annotated_with_odk.add(obo_prefix.casefold())
+        obo_prefix_to_qid[obo_prefix] = record["item"]
 
     rows = []
     lines = []
@@ -59,8 +62,9 @@ def main():
         if resource.is_deprecated():
             continue
 
+
         obo_prefix = resource.get_obofoundry_prefix()
-        if not obo_prefix or obo_prefix.lower() in obo_prefix_annotated_with_odk:
+        if not obo_prefix or obo_prefix.casefold() in obo_prefix_annotated_with_odk:
             continue
 
         qid = obo_prefix_to_qid.get(obo_prefix.lower())
@@ -82,6 +86,8 @@ def main():
 
     # quickstatements_client.lines_to_new_tab(lines)
     click.echo(tabulate(rows))
+    df = pd.DataFrame(rows, columns=['prefix', 'wikidata', 'odk'])
+    df.to_csv(PATH, sep='\t', index=False)
 
 
 if __name__ == "__main__":
