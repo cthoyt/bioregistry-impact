@@ -12,6 +12,16 @@
 
 """
 Construct search queries for ontologies listed in Bioregistry, and get relative citations.
+
+Some ideas:
+Method 1:
+
+1. Create grounder for OBO Foundry ontologies
+2. Run annotation pipeline on all pubmed via pubmed_downloader
+
+Method 2 (faster)
+
+1. For each ontology name, search pubmed and report number of articles
 """
 
 import bioregistry
@@ -27,10 +37,15 @@ DATA = HERE.joinpath("data")
 DATA.mkdir(exist_ok=True)
 PATH = DATA.joinpath("literature_frequencies.tsv")
 
+USE_PP = {
+    "doid",
+}
+
 
 @click.command()
 @click.option("--refresh", is_flag=True)
 def main(refresh: bool) -> None:
+    refresh = True
     rows = []
 
     # load up existing results, if they exist already
@@ -43,7 +58,7 @@ def main(refresh: bool) -> None:
     for i, resource in enumerate(tqdm(resources, unit="resource")):
         query = resource_to_pubmed_query(resource)
         try:
-            count = pubmed_downloader.count_search_results(query)
+            count = pubmed_downloader.count_search_results(query, retmax=10)
         except Exception:
             tqdm.write(f"failed on {resource.prefix}")
             continue
@@ -58,6 +73,7 @@ def main(refresh: bool) -> None:
 
 def _write(rows: list[tuple[str, str, str, str]]) -> None:
     df = pd.DataFrame(rows, columns=["prefix", "name", "query", "count"])
+    df.sort_values("count", ascending=False, inplace=True)
     df.to_csv(PATH, sep="\t", index=False)
 
 
@@ -66,10 +82,11 @@ def resource_to_pubmed_query(resource: bioregistry.Resource) -> str:
     phrases = [
         name,
     ]
-    if pp := resource.get_preferred_prefix():
-        phrases.append(f"{name} ({pp})")
-        phrases.append(pp)
-    return " OR ".join(f'"{phrase}"' for phrase in phrases)
+    if preferred_prefix := resource.get_preferred_prefix():
+        phrases.append(f"{name} ({preferred_prefix})")
+        if resource.prefix in USE_PP:
+            phrases.append(preferred_prefix)
+    return " OR ".join(f'"{phrase}"[tw]' for phrase in phrases)
 
 
 if __name__ == "__main__":

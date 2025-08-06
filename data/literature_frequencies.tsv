@@ -1,0 +1,1882 @@
+prefix	name	query	count
+nucleotide	Nucleotide	"""Nucleotide""[tw]"	495279
+pubmed	PubMed	"""PubMed""[tw]"	287144
+ncbi.assembly	Assembly	"""Assembly""[tw]"	269946
+genbank	GenBank	"""GenBank""[tw]"	222907
+clinicaltrials	ClinicalTrials.gov	"""ClinicalTrials.gov""[tw]"	188019
+microscope	MicroScope	"""MicroScope""[tw]"	132549
+massive	MassIVE	"""MassIVE""[tw]"	126447
+span	Span	"""Span""[tw]"	74593
+supfam	SUPERFAMILY	"""SUPERFAMILY""[tw]"	57397
+coexistence	COEXISTENCE	"""COEXISTENCE""[tw]"	51212
+go	Gene Ontology	"""Gene Ontology""[tw] OR ""Gene Ontology (GO)""[tw]"	44542
+hdl	Handle	"""Handle""[tw]"	40695
+dc_cl	Dendritic cell	"""Dendritic cell""[tw] OR ""Dendritic cell (DC_CL)""[tw]"	25479
+kegg	Kyoto Encyclopedia of Genes and Genomes	"""Kyoto Encyclopedia of Genes and Genomes""[tw]"	19084
+seed.role	The SEED	"""The SEED""[tw]"	16469
+snap	Snapshot	"""Snapshot""[tw]"	11797
+pubchem.compound	PubChem CID	"""PubChem CID""[tw]"	6942
+mod	Protein modification	"""Protein modification""[tw] OR ""Protein modification (MOD)""[tw]"	5658
+pseudogene	PseudoGene	"""PseudoGene""[tw]"	5441
+cpt	Current Procedural Terminology	"""Current Procedural Terminology""[tw]"	4674
+ctcae	Common Terminology Criteria for Adverse Events	"""Common Terminology Criteria for Adverse Events""[tw]"	4634
+chictr	Chinese Clinical Trial Registry	"""Chinese Clinical Trial Registry""[tw]"	4359
+icf	International Classification of Functioning, Disability and Health	"""International Classification of Functioning, Disability and Health""[tw]"	4127
+mesh	Medical Subject Headings	"""Medical Subject Headings""[tw]"	4059
+biosystems	BioSystems	"""BioSystems""[tw]"	3291
+pmr	Physical Medicine and Rehabilitation	"""Physical Medicine and Rehabilitation""[tw]"	3037
+galen	GALEN	"""GALEN""[tw]"	2977
+anzctr	Australian New Zealand Clinical Trials Registry	"""Australian New Zealand Clinical Trials Registry""[tw]"	2959
+pmc	PubMed Central	"""PubMed Central""[tw]"	2916
+cp	Cellular Phenotypes	"""Cellular Phenotypes""[tw]"	2885
+genecards	GeneCards	"""GeneCards""[tw]"	2637
+dg.anv0	Anvil	"""Anvil""[tw]"	2297
+px	ProteomeXchange	"""ProteomeXchange""[tw]"	2021
+cazy	Carbohydrate Active EnZYmes	"""Carbohydrate Active EnZYmes""[tw]"	1978
+gtex	Genotype-Tissue Expression	"""Genotype-Tissue Expression""[tw]"	1936
+icd10	International Classification of Diseases, 10th Revision	"""International Classification of Diseases, 10th Revision""[tw]"	1857
+drugbank	DrugBank	"""DrugBank""[tw]"	1762
+cas	CAS Registry Number	"""CAS Registry Number""[tw]"	1752
+pfam	Pfam	"""Pfam""[tw]"	1721
+mao	Multiple alignment	"""Multiple alignment""[tw] OR ""Multiple alignment (MAO)""[tw]"	1532
+bioproject	BioProject	"""BioProject""[tw]"	1528
+icd9	International Classification of Diseases, 9th Revision	"""International Classification of Diseases, 9th Revision""[tw]"	1444
+reactome	Reactome	"""Reactome""[tw]"	1437
+fbdv	Drosophila development	"""Drosophila development""[tw] OR ""Drosophila development (FBdv)""[tw]"	1336
+eugenes	Eukaryotic Genes	"""Eukaryotic Genes""[tw]"	1254
+atcc	American Type Culture Collection	"""American Type Culture Collection""[tw]"	1245
+irct	Iranian Registry of Clinical Trials	"""Iranian Registry of Clinical Trials""[tw]"	1153
+pina	Protein Interaction Network Analysis	"""Protein Interaction Network Analysis""[tw]"	1135
+maggot	Maggot	"""Maggot""[tw]"	1099
+unigene	UniGene	"""UniGene""[tw]"	1053
+chembl	ChEMBL	"""ChEMBL""[tw]"	1049
+chembl.compound	ChEMBL	"""ChEMBL""[tw]"	1049
+omim	Online Mendelian Inheritance in Man	"""Online Mendelian Inheritance in Man""[tw]"	1021
+csd	Cambridge Structural Database	"""Cambridge Structural Database""[tw]"	810
+mirex	mirEX	"""mirEX""[tw]"	804
+dsm4	Diagnostic and Statistical Manual of Mental Disorders (4th Edition)	"""Diagnostic and Statistical Manual of Mental Disorders (4th Edition)""[tw]"	748
+intact.molecule	IntAct Molecule	"""IntAct Molecule""[tw]"	720
+icd9cm	International Classification of Diseases, 9th Revision, Clinical Modification	"""International Classification of Diseases, 9th Revision, Clinical Modification""[tw]"	685
+thermofisher	Thermo Fisher Scientific	"""Thermo Fisher Scientific""[tw]"	675
+kaggle	Kaggle	"""Kaggle""[tw]"	638
+insdc.sra	Sequence Read Archive	"""Sequence Read Archive""[tw]"	633
+mirtarbase	mirTarBase	"""mirTarBase""[tw]"	597
+pharmgkb.pathways	PharmGKB	"""PharmGKB""[tw]"	597
+biorxiv	bioRxiv	"""bioRxiv""[tw]"	576
+cohd	MIMIC III Database	"""MIMIC III Database""[tw]"	565
+euclinicaltrials	EU Clinical Trials	"""EU Clinical Trials""[tw]"	541
+sigmaaldrich	Sigma Aldrich	"""Sigma Aldrich""[tw]"	538
+arrayexpress	ArrayExpress	"""ArrayExpress""[tw]"	523
+interpro	InterPro	"""InterPro""[tw] OR ""InterPro (interpro)""[tw]"	521
+gcst	GWAS Catalog	"""GWAS Catalog""[tw]"	504
+ncbigene	NCBI Gene	"""NCBI Gene""[tw] OR ""NCBI Gene (NCBIGene)""[tw]"	503
+hp	Human Phenotype Ontology	"""Human Phenotype Ontology""[tw] OR ""Human Phenotype Ontology (HP)""[tw]"	501
+arxiv	arXiv	"""arXiv""[tw]"	484
+genecards.geneloc	Gene Location	"""Gene Location""[tw]"	458
+dsm5	Diagnostic and Statistical Manual of Mental Disorders (5th Edition)	"""Diagnostic and Statistical Manual of Mental Disorders (5th Edition)""[tw]"	457
+biosample	BioSample	"""BioSample""[tw]"	444
+gdsc	Genomics of Drug Sensitivity in Cancer	"""Genomics of Drug Sensitivity in Cancer""[tw]"	431
+pypi	PyPI	"""PyPI""[tw]"	413
+ucsc	UCSC Genome Browser	"""UCSC Genome Browser""[tw]"	401
+hba	Human Brain Atlas	"""Human Brain Atlas""[tw] OR ""Human Brain Atlas (HBA)""[tw]"	395
+pactr	Pan African Clinical Trials Registry	"""Pan African Clinical Trials Registry""[tw]"	392
+jecfa	Joint FAO/WHO Expert Committee on Food Additives	"""Joint FAO/WHO Expert Committee on Food Additives""[tw]"	385
+prosite	PROSITE	"""PROSITE""[tw]"	379
+gnomad	Genome Aggregation Database	"""Genome Aggregation Database""[tw]"	376
+gitlab	GitLab	"""GitLab""[tw]"	372
+bitbucket	Bitbucket	"""Bitbucket""[tw]"	368
+omop	Observational Medical Outcomes Partnership	"""Observational Medical Outcomes Partnership""[tw]"	352
+geo	NCBI Gene Expression Omnibus	"""NCBI Gene Expression Omnibus""[tw]"	346
+hgmd	Human Gene Mutation Database	"""Human Gene Mutation Database""[tw]"	344
+datacommons	Data Commons	"""Data Commons""[tw]"	343
+tctr	Thai Clinical Trials Registry	"""Thai Clinical Trials Registry""[tw]"	342
+msigdb	Molecular Signatures Database	"""Molecular Signatures Database""[tw]"	342
+gbif	Global Biodiversity Information Facility	"""Global Biodiversity Information Facility""[tw]"	322
+inchi	InChI	"""InChI""[tw]"	320
+biogrid	BioGRID	"""BioGRID""[tw]"	316
+encode	Encyclopedia of DNA Elements	"""Encyclopedia of DNA Elements""[tw]"	310
+smiles	Simplified molecular-input line-entry system	"""Simplified molecular-input line-entry system""[tw]"	303
+toxoplasma	ToxoDB	"""ToxoDB""[tw]"	302
+diseaseclass	Disease Class	"""Disease Class""[tw]"	299
+iana.mediatype	Media Types	"""Media Types""[tw]"	290
+icdo	International Classification of Diseases for Oncology	"""International Classification of Diseases for Oncology""[tw]"	282
+knapsack	KNApSAcK	"""KNApSAcK""[tw]"	279
+loinc	Logical Observation Identifiers Names and Codes	"""Logical Observation Identifiers Names and Codes""[tw]"	253
+hcpcs	Healthcare Common Procedure Coding System	"""Healthcare Common Procedure Coding System""[tw]"	250
+kegg.orthology	KEGG Orthology	"""KEGG Orthology""[tw]"	247
+hmdb	Human Metabolome Database	"""Human Metabolome Database""[tw]"	238
+insdc	Nucleotide Sequence Database	"""Nucleotide Sequence Database""[tw]"	237
+rdf	Resource Description Framework	"""Resource Description Framework""[tw] OR ""Resource Description Framework (rdf)""[tw]"	227
+orphanet	Orphanet	"""Orphanet""[tw]"	226
+cran	The Comprehensive R Archive Network	"""The Comprehensive R Archive Network""[tw]"	225
+pictar	PicTar	"""PicTar""[tw]"	224
+icd10cm	International Classification of Diseases, 10th Revision, Clinical Modification	"""International Classification of Diseases, 10th Revision, Clinical Modification""[tw]"	222
+eggnog	eggNOG	"""eggNOG""[tw]"	220
+abcam	Abcam	"""Abcam""[tw]"	218
+ena.embl	European Nucleotide Archive	"""European Nucleotide Archive""[tw]"	212
+ecn	EC number	"""EC number""[tw]"	212
+atc	Anatomical Therapeutic Chemical Classification System	"""Anatomical Therapeutic Chemical Classification System""[tw]"	206
+owl	Web Ontology Language	"""Web Ontology Language""[tw] OR ""Web Ontology Language (owl)""[tw]"	198
+bioportal	BioPortal	"""BioPortal""[tw]"	197
+phenolexplorer	Phenol-Explorer	"""Phenol-Explorer""[tw]"	196
+tarbase	TarBase	"""TarBase""[tw]"	191
+carnegie.stage	Carnegie Stage	"""Carnegie Stage""[tw]"	191
+linguist	Linguist	"""Linguist""[tw]"	186
+rxnorm	RxNorm	"""RxNorm""[tw]"	185
+google.patent	Google Patents	"""Google Patents""[tw]"	167
+bindingdb	BindingDB	"""BindingDB""[tw]"	163
+plo	Plasmodium Life Cycle	"""Plasmodium Life Cycle""[tw] OR ""Plasmodium Life Cycle (PLO)""[tw]"	159
+genetree	GeneTree	"""GeneTree""[tw]"	151
+nihreporter.project	NIH RePORTER	"""NIH RePORTER""[tw]"	149
+ncbitaxon	NCBI Taxonomy	"""NCBI Taxonomy""[tw] OR ""NCBI Taxonomy (NCBITaxon)""[tw]"	146
+mgi	Mouse Genome Informatics	"""Mouse Genome Informatics""[tw] OR ""Mouse Genome Informatics (MGI)""[tw]"	141
+peptideatlas	PeptideAtlas	"""PeptideAtlas""[tw]"	140
+chemspider	ChemSpider	"""ChemSpider""[tw]"	136
+sgd	Saccharomyces Genome Database	"""Saccharomyces Genome Database""[tw]"	134
+diseasesdb	Diseases Database	"""Diseases Database""[tw]"	126
+mba	Mouse Brain Atlas	"""Mouse Brain Atlas""[tw] OR ""Mouse Brain Atlas (MBA)""[tw]"	125
+nextprot	nextProt	"""nextProt""[tw]"	124
+ncbiprotein	NCBI Protein	"""NCBI Protein""[tw] OR ""NCBI Protein (NCBIProtein)""[tw]"	124
+emea	European Medicines Evaluation Agency	"""European Medicines Evaluation Agency""[tw]"	109
+lonza	Lonza	"""Lonza""[tw]"	109
+lipidmaps	LIPID MAPS	"""LIPID MAPS""[tw]"	103
+ndc	National Drug Code	"""National Drug Code""[tw]"	102
+hprd	Human Protein Reference Database	"""Human Protein Reference Database""[tw]"	100
+pdb	PDB Structure	"""PDB Structure""[tw]"	100
+dbgap	Database of Genotypes and Phenotypes	"""Database of Genotypes and Phenotypes""[tw]"	98
+gtdb	Genome Taxonomy Database	"""Genome Taxonomy Database""[tw]"	97
+reaxys	Reaxys	"""Reaxys""[tw]"	96
+hgnc	HUGO Gene Nomenclature Committee	"""HUGO Gene Nomenclature Committee""[tw]"	96
+ecocyc	EcoCyc	"""EcoCyc""[tw]"	95
+plasmodb	PlasmoDB	"""PlasmoDB""[tw]"	92
+aaindex	AAindex	"""AAindex""[tw]"	91
+cog.category	COG Categories	"""COG Categories""[tw]"	89
+homd.taxon	Human Oral Microbiome Database	"""Human Oral Microbiome Database""[tw]"	86
+genprop	Genome Properties	"""Genome Properties""[tw]"	85
+biotools	BioTools	"""BioTools""[tw]"	85
+fma	Foundational Model of Anatomy	"""Foundational Model of Anatomy""[tw] OR ""Foundational Model of Anatomy (FMA)""[tw]"	83
+doi	Digital Object Identifier	"""Digital Object Identifier""[tw]"	83
+glycoepitope	GlycoEpitope	"""GlycoEpitope""[tw]"	82
+inn	International Nonproprietary Names	"""International Nonproprietary Names""[tw]"	80
+mastodon	Mastodon	"""Mastodon""[tw]"	80
+google.book	Google Books	"""Google Books""[tw]"	79
+ncbi.genome	NCBI Genome	"""NCBI Genome""[tw]"	72
+tair.locus	The Arabidopsis Information Resource	"""The Arabidopsis Information Resource""[tw]"	72
+apd	Antimicrobial Peptide Database	"""Antimicrobial Peptide Database""[tw]"	71
+dbd	Transcription Factor Database	"""Transcription Factor Database""[tw]"	71
+massbank	MassBank	"""MassBank""[tw]"	71
+bfo	Basic Formal Ontology	"""Basic Formal Ontology""[tw] OR ""Basic Formal Ontology (BFO)""[tw]"	71
+disprot	DisProt	"""DisProt""[tw]"	69
+prodom	ProDom	"""ProDom""[tw]"	68
+ncit	NCI Thesaurus	"""NCI Thesaurus""[tw] OR ""NCI Thesaurus (NCIT)""[tw]"	68
+biomodels.db	BioModels Database	"""BioModels Database""[tw]"	67
+ec	Enzyme Nomenclature	"""Enzyme Nomenclature""[tw] OR ""Enzyme Nomenclature (EC)""[tw]"	65
+rgd	Rat Genome Database	"""Rat Genome Database""[tw]"	65
+neuromorpho	NeuroMorpho	"""NeuroMorpho""[tw]"	65
+ratmap	Rat Genome Database	"""Rat Genome Database""[tw]"	65
+homologene	HomoloGene	"""HomoloGene""[tw]"	64
+uniprot	UniProt Protein	"""UniProt Protein""[tw]"	63
+phenx	PhenX Toolkit	"""PhenX Toolkit""[tw]"	61
+chebi	Chemical Entities of Biological Interest	"""Chemical Entities of Biological Interest""[tw] OR ""Chemical Entities of Biological Interest (CHEBI)""[tw]"	58
+aop	AOPWiki	"""AOPWiki""[tw]"	58
+ensembl	Ensembl Gene	"""Ensembl Gene""[tw]"	57
+biomagresbank	BioMagResBank	"""BioMagResBank""[tw]"	56
+cl	Cell Ontology	"""Cell Ontology""[tw] OR ""Cell Ontology (CL)""[tw]"	56
+pr	Protein Ontology	"""Protein Ontology""[tw] OR ""Protein Ontology (PR)""[tw]"	53
+slctr	Sri Lanka Clinical Trials Registry	"""Sri Lanka Clinical Trials Registry""[tw]"	53
+csa	Catalytic Site Atlas	"""Catalytic Site Atlas""[tw]"	52
+ipi	International Protein Index	"""International Protein Index""[tw]"	50
+emdb	Electron Microscopy Data Bank	"""Electron Microscopy Data Bank""[tw]"	49
+dip	Database of Interacting Proteins	"""Database of Interacting Proteins""[tw]"	49
+dailymed	DailyMed	"""DailyMed""[tw]"	49
+genedb	GeneDB	"""GeneDB""[tw]"	48
+fema	Flavor and Extract Manufacturers Association	"""Flavor and Extract Manufacturers Association""[tw]"	47
+smart	Simple Modular Architecture Research Tool	"""Simple Modular Architecture Research Tool""[tw]"	47
+complexportal	Complex Portal	"""Complex Portal""[tw]"	45
+openalex	OpenAlex	"""OpenAlex""[tw]"	44
+biotop	BioTop	"""BioTop""[tw]"	44
+seed.compound	SEED Compound	"""SEED Compound""[tw]"	43
+panther.pathway	PANTHER Pathway	"""PANTHER Pathway""[tw]"	43
+bel	Biological Expression Language	"""Biological Expression Language""[tw]"	42
+biosimulations	biosimulations	"""biosimulations""[tw]"	42
+rex	Physico-chemical process	"""Physico-chemical process""[tw] OR ""Physico-chemical process (REX)""[tw]"	41
+rnacentral	RNACentral	"""RNACentral""[tw]"	41
+allergome	Allergome	"""Allergome""[tw]"	40
+theiler	Theiler Stage	"""Theiler Stage""[tw]"	40
+epd	Eukaryotic Promoter Database	"""Eukaryotic Promoter Database""[tw]"	40
+fishbase.species	FishBase	"""FishBase""[tw]"	39
+po	Plant Ontology	"""Plant Ontology""[tw] OR ""Plant Ontology (PO)""[tw]"	38
+pathwaycommons	Pathway Commons	"""Pathway Commons""[tw]"	37
+ctis	Clinical Trials Information System	"""Clinical Trials Information System""[tw]"	37
+orthodb	OrthoDB	"""OrthoDB""[tw]"	36
+mp	Mammalian Phenotype Ontology	"""Mammalian Phenotype Ontology""[tw] OR ""Mammalian Phenotype Ontology (MP)""[tw]"	36
+omia	Online Mendelian Inheritance in Animals	"""Online Mendelian Inheritance in Animals""[tw]"	36
+icd11.code	ICD 11 Codes	"""ICD 11 Codes""[tw]"	36
+tcdb	Transporter Classification Database	"""Transporter Classification Database""[tw]"	36
+gtr	Genetic Testing Registry	"""Genetic Testing Registry""[tw]"	34
+genpept	GenPept	"""GenPept""[tw]"	34
+fsnp	F-SNP	"""F-SNP""[tw]"	34
+gaz	Gazetteer	"""Gazetteer""[tw] OR ""Gazetteer (GAZ)""[tw]"	34
+pocketome	Pocketome	"""Pocketome""[tw]"	34
+mint	Molecular Interaction Database	"""Molecular Interaction Database""[tw]"	34
+dg.f82a1a	Kids First	"""Kids First""[tw]"	33
+ndfrt	National Drug File - Reference Terminology	"""National Drug File - Reference Terminology""[tw]"	33
+dsmz	Deutsche Sammlung von Mikroorganismen und Zellkulturen	"""Deutsche Sammlung von Mikroorganismen und Zellkulturen""[tw]"	33
+kegg.genes	KEGG Genes	"""KEGG Genes""[tw]"	33
+mobidb	MobiDB	"""MobiDB""[tw]"	32
+doid	Human Disease Ontology	"""Human Disease Ontology""[tw] OR ""Human Disease Ontology (DOID)""[tw] OR ""DOID""[tw]"	32
+kegg.disease	KEGG Disease	"""KEGG Disease""[tw]"	32
+metatlas	Metabolic Atlas	"""Metabolic Atlas""[tw]"	32
+chembank	ChemBank	"""ChemBank""[tw]"	31
+mmdb	Molecular Modeling Database	"""Molecular Modeling Database""[tw]"	30
+snctp	Swiss National Clinical Trials Portal	"""Swiss National Clinical Trials Portal""[tw]"	30
+treebase	TreeBASE	"""TreeBASE""[tw]"	30
+biolegend	BioLegend	"""BioLegend""[tw]"	30
+astd	ASTD	"""ASTD""[tw]"	30
+cldb	Cell Line Database	"""Cell Line Database""[tw]"	29
+oae	Ontology of Adverse Events	"""Ontology of Adverse Events""[tw] OR ""Ontology of Adverse Events (OAE)""[tw]"	29
+pw	Pathway ontology	"""Pathway ontology""[tw] OR ""Pathway ontology (PW)""[tw]"	28
+otol	Open Tree of Life	"""Open Tree of Life""[tw]"	28
+pmdb	Protein Model Database	"""Protein Model Database""[tw]"	28
+psipar	Protein Affinity Reagents	"""Protein Affinity Reagents""[tw]"	28
+soybase	SoyBase	"""SoyBase""[tw]"	28
+ensembl.plant	Ensembl Plants	"""Ensembl Plants""[tw]"	28
+mdm	Medical Data Models	"""Medical Data Models""[tw]"	27
+ardb	Antibiotic Resistance Genes Database	"""Antibiotic Resistance Genes Database""[tw]"	27
+sdap	Structural Database of Allergenic Proteins	"""Structural Database of Allergenic Proteins""[tw]"	27
+paleodb	Paleobiology Database	"""Paleobiology Database""[tw]"	27
+ido	Infectious Disease Ontology	"""Infectious Disease Ontology""[tw] OR ""Infectious Disease Ontology (IDO)""[tw]"	27
+eolife	Encyclopedia of Life	"""Encyclopedia of Life""[tw]"	27
+beiresources	BEI Resources	"""BEI Resources""[tw]"	27
+bmrb	Biological Magnetic Resonance Data Bank	"""Biological Magnetic Resonance Data Bank""[tw]"	27
+dbpedia	DBPedia	"""DBPedia""[tw]"	27
+inchikey	InChIKey	"""InChIKey""[tw]"	27
+kegg.ligand	KEGG LIGAND	"""KEGG LIGAND""[tw]"	26
+miro	Mosquito insecticide resistance	"""Mosquito insecticide resistance""[tw] OR ""Mosquito insecticide resistance (MIRO)""[tw]"	26
+cath.domain	CATH domain	"""CATH domain""[tw]"	25
+dictybase	dictyBase	"""dictyBase""[tw]"	24
+modeldb	ModelDB	"""ModelDB""[tw]"	24
+cgd	Candida Genome Database	"""Candida Genome Database""[tw]"	24
+cdt	Current Dental Terminology	"""Current Dental Terminology""[tw]"	24
+obi	Ontology for Biomedical Investigations	"""Ontology for Biomedical Investigations""[tw] OR ""Ontology for Biomedical Investigations (OBI)""[tw]"	24
+gdc	Genomic Data Commons Data Portal	"""Genomic Data Commons Data Portal""[tw]"	23
+imdrf	International Medical Device Regulators Forum	"""International Medical Device Regulators Forum""[tw]"	23
+devtox	DevTox	"""DevTox""[tw]"	23
+tred	Transcriptional Regulatory Element Database	"""Transcriptional Regulatory Element Database""[tw]"	23
+obo	Open Biological and Biomedical Ontologies	"""Open Biological and Biomedical Ontologies""[tw] OR ""Open Biological and Biomedical Ontologies (obo)""[tw]"	22
+col	Catalogue of Life	"""Catalogue of Life""[tw]"	22
+glytoucan	GlyTouCan	"""GlyTouCan""[tw]"	22
+oma.grp	OMA Group	"""OMA Group""[tw]"	22
+efo	Experimental Factor Ontology	"""Experimental Factor Ontology""[tw] OR ""Experimental Factor Ontology (EFO)""[tw]"	22
+fda.application	FDA Application	"""FDA Application""[tw]"	22
+tritrypdb	TriTrypDB	"""TriTrypDB""[tw]"	21
+dcat	Data Catalog	"""Data Catalog""[tw] OR ""Data Catalog (dcat)""[tw]"	21
+kegg.drug	KEGG Drug	"""KEGG Drug""[tw]"	21
+classyfire	ClassyFire	"""ClassyFire""[tw]"	21
+isrctn	International Traditional Medicine Clinical Trial Registry	"""International Traditional Medicine Clinical Trial Registry""[tw]"	21
+itmctr	International Traditional Medicine Clinical Trial Registry	"""International Traditional Medicine Clinical Trial Registry""[tw]"	21
+ngl	NASA GeneLab	"""NASA GeneLab""[tw]"	20
+ppdb	Pesticide Properties DataBase	"""Pesticide Properties DataBase""[tw]"	20
+ghr	Genetics Home Reference	"""Genetics Home Reference""[tw]"	20
+jws	JWS Online	"""JWS Online""[tw]"	20
+cellosaurus	Cellosaurus	"""Cellosaurus""[tw]"	20
+sgn	Sol Genomics Network	"""Sol Genomics Network""[tw]"	20
+lincs.data	LINCS Data	"""LINCS Data""[tw]"	20
+smpdb	Small Molecule Pathway Database	"""Small Molecule Pathway Database""[tw]"	19
+swiss-model	SWISS-MODEL Repository	"""SWISS-MODEL Repository""[tw]"	19
+dg.6vts	JCOIN	"""JCOIN""[tw]"	19
+ro	Relation Ontology	"""Relation Ontology""[tw] OR ""Relation Ontology (RO)""[tw]"	19
+kegg.module	KEGG Module	"""KEGG Module""[tw]"	19
+uniparc	UniProt Archive	"""UniProt Archive""[tw]"	19
+antifam	AntiFam	"""AntiFam""[tw]"	19
+gold	Genomes Online Database	"""Genomes Online Database""[tw]"	19
+lipro	Lipid Ontology	"""Lipid Ontology""[tw] OR ""Lipid Ontology (LIPRO)""[tw]"	19
+greengenes	16S rRNA gene database	"""16S rRNA gene database""[tw]"	18
+rtecs	Registry of Toxic Effects of Chemical Substances	"""Registry of Toxic Effects of Chemical Substances""[tw]"	18
+nord	National Organization for Rare Disorders	"""National Organization for Rare Disorders""[tw]"	18
+enzo	Enzo Life Sciences	"""Enzo Life Sciences""[tw]"	18
+imex	International Molecular Exchange	"""International Molecular Exchange""[tw]"	18
+pombase	PomBase	"""PomBase""[tw]"	18
+seed.subsystem	SEED Subsystem	"""SEED Subsystem""[tw]"	18
+bdsc	Bloomington Drosophila Stock Center	"""Bloomington Drosophila Stock Center""[tw]"	17
+treefam	TreeFam	"""TreeFam""[tw]"	17
+aro	Antibiotic Resistance Ontology	"""Antibiotic Resistance Ontology""[tw] OR ""Antibiotic Resistance Ontology (ARO)""[tw]"	17
+ncbibook	NCBI Bookshelf	"""NCBI Bookshelf""[tw]"	17
+cido	Coronavirus Infectious Disease Ontology	"""Coronavirus Infectious Disease Ontology""[tw] OR ""Coronavirus Infectious Disease Ontology (CIDO)""[tw]"	17
+merops.family	MEROPS Family	"""MEROPS Family""[tw]"	17
+fungorum	Index Fungorum	"""Index Fungorum""[tw]"	17
+hsapdv	Human Developmental Stages	"""Human Developmental Stages""[tw] OR ""Human Developmental Stages (HsapDv)""[tw]"	17
+d1id	DataONE	"""DataONE""[tw]"	17
+pseudomonas	Pseudomonas Genome Database	"""Pseudomonas Genome Database""[tw]"	17
+subtilist	Bacillus subtilis genome sequencing project	"""Bacillus subtilis genome sequencing project""[tw]"	17
+chemdb	ChemDB	"""ChemDB""[tw]"	17
+hao	Hymenoptera Anatomy Ontology	"""Hymenoptera Anatomy Ontology""[tw] OR ""Hymenoptera Anatomy Ontology (HAO)""[tw]"	16
+grin	Germplasm Resources Information Network	"""Germplasm Resources Information Network""[tw]"	16
+plant_reactome	Plant Reactome	"""Plant Reactome""[tw]"	16
+planttfdb	Plant Transcription Factor Database	"""Plant Transcription Factor Database""[tw]"	16
+cog	Cluster of orthologous genes	"""Cluster of orthologous genes""[tw]"	16
+hsdb	Hazardous Substances Data Bank	"""Hazardous Substances Data Bank""[tw]"	16
+graingenes.reference	GrainGenes	"""GrainGenes""[tw]"	16
+graingenes.symbol	GrainGenes	"""GrainGenes""[tw]"	16
+chemidplus	ChemIDplus	"""ChemIDplus""[tw]"	16
+synbip.sbp	Synthetic Binding Protein	"""Synthetic Binding Protein""[tw]"	16
+bioregistry	Bioregistry	"""Bioregistry""[tw]"	16
+salk	Salk Institute for Biological Studies	"""Salk Institute for Biological Studies""[tw]"	16
+biocarta.pathway	BioCarta Pathway	"""BioCarta Pathway""[tw]"	15
+th	Terminologia Histologica	"""Terminologia Histologica""[tw]"	15
+antibodyregistry	Antibody Registry	"""Antibody Registry""[tw]"	15
+hgvs	Human Genome Variation Society Nomenclature	"""Human Genome Variation Society Nomenclature""[tw]"	15
+elm	Eukaryotic Linear Motif Resource	"""Eukaryotic Linear Motif Resource""[tw]"	15
+pharmvar	Pharmacogene Variation Consortium	"""Pharmacogene Variation Consortium""[tw]"	15
+dmba	Developing Mouse Brain Atlas	"""Developing Mouse Brain Atlas""[tw] OR ""Developing Mouse Brain Atlas (DMBA)""[tw]"	15
+clo	Cell Line Ontology	"""Cell Line Ontology""[tw] OR ""Cell Line Ontology (CLO)""[tw]"	15
+drsc	Drosophila RNAi Screening Center	"""Drosophila RNAi Screening Center""[tw]"	14
+hpscreg	Human Pluripotent Stem Cell Registry	"""Human Pluripotent Stem Cell Registry""[tw]"	14
+orphanet.ordo	Orphanet Rare Disease Ontology	"""Orphanet Rare Disease Ontology""[tw]"	14
+gpmdb	Global Proteome Machine Database	"""Global Proteome Machine Database""[tw]"	14
+subtiwiki	SubtiWiki	"""SubtiWiki""[tw]"	14
+ndex	Network Data Exchange	"""Network Data Exchange""[tw]"	14
+cpc	Cooperative Patent Classification	"""Cooperative Patent Classification""[tw]"	14
+kegg.glycan	KEGG Glycan	"""KEGG Glycan""[tw]"	14
+skos	Simple Knowledge Organization System	"""Simple Knowledge Organization System""[tw] OR ""Simple Knowledge Organization System (skos)""[tw]"	14
+panorama	Panorama Public	"""Panorama Public""[tw]"	14
+hpm.protein	Human Proteome Map	"""Human Proteome Map""[tw]"	14
+cameo	Continuous Automated Model Evaluation	"""Continuous Automated Model Evaluation""[tw]"	14
+ricegap	Rice Genome Annotation Project	"""Rice Genome Annotation Project""[tw]"	14
+rgap	Rice Genome Annotation Project	"""Rice Genome Annotation Project""[tw]"	14
+schema	Schema.org	"""Schema.org""[tw] OR ""Schema.org (schema)""[tw]"	14
+mtbd	Mouse Tumor Biology Database	"""Mouse Tumor Biology Database""[tw]"	14
+kcris	Korean Clinical Research Information Service	"""Korean Clinical Research Information Service""[tw]"	14
+drugcentral	Drug Central	"""Drug Central""[tw]"	13
+autdb	AutDB	"""AutDB""[tw]"	13
+genewiki	Gene Wiki	"""Gene Wiki""[tw]"	13
+protege	Protege Ontology	"""Protege Ontology""[tw]"	13
+epso	Epilepsy and Seizure Ontology	"""Epilepsy and Seizure Ontology""[tw]"	13
+loggerhead	Loggerhead nesting	"""Loggerhead nesting""[tw] OR ""Loggerhead nesting (LOGGERHEAD)""[tw]"	13
+fungidb	FungiDB	"""FungiDB""[tw]"	13
+kegg.compound	KEGG Compound	"""KEGG Compound""[tw]"	13
+snp500cancer	SNP500Cancer	"""SNP500Cancer""[tw]"	12
+pdb-ccd	Chemical Component Dictionary	"""Chemical Component Dictionary""[tw]"	12
+cryptodb	CryptoDB	"""CryptoDB""[tw]"	12
+streptomedb	StreptomeDB	"""StreptomeDB""[tw]"	12
+ordb	Olfactory Receptor Database	"""Olfactory Receptor Database""[tw]"	12
+giardiadb	GiardiaDB	"""GiardiaDB""[tw]"	12
+pgs	Polygenic Score Catalog	"""Polygenic Score Catalog""[tw]"	12
+itis	Integrated Taxonomic Information System	"""Integrated Taxonomic Information System""[tw]"	12
+medgen	Human Medical Genetics	"""Human Medical Genetics""[tw]"	12
+issn	International Standard Serial Number	"""International Standard Serial Number""[tw]"	12
+bao	BioAssay Ontology	"""BioAssay Ontology""[tw]"	12
+dg.4503	BioData Catalyst	"""BioData Catalyst""[tw]"	12
+kegg.brite	KEGG BRITE	"""KEGG BRITE""[tw]"	12
+pmp	Protein Model Portal	"""Protein Model Portal""[tw]"	12
+dg5b0d	BloodPAC	"""BloodPAC""[tw]"	12
+imsr_em	European Mouse Mutant Archive	"""European Mouse Mutant Archive""[tw]"	11
+fbsp	Fly taxonomy	"""Fly taxonomy""[tw] OR ""Fly taxonomy (FBSP)""[tw]"	11
+gard	Genetic and Rare Diseases Information Center	"""Genetic and Rare Diseases Information Center""[tw]"	11
+neuronames	NeuroNames	"""NeuroNames""[tw]"	11
+rapdb.transcript	Rice annotation Project database	"""Rice annotation Project database""[tw]"	11
+ped	Protein Ensemble Database	"""Protein Ensemble Database""[tw]"	11
+rdfs	RDF Schema	"""RDF Schema""[tw] OR ""RDF Schema (rdfs)""[tw]"	11
+flowrepository	FlowRepository	"""FlowRepository""[tw]"	11
+icd10pcs	International Classification of Diseases, 10th Revision, Procedure Coding System	"""International Classification of Diseases, 10th Revision, Procedure Coding System""[tw]"	11
+peroxibase	Peroxibase	"""Peroxibase""[tw]"	11
+lncipedia	LNCipedia	"""LNCipedia""[tw]"	11
+glycomedb	GlycomeDB	"""GlycomeDB""[tw]"	11
+mondo	Mondo Disease Ontology	"""Mondo Disease Ontology""[tw] OR ""Mondo Disease Ontology (MONDO)""[tw]"	11
+mge	Aclame	"""Aclame""[tw]"	11
+oncotree	OncoTree	"""OncoTree""[tw]"	11
+mmusdv	Mouse Developmental Stages	"""Mouse Developmental Stages""[tw] OR ""Mouse Developmental Stages (MmusDv)""[tw]"	11
+brenda	BRENDA Enzyme	"""BRENDA Enzyme""[tw]"	11
+kegg.pathway	KEGG Pathways Database	"""KEGG Pathways Database""[tw]"	11
+kegg.genome	KEGG Genome	"""KEGG Genome""[tw]"	11
+rnamods	RNA Modification Database	"""RNA Modification Database""[tw]"	11
+transportdb	TransportDB	"""TransportDB""[tw]"	10
+matrixdb	MatrixDB	"""MatrixDB""[tw]"	10
+pgx	Progenetix	"""Progenetix""[tw]"	10
+phrr	Philippine Health Research Registry	"""Philippine Health Research Registry""[tw]"	10
+phylomedb	PhylomeDB	"""PhylomeDB""[tw]"	10
+iao	Information Artifact Ontology	"""Information Artifact Ontology""[tw] OR ""Information Artifact Ontology (IAO)""[tw]"	10
+credit	Contributor Roles Taxonomy	"""Contributor Roles Taxonomy""[tw]"	10
+gexo	Gene Expression Ontology	"""Gene Expression Ontology""[tw]"	10
+geonames	GeoNames	"""GeoNames""[tw]"	9
+bioschemas	BioSchemas	"""BioSchemas""[tw]"	9
+echinobase	Echinobase	"""Echinobase""[tw]"	9
+mfoem	Emotion Ontology	"""Emotion Ontology""[tw] OR ""Emotion Ontology (MFOEM)""[tw]"	9
+bacdive	BacDive	"""BacDive""[tw]"	9
+conoserver	ConoServer	"""ConoServer""[tw]"	9
+merriamwebster	Merriam Webster Dictionary	"""Merriam Webster Dictionary""[tw]"	9
+nist	NIST Chemistry WebBook	"""NIST Chemistry WebBook""[tw]"	9
+pathoplant	PathoPlant®	"""PathoPlant®""[tw]"	9
+bactibase	Bactibase	"""Bactibase""[tw]"	8
+nbrc	NITE Biological Resource Center	"""NITE Biological Resource Center""[tw]"	8
+signaling-gateway	Signaling Gateway	"""Signaling Gateway""[tw]"	8
+tgd	Tetrahymena Genome Database	"""Tetrahymena Genome Database""[tw]"	8
+nucleardb	NucleaRDB	"""NucleaRDB""[tw]"	8
+gmd	Golm Metabolome Database	"""Golm Metabolome Database""[tw]"	8
+pfam.clan	Pfam Clans	"""Pfam Clans""[tw]"	8
+swissregulon	SwissRegulon	"""SwissRegulon""[tw]"	8
+fairsharing	FAIRsharing	"""FAIRsharing""[tw]"	8
+cath.superfamily	CATH superfamily	"""CATH superfamily""[tw]"	8
+bionumbers	BioNumbers	"""BioNumbers""[tw]"	8
+signor	Signaling Network Open Resource	"""Signaling Network Open Resource""[tw]"	8
+mzspec	Universal Spectrum Identifier	"""Universal Spectrum Identifier""[tw]"	8
+sbo	Systems Biology Ontology	"""Systems Biology Ontology""[tw] OR ""Systems Biology Ontology (SBO)""[tw]"	8
+envo	Environment Ontology	"""Environment Ontology""[tw] OR ""Environment Ontology (ENVO)""[tw]"	8
+biostudies	BioStudies database	"""BioStudies database""[tw]"	8
+cgsc	Coli Genetic Stock Center	"""Coli Genetic Stock Center""[tw]"	7
+crisprdb	CRISPRdb	"""CRISPRdb""[tw]"	7
+idr	Image Data Resource	"""Image Data Resource""[tw]"	7
+ivdb	Influenza Virus Database	"""Influenza Virus Database""[tw]"	7
+imsr_tac	Taconic Biosciences	"""Taconic Biosciences""[tw]"	7
+imgt.primerdb	IMGT/PRIMER-DB	"""IMGT/PRIMER-DB""[tw]"	7
+ncim	NCI Metathesaurus	"""NCI Metathesaurus""[tw]"	7
+antweb	AntWeb	"""AntWeb""[tw]"	7
+genatlas	Genatlas	"""Genatlas""[tw]"	7
+addgene	Addgene Plasmid Repository	"""Addgene Plasmid Repository""[tw]"	7
+pfr	Proteoform Atlas	"""Proteoform Atlas""[tw]"	7
+caro	Common Anatomy Reference Ontology	"""Common Anatomy Reference Ontology""[tw] OR ""Common Anatomy Reference Ontology (CARO)""[tw]"	7
+epio	Epilepsy Ontology	"""Epilepsy Ontology""[tw] OR ""Epilepsy Ontology (EPIO)""[tw]"	7
+glycopost	GlycoPOST	"""GlycoPOST""[tw]"	7
+archdb	ArchDB	"""ArchDB""[tw]"	7
+emmo.cif	Crystallographic Information Framework	"""Crystallographic Information Framework""[tw]"	7
+osf	Open Science Framework ID	"""Open Science Framework ID""[tw]"	7
+eaglei	eagle-i	"""eagle-i""[tw]"	6
+chemicalbook	Chemical Book	"""Chemical Book""[tw]"	6
+sitex	SitEx	"""SitEx""[tw]"	6
+unicarbdb	UniCarb-DB	"""UniCarb-DB""[tw]"	6
+maxo	Medical Action Ontology	"""Medical Action Ontology""[tw] OR ""Medical Action Ontology (MAXO)""[tw]"	6
+pkdb	PK-DB	"""PK-DB""[tw]"	6
+nxr	National Xenopus Resource	"""National Xenopus Resource""[tw]"	6
+exo	Exposure ontology	"""Exposure ontology""[tw] OR ""Exposure ontology (ExO)""[tw]"	6
+aspgd.locus	Aspergillus Genome Database	"""Aspergillus Genome Database""[tw]"	6
+ino	Interaction Network Ontology	"""Interaction Network Ontology""[tw] OR ""Interaction Network Ontology (INO)""[tw]"	6
+isbn	International Standard Book Number	"""International Standard Book Number""[tw]"	6
+envipath	enviPath	"""enviPath""[tw]"	6
+lncbook	LncBook	"""LncBook""[tw]"	6
+gear	Gene Expression Analysis Resource	"""Gene Expression Analysis Resource""[tw]"	6
+arachnoserver	ArachnoServer	"""ArachnoServer""[tw]"	6
+refseq	Reference Sequence Collection	"""Reference Sequence Collection""[tw]"	6
+gfo	General Formal Ontology	"""General Formal Ontology""[tw]"	6
+ovae	Ontology of Vaccine Adverse Events	"""Ontology of Vaccine Adverse Events""[tw] OR ""Ontology of Vaccine Adverse Events (OVAE)""[tw]"	6
+collagenmutdb	Collagen Mutation Database	"""Collagen Mutation Database""[tw]"	6
+rnao	RNA ontology	"""RNA ontology""[tw] OR ""RNA ontology (RNAO)""[tw]"	6
+topfind	TopFind	"""TopFind""[tw]"	6
+pride.project	PRIDE Project	"""PRIDE Project""[tw]"	6
+ddc	Dewey Decimal Classification	"""Dewey Decimal Classification""[tw]"	6
+cco	Cell Cycle Ontology	"""Cell Cycle Ontology""[tw]"	6
+myco	MycoBrowser	"""MycoBrowser""[tw]"	6
+edam	EDAM Ontology	"""EDAM Ontology""[tw]"	6
+ico	Informed Consent Ontology	"""Informed Consent Ontology""[tw] OR ""Informed Consent Ontology (ICO)""[tw]"	5
+pathguide	Pathguide	"""Pathguide""[tw]"	5
+igsr	International Genome Sample Resource	"""International Genome Sample Resource""[tw]"	5
+scdo	Sickle Cell Disease Ontology	"""Sickle Cell Disease Ontology""[tw] OR ""Sickle Cell Disease Ontology (SCDO)""[tw]"	5
+pathbank	PathBank	"""PathBank""[tw]"	5
+symp	Symptom Ontology	"""Symptom Ontology""[tw] OR ""Symptom Ontology (SYMP)""[tw]"	5
+gnpis	GnpIS	"""GnpIS""[tw]"	5
+araport	Arabidopsis Information Portal	"""Arabidopsis Information Portal""[tw]"	5
+goa	Gene Ontology Annotation Database	"""Gene Ontology Annotation Database""[tw]"	5
+fyler	Fyler	"""Fyler""[tw]"	5
+irefweb	iRefWeb	"""iRefWeb""[tw]"	5
+ihw	International Histocompatibility Workshop cell lines	"""International Histocompatibility Workshop cell lines""[tw]"	5
+mesh.vocab	Medical Subject Headings Vocabulary	"""Medical Subject Headings Vocabulary""[tw]"	5
+trichdb	TrichDB	"""TrichDB""[tw]"	5
+merops.clan	MEROPS Clan	"""MEROPS Clan""[tw]"	5
+gudmap	Genitourinary Development Molecular Anatomy Project	"""Genitourinary Development Molecular Anatomy Project""[tw]"	5
+lcsh	Library of Congress Subject Headings	"""Library of Congress Subject Headings""[tw]"	5
+pmap.cutdb	CutDB	"""CutDB""[tw]"	5
+eurofir	European Food Information Resource Network	"""European Food Information Resource Network""[tw]"	5
+did	Decentralized Identifier	"""Decentralized Identifier""[tw]"	5
+splicenest	SpliceNest	"""SpliceNest""[tw]"	5
+asrp	Arabidopsis Small RNA Project	"""Arabidopsis Small RNA Project""[tw]"	5
+mpath	Mouse pathology ontology	"""Mouse pathology ontology""[tw] OR ""Mouse pathology ontology (MPATH)""[tw]"	5
+trnadbce	tRNA Gene Database	"""tRNA Gene Database""[tw]"	5
+arrayexpress.platform	ArrayExpress Platform	"""ArrayExpress Platform""[tw]"	4
+nsf.award	National Science Foundation Award	"""National Science Foundation Award""[tw]"	4
+limore	Liver Cancer Model Repository	"""Liver Cancer Model Repository""[tw]"	4
+idomal	Malaria Ontology	"""Malaria Ontology""[tw] OR ""Malaria Ontology (IDOMAL)""[tw]"	4
+sugarbind	SugarBind	"""SugarBind""[tw]"	4
+neurondb	NeuronDB	"""NeuronDB""[tw]"	4
+ensembl.bacteria	Ensembl Bacteria	"""Ensembl Bacteria""[tw]"	4
+lipidbank	LipidBank	"""LipidBank""[tw]"	4
+mimodb	MimoDB	"""MimoDB""[tw]"	4
+agsd	Animal Genome Size Database	"""Animal Genome Size Database""[tw]"	4
+foaf	Friend of a Friend	"""Friend of a Friend""[tw] OR ""Friend of a Friend (foaf)""[tw]"	4
+dgrc	Drosophila Genomics Resource Center	"""Drosophila Genomics Resource Center""[tw]"	4
+clingen.curation	ClinGen Curation	"""ClinGen Curation""[tw]"	4
+amoebadb	AmoebaDB	"""AmoebaDB""[tw]"	4
+biosimulators	BioSimulators	"""BioSimulators""[tw]"	4
+ado	Alzheimer's Disease Ontology	"""Alzheimer's Disease Ontology""[tw] OR ""Alzheimer's Disease Ontology (ADO)""[tw]"	4
+re3data	re3data	"""re3data""[tw]"	4
+degradome	Degradome Database	"""Degradome Database""[tw]"	4
+bcbc	Beta Cell Biology Consortium	"""Beta Cell Biology Consortium""[tw]"	4
+otl	Oryza Tag Line	"""Oryza Tag Line""[tw]"	4
+rubygems	RubyGems	"""RubyGems""[tw]"	4
+agricola	Agricultural Online Access	"""Agricultural Online Access""[tw]"	4
+to	Plant Trait Ontology	"""Plant Trait Ontology""[tw] OR ""Plant Trait Ontology (TO)""[tw]"	4
+depod	Human Dephosphorylation Database	"""Human Dephosphorylation Database""[tw]"	4
+te	Terminologia Embryologica	"""Terminologia Embryologica""[tw]"	4
+cito	Citation Typing Ontology	"""Citation Typing Ontology""[tw] OR ""Citation Typing Ontology (CiTO)""[tw]"	4
+opm	Orientations of Proteins in Membranes Database	"""Orientations of Proteins in Membranes Database""[tw]"	4
+crates	Crates.io	"""Crates.io""[tw]"	4
+medlineplus	MedlinePlus Health Topics	"""MedlinePlus Health Topics""[tw]"	3
+glottolog	Glottolog	"""Glottolog""[tw]"	3
+tcb	Tick Cell Biobank	"""Tick Cell Biobank""[tw]"	3
+arraymap	ArrayMap	"""ArrayMap""[tw]"	3
+pdc.study	Proteomic Data Commons	"""Proteomic Data Commons""[tw]"	3
+markerdb	MarkerDB	"""MarkerDB""[tw]"	3
+mmsinc	MMsINC	"""MMsINC""[tw]"	3
+cog.pathway	COG Pathways	"""COG Pathways""[tw]"	3
+lincs.smallmolecule	LINCS Small Molecule	"""LINCS Small Molecule""[tw]"	3
+icepo	Ion Channel Electrophysiology Ontology	"""Ion Channel Electrophysiology Ontology""[tw]"	3
+bootstrep	Gene Regulation Ontology	"""Gene Regulation Ontology""[tw] OR ""Gene Regulation Ontology (BOOTSTREP)""[tw]"	3
+gro	Gene Regulation Ontology	"""Gene Regulation Ontology""[tw]"	3
+mmp.ref	MarRef	"""MarRef""[tw]"	3
+biocompute	Biocompute Object	"""Biocompute Object""[tw]"	3
+mirnest	miRNEST	"""miRNEST""[tw]"	3
+biolink	Biolink Model	"""Biolink Model""[tw] OR ""Biolink Model (biolink)""[tw]"	3
+ssn	Semantic Sensor Network Ontology	"""Semantic Sensor Network Ontology""[tw]"	3
+lgic	Ligand-Gated Ion Channel database	"""Ligand-Gated Ion Channel database""[tw]"	3
+agsc	Ambystoma Genetic Stock Center	"""Ambystoma Genetic Stock Center""[tw]"	3
+cheminf	Chemical Information Ontology	"""Chemical Information Ontology""[tw] OR ""Chemical Information Ontology (CHEMINF)""[tw]"	3
+ppo	Plant Phenology Ontology	"""Plant Phenology Ontology""[tw] OR ""Plant Phenology Ontology (PPO)""[tw]"	3
+clingen.allele	ClinGen Allele Registry	"""ClinGen Allele Registry""[tw]"	3
+dto	Drug Target Ontology	"""Drug Target Ontology""[tw]"	3
+absd	AntiBody Sequence Database	"""AntiBody Sequence Database""[tw]"	3
+togovar	TogoVar	"""TogoVar""[tw]"	3
+dwc	Darwin Core Terms	"""Darwin Core Terms""[tw]"	3
+proglyc	ProGlycProt	"""ProGlycProt""[tw]"	3
+molbase.sheffield	MolBase	"""MolBase""[tw]"	3
+molbase	Molbase	"""Molbase""[tw]"	3
+probesanddrugs	Probes and Drugs	"""Probes and Drugs""[tw]"	3
+npo	NanoParticle Ontology	"""NanoParticle Ontology""[tw]"	3
+leafsnap	Leafsnap	"""Leafsnap""[tw]"	3
+oecd.template	OECD Harmonised Templates	"""OECD Harmonised Templates""[tw]"	3
+jrct	Japan Registry of Clinical Trials	"""Japan Registry of Clinical Trials""[tw]"	3
+glycomapsdb	GlycoMapsDB	"""GlycoMapsDB""[tw]"	3
+sh	Shapes Constraint Language	"""Shapes Constraint Language""[tw] OR ""Shapes Constraint Language (sh)""[tw]"	3
+polbase	PolBase	"""PolBase""[tw]"	2
+rrid	Research Resource Identification	"""Research Resource Identification""[tw]"	2
+commoncoreontology	Common Core Ontologies	"""Common Core Ontologies""[tw]"	2
+clb	ChecklistBank	"""ChecklistBank""[tw]"	2
+mth	Metathesaurus Names	"""Metathesaurus Names""[tw]"	2
+pephub	PEPhub	"""PEPhub""[tw]"	2
+orth	Orthology Ontology	"""Orthology Ontology""[tw]"	2
+genbase	GenBase	"""GenBase""[tw]"	2
+corrdb	CorrDB	"""CorrDB""[tw]"	2
+molmedb	MolMeDB	"""MolMeDB""[tw]"	2
+shibase	ShiBASE	"""ShiBASE""[tw]"	2
+cro	Contributor Role Ontology	"""Contributor Role Ontology""[tw] OR ""Contributor Role Ontology (CRO)""[tw]"	2
+ribocentre	Ribocentre	"""Ribocentre""[tw]"	2
+tngb	Telethon Network of Genetic Biobanks	"""Telethon Network of Genetic Biobanks""[tw]"	2
+colonatlas	Colorectal Cancer Atlas	"""Colorectal Cancer Atlas""[tw]"	2
+grassbase	GrassBase	"""GrassBase""[tw]"	2
+biomodels.kisao	Kinetic Simulation Algorithm Ontology	"""Kinetic Simulation Algorithm Ontology""[tw] OR ""Kinetic Simulation Algorithm Ontology (biomodels.kisao)""[tw]"	2
+addicto	Addiction Ontology	"""Addiction Ontology""[tw]"	2
+swo	Software ontology	"""Software ontology""[tw] OR ""Software ontology (SWO)""[tw]"	2
+spbase	SpBase	"""SpBase""[tw]"	2
+esldb	eukaryotic Subcellular Localization database	"""eukaryotic Subcellular Localization database""[tw]"	2
+glycosciencesdb	Glycosciences.DB	"""Glycosciences.DB""[tw]"	2
+mex	Metabolome Express	"""Metabolome Express""[tw]"	2
+piroplasma	PiroplasmaDB	"""PiroplasmaDB""[tw]"	2
+rs	Rat Strain Ontology	"""Rat Strain Ontology""[tw] OR ""Rat Strain Ontology (RS)""[tw]"	2
+sisu	Sequencing Initiative Suomi	"""Sequencing Initiative Suomi""[tw]"	2
+lincs.cell	LINCS Cell	"""LINCS Cell""[tw]"	2
+hssp	Database of homology-derived secondary structure of proteins	"""Database of homology-derived secondary structure of proteins""[tw]"	1
+microsporidia	MicrosporidiaDB	"""MicrosporidiaDB""[tw]"	1
+ontorxn	OntoRXN	"""OntoRXN""[tw]"	1
+fcb	FAIR Cookbook	"""FAIR Cookbook""[tw]"	1
+pdb.ligand	PDB ligand	"""PDB ligand""[tw]"	1
+fplx	FamPlex	"""FamPlex""[tw]"	1
+ucum	Unified Code for Units of Measure	"""Unified Code for Units of Measure""[tw]"	1
+ferroliganddb	FerroLigandDB	"""FerroLigandDB""[tw]"	1
+uberon	Uber Anatomy Ontology	"""Uber Anatomy Ontology""[tw] OR ""Uber Anatomy Ontology (UBERON)""[tw]"	1
+go.model	Gene Ontology Causal Activity Model	"""Gene Ontology Causal Activity Model""[tw]"	1
+mesh.2012	MeSH 2012	"""MeSH 2012""[tw]"	1
+treehub	TreeHub	"""TreeHub""[tw]"	1
+genefarm	GeneFarm	"""GeneFarm""[tw]"	1
+pennsieve	Pennsieve	"""Pennsieve""[tw]"	1
+ohmi	Ontology of Host-Microbiome Interactions	"""Ontology of Host-Microbiome Interactions""[tw] OR ""Ontology of Host-Microbiome Interactions (OHMI)""[tw]"	1
+mmp.db	MarDB	"""MarDB""[tw]"	1
+ctd.chemical	CTD Chemical	"""CTD Chemical""[tw]"	1
+string	Search Tool for Retrieval of Interacting Genes/Proteins	"""Search Tool for Retrieval of Interacting Genes/Proteins""[tw]"	1
+protclustdb	ProtClustDB	"""ProtClustDB""[tw]"	1
+mmp.cat	MarCat	"""MarCat""[tw]"	1
+diabetesomic	DiabetesOmic	"""DiabetesOmic""[tw]"	1
+shareloc	ShareLoc	"""ShareLoc""[tw]"	1
+kegg.reaction	KEGG Reaction	"""KEGG Reaction""[tw]"	1
+t3db	Toxin and Toxin Target Database	"""Toxin and Toxin Target Database""[tw]"	1
+kegg.enzyme	KEGG Enzyme	"""KEGG Enzyme""[tw]"	1
+rebec	Brazilian Registry of Clinical Trials	"""Brazilian Registry of Clinical Trials""[tw]"	1
+scretf	ScerTF	"""ScerTF""[tw]"	1
+kclb	Korean Cell Line Bank	"""Korean Cell Line Bank""[tw]"	1
+scancerrna	SCancerRNA	"""SCancerRNA""[tw]"	1
+multicellds	MultiCellDS	"""MultiCellDS""[tw]"	1
+integbio	Integbio	"""Integbio""[tw]"	1
+repec	Peruvian Clinical Trial Registry	"""Peruvian Clinical Trial Registry""[tw]"	1
+interlex	InterLex	"""InterLex""[tw]"	1
+jcm	Japan Collection of Microorganisms	"""Japan Collection of Microorganisms""[tw]"	1
+biodolphin	BioDolphin	"""BioDolphin""[tw]"	1
+cvdo	Cardiovascular Disease Ontology	"""Cardiovascular Disease Ontology""[tw] OR ""Cardiovascular Disease Ontology (CVDO)""[tw]"	1
+cubedb	Cube db	"""Cube db""[tw]"	1
+biofactoid	Biofactoid	"""Biofactoid""[tw]"	1
+runbiosimulations	runBioSimulations	"""runBioSimulations""[tw]"	1
+rrrc	Rat Resource and Research Center	"""Rat Resource and Research Center""[tw]"	1
+biokc	BioKC	"""BioKC""[tw]"	1
+namerxn	NameRXN	"""NameRXN""[tw]"	1
+n2t	Name-to-Thing	"""Name-to-Thing""[tw]"	1
+istransbase	ISTransbase	"""ISTransbase""[tw]"	1
+ror	Research Organization Registry	"""Research Organization Registry""[tw]"	1
+roleo	Role Ontology	"""Role Ontology""[tw] OR ""Role Ontology (RoleO)""[tw]"	1
+corum	Comprehensive Resource of Mammalian protein complexes	"""Comprehensive Resource of Mammalian protein complexes""[tw]"	1
+nddf	National Drug Data File	"""National Drug Data File""[tw]"	1
+rnaloops	RNAloops	"""RNAloops""[tw]"	1
+storedb	Store DB	"""Store DB""[tw]"	1
+caps	CAPS-DB	"""CAPS-DB""[tw]"	1
+snornabase	snoRNABase	"""snoRNABase""[tw]"	1
+ligandbook	LigandBook	"""LigandBook""[tw]"	1
+ligandbox	LigandBox	"""LigandBox""[tw]"	1
+mipmod	MIPModDB	"""MIPModDB""[tw]"	1
+phosphosite.protein	PhosphoSite Protein	"""PhosphoSite Protein""[tw]"	1
+asteraceaegd.plant	Asteraceae Genome Database	"""Asteraceae Genome Database""[tw]"	1
+spike.map	SPIKE Map	"""SPIKE Map""[tw]"	1
+pmap.substratedb	SubstrateDB	"""SubstrateDB""[tw]"	1
+mmrrc	Mutant Mouse Resource and Research Centers	"""Mutant Mouse Resource and Research Centers""[tw]"	1
+asteraceaegd.genome	Asteraceae Genome Database	"""Asteraceae Genome Database""[tw]"	1
+linkml	LinkML	"""LinkML""[tw] OR ""LinkML (linkml)""[tw]"	1
+poro	Porifera Ontology	"""Porifera Ontology""[tw] OR ""Porifera Ontology (PORO)""[tw]"	1
+ecolexicon	EcoLexicon	"""EcoLexicon""[tw]"	1
+phagedive	PhageDive	"""PhageDive""[tw]"	1
+oban	Open Biomedical Annotations	"""Open Biomedical Annotations""[tw]"	0
+mgnifystudy	MGnify Study	"""MGnify Study""[tw]"	0
+multicellds.cell_line	MultiCellDS Digital Cell Line	"""MultiCellDS Digital Cell Line""[tw]"	0
+norine	Nonribosomal Peptides Database	"""Nonribosomal Peptides Database""[tw]"	0
+obci	Ontology for Biomarkers of Clinical Interest	"""Ontology for Biomarkers of Clinical Interest""[tw]"	0
+novus	Novus Biologicals	"""Novus Biologicals""[tw]"	0
+multicellds.collection	MultiCellDS collection	"""MultiCellDS collection""[tw]"	0
+multicellds.snapshot	MultiCellDS Digital snapshot	"""MultiCellDS Digital snapshot""[tw]"	0
+mvx	Manufacturers of Vaccines	"""Manufacturers of Vaccines""[tw]"	0
+mixs	Minimal Information about any Sequence	"""Minimal Information about any Sequence""[tw]"	0
+obcs	Ontology of Biological and Clinical Statistics	"""Ontology of Biological and Clinical Statistics""[tw] OR ""Ontology of Biological and Clinical Statistics (OBCS)""[tw]"	0
+mw.project	Metabolomics Workbench Project	"""Metabolomics Workbench Project""[tw]"	0
+mmmp.biomaps	Melanoma Molecular Map Project Biomaps	"""Melanoma Molecular Map Project Biomaps""[tw]"	0
+oba	Ontology of Biological Attributes	"""Ontology of Biological Attributes""[tw] OR ""Ontology of Biological Attributes (OBA)""[tw]"	0
+mw.study	Metabolomics Workbench Study	"""Metabolomics Workbench Study""[tw]"	0
+noncodev4.rna	NONCODE v4 Transcript	"""NONCODE v4 Transcript""[tw]"	0
+mi	Molecular Interactions Controlled Vocabulary	"""Molecular Interactions Controlled Vocabulary""[tw] OR ""Molecular Interactions Controlled Vocabulary (MI)""[tw]"	0
+miaa	Minimal Information About Anatomy ontology	"""Minimal Information About Anatomy ontology""[tw]"	0
+noncodev4.gene	NONCODE v4 Gene	"""NONCODE v4 Gene""[tw]"	0
+miapa	Minimum Anformation About a Phylogenetic Analysis Ontology	"""Minimum Anformation About a Phylogenetic Analysis Ontology""[tw] OR ""Minimum Anformation About a Phylogenetic Analysis Ontology (MIAPA)""[tw]"	0
+obib	Ontology for Biobanking	"""Ontology for Biobanking""[tw] OR ""Ontology for Biobanking (OBIB)""[tw]"	0
+mmp.fun	MarFun	"""MarFun""[tw]"	0
+mmo	Measurement method ontology	"""Measurement method ontology""[tw] OR ""Measurement method ontology (MMO)""[tw]"	0
+noncodev3	NONCODE v3	"""NONCODE v3""[tw]"	0
+mibig	Minimum Information about a Biosynthetic Gene Cluster data repository	"""Minimum Information about a Biosynthetic Gene Cluster data repository""[tw]"	0
+nomen	A nomenclatural ontology for biological names	"""A nomenclatural ontology for biological names""[tw] OR ""A nomenclatural ontology for biological names (NOMEN)""[tw]"	0
+mgnifyprotein	MGnify Protein	"""MGnify Protein""[tw]"	0
+oa	Web Annotation Ontology	"""Web Annotation Ontology""[tw] OR ""Web Annotation Ontology (oa)""[tw]"	0
+oarcs	Ontology of Arthropod Circulatory Systems	"""Ontology of Arthropod Circulatory Systems""[tw] OR ""Ontology of Arthropod Circulatory Systems (OARCS)""[tw]"	0
+nucc.characteristic	National Uniform Claim Committee Characteristic	"""National Uniform Claim Committee Characteristic""[tw]"	0
+mondo.issue	MONDO Issue Tracker	"""MONDO Issue Tracker""[tw]"	0
+molmovdb	Database of Macromolecular Movements	"""Database of Macromolecular Movements""[tw]"	0
+mlc	MLCommons Association	"""MLCommons Association""[tw]"	0
+molbic.protein	MolBiC Protein	"""MolBiC Protein""[tw]"	0
+nsrrc	National Swine Resource and Research Center	"""National Swine Resource and Research Center""[tw]"	0
+mite	Minimum Information about a Tailoring Enzyme data repository	"""Minimum Information about a Tailoring Enzyme data repository""[tw]"	0
+nucc.taxonomy	National Uniform Claim Committee Taxonomy	"""National Uniform Claim Committee Taxonomy""[tw]"	0
+nsc	USA National Service Center Number	"""USA National Service Center Number""[tw]"	0
+molbic.compound	MolBiC Compound	"""MolBiC Compound""[tw]"	0
+molbic.cellline	MolBiC Cell Line	"""MolBiC Cell Line""[tw]"	0
+moid	Metadata Management and distribution system for Multiple GNSS Networks	"""Metadata Management and distribution system for Multiple GNSS Networks""[tw]"	0
+mgnify.analysis	MGnify Analysis	"""MGnify Analysis""[tw]"	0
+nztcs	New Zealand Threat Classification System	"""New Zealand Threat Classification System""[tw]"	0
+mo	Microarray experimental conditions	"""Microarray experimental conditions""[tw] OR ""Microarray experimental conditions (MO)""[tw]"	0
+mgnify.proj	MGnify Project	"""MGnify Project""[tw]"	0
+mop	Molecular Process Ontology	"""Molecular Process Ontology""[tw] OR ""Molecular Process Ontology (MOP)""[tw]"	0
+npass	Natural Product Activity and Species Source Database	"""Natural Product Activity and Species Source Database""[tw]"	0
+mro	MHC Restriction Ontology	"""MHC Restriction Ontology""[tw] OR ""MHC Restriction Ontology (MRO)""[tw]"	0
+mgnifygenome	MGnify Genome	"""MGnify Genome""[tw]"	0
+mmsl	Multum MediSource Lexicon	"""Multum MediSource Lexicon""[tw]"	0
+modeldb.concept	ModelDB concept	"""ModelDB concept""[tw]"	0
+msio	Metabolomics Standards Initiative Ontology	"""Metabolomics Standards Initiative Ontology""[tw]"	0
+mirte	miRNA Target Prediction at EMBL	"""miRNA Target Prediction at EMBL""[tw]"	0
+ms	Mass spectrometry ontology	"""Mass spectrometry ontology""[tw] OR ""Mass spectrometry ontology (MS)""[tw]"	0
+mpio	Minimum PDDI Information Ontology	"""Minimum PDDI Information Ontology""[tw] OR ""Minimum PDDI Information Ontology (MPIO)""[tw]"	0
+mgnify.samp	MGnify Sample	"""MGnify Sample""[tw]"	0
+npatlas	The Natural Products Atlas	"""The Natural Products Atlas""[tw]"	0
+npm	Node Package Manager	"""Node Package Manager""[tw]"	0
+mpid	Microbial Protein Interaction Database	"""Microbial Protein Interaction Database""[tw]"	0
+mosaic	MOSAiC Ontology	"""MOSAiC Ontology""[tw]"	0
+myco.lepra	MycoBrowser leprae	"""MycoBrowser leprae""[tw]"	0
+morpheus	Morpheus model repository	"""Morpheus model repository""[tw]"	0
+nrfc	National Repository of Fish Cell Lines	"""National Repository of Fish Cell Lines""[tw]"	0
+nif.cell	NIF Cell	"""NIF Cell""[tw] OR ""NIF Cell (NIF_CELL)""[tw]"	0
+noaa.cameo	CAMEO Chemicals ID	"""CAMEO Chemicals ID""[tw]"	0
+ncbiortholog	NCBI Orthologs	"""NCBI Orthologs""[tw]"	0
+nemo2	Neural ElectroMagnetic Ontology	"""Neural ElectroMagnetic Ontology""[tw]"	0
+nemo	Neuroscience Multi-Omic BRAIN Initiative Data	"""Neuroscience Multi-Omic BRAIN Initiative Data""[tw]"	0
+nembase	Nematode & Neglected Genomics	"""Nematode & Neglected Genomics""[tw]"	0
+mir	Identifiers.org Registry	"""Identifiers.org Registry""[tw]"	0
+nlfff	NLFFF Database	"""NLFFF Database""[tw]"	0
+nci.drug	NCI Drug Dictionary ID	"""NCI Drug Dictionary ID""[tw]"	0
+mirbase	miRBase pre-miRNA	"""miRBase pre-miRNA""[tw]"	0
+mirbase.family	miRBase Families	"""miRBase Families""[tw]"	0
+ncbigi	GenInfo Identifier	"""GenInfo Identifier""[tw]"	0
+nist.codata	NIST/CODATA ID	"""NIST/CODATA ID""[tw]"	0
+millipore	Merck Millipore (EMD Millipore)	"""Merck Millipore (EMD Millipore)""[tw]"	0
+ncbidrs	NCBI Data Repository Service	"""NCBI Data Repository Service""[tw]"	0
+mirbase.mature	miRBase mature miRNA	"""miRBase mature miRNA""[tw]"	0
+ncbi.resource	NCBI Registry	"""NCBI Registry""[tw]"	0
+ncbi.gc	NCBI Genetic Code	"""NCBI Genetic Code""[tw]"	0
+ncats.drug	NCATS Drugs	"""NCATS Drugs""[tw]"	0
+nlm	National Library of Medicine Catalog	"""National Library of Medicine Catalog""[tw]"	0
+ncats.bioplanet	National Center for Advancing Translation Sciences BioPlanet	"""National Center for Advancing Translation Sciences BioPlanet""[tw]"	0
+nkos	Networked Knowledge Organization Systems/Services/Structures	"""Networked Knowledge Organization Systems/Services/Structures""[tw]"	0
+neurolex	NIF Standard Ontology: Neurolex	"""NIF Standard Ontology: Neurolex""[tw]"	0
+myco.marinum	MycoBrowser marinum	"""MycoBrowser marinum""[tw]"	0
+nfdi.core	NFDI Core Ontology	"""NFDI Core Ontology""[tw]"	0
+niaest	NIA Mouse cDNA Project	"""NIA Mouse cDNA Project""[tw]"	0
+nhcdr	NINDS Human Cell and Data Repository	"""NINDS Human Cell and Data Repository""[tw]"	0
+ngbo	Next Generation Biobanking Ontology	"""Next Generation Biobanking Ontology""[tw] OR ""Next Generation Biobanking Ontology (NGBO)""[tw]"	0
+nfdi4dso	NFDI4DS Ontology	"""NFDI4DS Ontology""[tw]"	0
+nfdi4culture.id	NFDI4Culture Metadata API	"""NFDI4Culture Metadata API""[tw]"	0
+nfdi4chem.osmo	Ontology for simulation, modelling, and optimization	"""Ontology for simulation, modelling, and optimization""[tw]"	0
+nif.dysfunction	NIF Dysfunction	"""NIF Dysfunction""[tw] OR ""NIF Dysfunction (NIF_DYSFUNCTION)""[tw]"	0
+nfdi4chem.ontocape	Ontology for computer aided process engineering	"""Ontology for computer aided process engineering""[tw]"	0
+nextprot.family	neXtProt family	"""neXtProt family""[tw]"	0
+nihhesc	NIH Human Embryonic Stem Cell Registry	"""NIH Human Embryonic Stem Cell Registry""[tw]"	0
+nif.ext	NIF Standard Ontology: External	"""NIF Standard Ontology: External""[tw]"	0
+minid	Minimal Viable Identifier	"""Minimal Viable Identifier""[tw]"	0
+nextdb	Nematode Expression Pattern DataBase	"""Nematode Expression Pattern DataBase""[tw]"	0
+neurovault.image	NeuroVault Image	"""NeuroVault Image""[tw]"	0
+minid.test	MINID Test	"""MINID Test""[tw]"	0
+neurovault.collection	NeuroVault Collection	"""NeuroVault Collection""[tw]"	0
+nif.grossanatomy	NIF Gross Anatomy	"""NIF Gross Anatomy""[tw] OR ""NIF Gross Anatomy (NIF_GROSSANATOMY)""[tw]"	0
+nif.std	NIF Standard Ontology	"""NIF Standard Ontology""[tw]"	0
+nbo	Neuro Behavior Ontology	"""Neuro Behavior Ontology""[tw] OR ""Neuro Behavior Ontology (NBO)""[tw]"	0
+nbn	National Bibliography Number	"""National Bibliography Number""[tw]"	0
+nlm.publisher	NLM Publisher Codes	"""NLM Publisher Codes""[tw]"	0
+nmr	NMR-instrument specific component of metabolomics investigations	"""NMR-instrument specific component of metabolomics investigations""[tw] OR ""NMR-instrument specific component of metabolomics investigations (NMR)""[tw]"	0
+nlx.org	NIF Standard Ontology: Organisms	"""NIF Standard Ontology: Organisms""[tw]"	0
+nlx.qual	NIF Standard Ontology: Qualities	"""NIF Standard Ontology: Qualities""[tw]"	0
+nlx.res	NIF Standard Ontology: Digital Resources	"""NIF Standard Ontology: Digital Resources""[tw]"	0
+nlx.sub	NIF Standard Ontology: Subcellular Entities	"""NIF Standard Ontology: Subcellular Entities""[tw]"	0
+narcis	National Academic Research and Collaborations Information System	"""National Academic Research and Collaborations Information System""[tw]"	0
+nmdc	National Microbiome Data Collaborative	"""National Microbiome Data Collaborative""[tw]"	0
+nmpdr	National Microbial Pathogen Data Resource	"""National Microbial Pathogen Data Resource""[tw]"	0
+napp	Nucleic Acids Phylogenetic Profiling	"""Nucleic Acids Phylogenetic Profiling""[tw]"	0
+napdi	Natural Product-Drug Interaction Research Data Repository	"""Natural Product-Drug Interaction Research Data Repository""[tw]"	0
+nlx.anat	NeuroLex Anatomy	"""NeuroLex Anatomy""[tw]"	0
+nmrshiftdb2	NMRShiftDB structure	"""NMRShiftDB structure""[tw]"	0
+niaid.chemdb	NIAID ChemDB ID	"""NIAID ChemDB ID""[tw]"	0
+nando	Nanbyo Disease Ontology	"""Nanbyo Disease Ontology""[tw]"	0
+mycobank	Fungal Nomenclature and Species Bank	"""Fungal Nomenclature and Species Bank""[tw]"	0
+micro	Ontology of Prokaryotic Phenotypic and Metabolic Characters	"""Ontology of Prokaryotic Phenotypic and Metabolic Characters""[tw] OR ""Ontology of Prokaryotic Phenotypic and Metabolic Characters (MICRO)""[tw]"	0
+myco.tuber	TubercuList knowledge base	"""TubercuList knowledge base""[tw]"	0
+myco.smeg	MycoBrowser smegmatis	"""MycoBrowser smegmatis""[tw]"	0
+noaa	NOAA Fisheries Species Directory	"""NOAA Fisheries Species Directory""[tw]"	0
+nlx.oen	NIF Standard Ontology: OEN Terms in Neurolex	"""NIF Standard Ontology: OEN Terms in Neurolex""[tw]"	0
+nasaosdr.biospecimen	NASA Open Science Data Repository Biospecimen	"""NASA Open Science Data Repository Biospecimen""[tw]"	0
+nlx.mol	NIF Standard Ontology: Molecules	"""NIF Standard Ontology: Molecules""[tw]"	0
+nlx.inv	NIF Standard Ontology: Investigations	"""NIF Standard Ontology: Investigations""[tw]"	0
+mirgenedb	microRNA Gene Database	"""microRNA Gene Database""[tw]"	0
+nasc	NASC code	"""NASC code""[tw]"	0
+miriam	Identifiers.org namespace	"""Identifiers.org namespace""[tw]"	0
+nasaosdr.subject	NASA Open Science Data Repository Subject	"""NASA Open Science Data Repository Subject""[tw]"	0
+miriam.collection	MIRIAM Registry collection	"""MIRIAM Registry collection""[tw]"	0
+nasaosdr.study	NASA Open Science Data Repository Study	"""NASA Open Science Data Repository Study""[tw]"	0
+nlx.br	NIF Standard Ontology: Brain Regions	"""NIF Standard Ontology: Brain Regions""[tw]"	0
+nlx.cell	NIF Standard Ontology: Cell Types	"""NIF Standard Ontology: Cell Types""[tw]"	0
+nasaosdr.payload	NASA Open Science Data Repository Payload	"""NASA Open Science Data Repository Payload""[tw]"	0
+nasaosdr.mission	NASA Open Science Data Repository Mission	"""NASA Open Science Data Repository Mission""[tw]"	0
+nlx.chem	NIF Standard Ontology: Chemical	"""NIF Standard Ontology: Chemical""[tw]"	0
+nlx.dys	NeuroLex Dysfunction	"""NeuroLex Dysfunction""[tw]"	0
+miriam.resource	MIRIAM Legacy Registry Identifier	"""MIRIAM Legacy Registry Identifier""[tw]"	0
+nasaosdr.hardware	NASA Open Science Data Repository Hardware	"""NASA Open Science Data Repository Hardware""[tw]"	0
+nlx.func	NIF Standard Ontology: Cognitive Function	"""NIF Standard Ontology: Cognitive Function""[tw]"	0
+mirnao	microRNA Ontology	"""microRNA Ontology""[tw] OR ""microRNA Ontology (MIRNAO)""[tw]"	0
+nasaosdr.experiment	NASA Open Science Data Repository Experiment	"""NASA Open Science Data Repository Experiment""[tw]"	0
+ncro	Non-Coding RNA Ontology	"""Non-Coding RNA Ontology""[tw] OR ""Non-Coding RNA Ontology (NCRO)""[tw]"	0
+pharmgkb.variant	PharmGKB Variant	"""PharmGKB Variant""[tw]"	0
+oboe	The Extensible Observation Ontology	"""The Extensible Observation Ontology""[tw]"	0
+semapv	Semantic Mapping Vocabulary	"""Semantic Mapping Vocabulary""[tw]"	0
+sharkipedia.species	Sharkipedia Species	"""Sharkipedia Species""[tw]"	0
+sgd.pathways	Saccharomyces genome database pathways	"""Saccharomyces genome database pathways""[tw]"	0
+sfam	Selventa Families	"""Selventa Families""[tw]"	0
+sepio	Scientific Evidence and Provenance Information Ontology	"""Scientific Evidence and Provenance Information Ontology""[tw] OR ""Scientific Evidence and Provenance Information Ontology (SEPIO)""[tw]"	0
+sep	Sample processing and separation techniques	"""Sample processing and separation techniques""[tw] OR ""Sample processing and separation techniques (SEP)""[tw]"	0
+seo	Scientific Event Ontology	"""Scientific Event Ontology""[tw]"	0
+senso	Sensitive Data Ontology	"""Sensitive Data Ontology""[tw]"	0
+semion	Semion author ID	"""Semion author ID""[tw]"	0
+seinet	Southwestern Environmental Information Network	"""Southwestern Environmental Information Network""[tw]"	0
+oboinowl	OBO in OWL	"""OBO in OWL""[tw] OR ""OBO in OWL (oboInOwl)""[tw]"	0
+seed.reaction	SEED Reactions	"""SEED Reactions""[tw]"	0
+sedml.language	SED-ML model format	"""SED-ML model format""[tw]"	0
+sedml.format	SED-ML data format	"""SED-ML data format""[tw]"	0
+sdis	Selventa Diseases	"""Selventa Diseases""[tw]"	0
+sdgio	Sustainable Development Goals Interface Ontology	"""Sustainable Development Goals Interface Ontology""[tw]"	0
+sddo	Science Data Discovery Ontology	"""Science Data Discovery Ontology""[tw]"	0
+sdbs	Spectral Database for Organic Compounds	"""Spectral Database for Organic Compounds""[tw]"	0
+scr	SciCrunch Registry	"""SciCrunch Registry""[tw]"	0
+sharkipedia.trait	Sharkipedia Trait	"""Sharkipedia Trait""[tw]"	0
+sharkipedia.trend	Sharkipedia Trend	"""Sharkipedia Trend""[tw]"	0
+sheepqtldb	Animal Genome Sheep QTL	"""Animal Genome Sheep QTL""[tw]"	0
+shex	Shape Expression Vocabulary	"""Shape Expression Vocabulary""[tw] OR ""Shape Expression Vocabulary (shex)""[tw]"	0
+smid	C. elegans Small Molecule Identifier Database	"""C. elegans Small Molecule Identifier Database""[tw]"	0
+smc.source	Secondary Metabolism Collaboratory	"""Secondary Metabolism Collaboratory""[tw]"	0
+smc.bgc	Secondary Metabolism Collaboratory	"""Secondary Metabolism Collaboratory""[tw]"	0
+slso	Space Life Sciences Ontology	"""Space Life Sciences Ontology""[tw] OR ""Space Life Sciences Ontology (SLSO)""[tw]"	0
+slm	SwissLipid	"""SwissLipid""[tw] OR ""SwissLipid (SLM)""[tw]"	0
+slkbase	SUM Breast Cancer Cell Line Knowledge Base	"""SUM Breast Cancer Cell Line Knowledge Base""[tw]"	0
+skosxl	Simple Knowledge Organization System eXtension for Labels	"""Simple Knowledge Organization System eXtension for Labels""[tw] OR ""Simple Knowledge Organization System eXtension for Labels (skosxl)""[tw]"	0
+skos.thes	SKOS Thesaurus Extension	"""SKOS Thesaurus Extension""[tw]"	0
+skm	Stress Knowledge Map	"""Stress Knowledge Map""[tw]"	0
+skip	Stemcell Knowledge and Information Portal	"""Stemcell Knowledge and Information Portal""[tw]"	0
+siren	Scientific Information Retrieval and Exchange Network	"""Scientific Information Retrieval and Exchange Network""[tw]"	0
+sio	Semanticscience Integrated Ontology	"""Semanticscience Integrated Ontology""[tw]"	0
+silva.taxon	SILVA Taxon	"""SILVA Taxon""[tw]"	0
+signor.relation	SIGNOR Relation	"""SIGNOR Relation""[tw]"	0
+sider.effect	SIDER Side Effect	"""SIDER Side Effect""[tw]"	0
+sider.drug	SIDER Drug	"""SIDER Drug""[tw]"	0
+sibo	Social Insect Behavior Ontology	"""Social Insect Behavior Ontology""[tw] OR ""Social Insect Behavior Ontology (SIBO)""[tw]"	0
+scpd	Saccharomyces cerevisiae promoter database	"""Saccharomyces cerevisiae promoter database""[tw]"	0
+scoro	Scholarly Contributions and Roles Ontology	"""Scholarly Contributions and Roles Ontology""[tw] OR ""Scholarly Contributions and Roles Ontology (SCoRO)""[tw]"	0
+scopus.work	Scopus Work	"""Scopus Work""[tw]"	0
+sabiork.compound	SABIO-RK Compound	"""SABIO-RK Compound""[tw]"	0
+rxno	Name Reaction Ontology	"""Name Reaction Ontology""[tw] OR ""Name Reaction Ontology (RXNO)""[tw]"	0
+rpcec	Cuban Registry of Clinical Trials	"""Cuban Registry of Clinical Trials""[tw]"	0
+rouge	Rodent Unidentified Gene-Encoded Large Proteins	"""Rodent Unidentified Gene-Encoded Large Proteins""[tw]"	0
+rnavdb	RNA Virus Database	"""RNA Virus Database""[tw]"	0
+rnamod	The RNA Modification Database	"""The RNA Modification Database""[tw]"	0
+rnajunction	Database of RNA Junctions and Kissing loop Structures	"""Database of RNA Junctions and Kissing loop Structures""[tw]"	0
+rna_sstrand	RNA SSTRAND	"""RNA SSTRAND""[tw]"	0
+rism	RISM Online	"""RISM Online""[tw]"	0
+ricenetdb.reaction	RiceNetDB Reaction	"""RiceNetDB Reaction""[tw]"	0
+ricenetdb.protein	RiceNetDB Protein	"""RiceNetDB Protein""[tw]"	0
+ricenetdb.mirna	RiceNetDB miRNA	"""RiceNetDB miRNA""[tw]"	0
+ricenetdb.gene	RiceNetDB Gene	"""RiceNetDB Gene""[tw]"	0
+ricenetdb.compound	RiceNetDB Compound	"""RiceNetDB Compound""[tw]"	0
+ricecyc	Rice Metabolic Pathways	"""Rice Metabolic Pathways""[tw]"	0
+rhea	Rhea, the Annotated Reactions Database	"""Rhea, the Annotated Reactions Database""[tw]"	0
+rgd.strain	Rat Genome Database strain	"""Rat Genome Database strain""[tw]"	0
+rgd.qtl	Rat Genome Database qTL	"""Rat Genome Database qTL""[tw]"	0
+s_mart_db	The S/MAR transaction DataBase	"""The S/MAR transaction DataBase""[tw]"	0
+sabiork.ec	SABIO-RK EC Record	"""SABIO-RK EC Record""[tw]"	0
+scopus.publication	Scopus Publication	"""Scopus Publication""[tw]"	0
+sabiork.kineticrecord	SABIO Reaction Kinetics	"""SABIO Reaction Kinetics""[tw]"	0
+scopus.affiliation	Scopus affiliation ID	"""Scopus affiliation ID""[tw]"	0
+scopus	Scopus Researcher	"""Scopus Researcher""[tw]"	0
+scop.sid	Structural Classification of Protein - Stable Domain Identifier	"""Structural Classification of Protein - Stable Domain Identifier""[tw]"	0
+scop.sccs	SCOP(e) concise classification string	"""SCOP(e) concise classification string""[tw]"	0
+scop	Structural Classification of Proteins - Unique Identifier	"""Structural Classification of Proteins - Unique Identifier""[tw]"	0
+scomp	Selventa Complexes	"""Selventa Complexes""[tw]"	0
+sciprofiles	SciProfiles ID	"""SciProfiles ID""[tw]"	0
+sciflection	Sciflection	"""Sciflection""[tw]"	0
+scholia.resource	Scholia Registry	"""Scholia Registry""[tw]"	0
+schem	Selventa Chemicals	"""Selventa Chemicals""[tw]"	0
+sasbdb	Small Angle Scattering Biological Data Bank	"""Small Angle Scattering Biological Data Bank""[tw]"	0
+sasap	The State of Alaska's Salmon and People Ontology	"""The State of Alaska's Salmon and People Ontology""[tw]"	0
+sao	Subcellular Anatomy Ontology	"""Subcellular Anatomy Ontology""[tw] OR ""Subcellular Anatomy Ontology (SAO)""[tw]"	0
+salmon	Salmon Ontology	"""Salmon Ontology""[tw]"	0
+sage.socialsciencethesaurus	SAGE Social Science Thesaurus	"""SAGE Social Science Thesaurus""[tw]"	0
+sael	Standards and Ontologies for Functional Genomics (SOFG) Anatomy Entry List	"""Standards and Ontologies for Functional Genomics (SOFG) Anatomy Entry List""[tw]"	0
+sabiork.reaction	SABIO-RK Reaction	"""SABIO-RK Reaction""[tw]"	0
+snomedct	SNOMED CT (International Edition)	"""SNOMED CT (International Edition)""[tw]"	0
+snp2tfbs	SNP to Transcription Factor Binding Sites	"""SNP to Transcription Factor Binding Sites""[tw]"	0
+so	Sequence types and features ontology	"""Sequence types and features ontology""[tw] OR ""Sequence types and features ontology (SO)""[tw]"	0
+txpo	Toxic Process Ontology	"""Toxic Process Ontology""[tw] OR ""Toxic Process Ontology (TXPO)""[tw]"	0
+ttd.target	TTD Target	"""TTD Target""[tw]"	0
+ttd.drug	TTD Drug	"""TTD Drug""[tw]"	0
+tsc	Tetrahymena Stock Center	"""Tetrahymena Stock Center""[tw]"	0
+tricdb	tricdb	"""tricdb""[tw]"	0
+transyt	Transport Systems Tracker	"""Transport Systems Tracker""[tw]"	0
+trans	Pathogen Transmission Ontology	"""Pathogen Transmission Ontology""[tw] OR ""Pathogen Transmission Ontology (TRANS)""[tw]"	0
+topdb	Topology Data Bank of Transmembrane Proteins	"""Topology Data Bank of Transmembrane Proteins""[tw]"	0
+tol	Tree of Life Web Project	"""Tree of Life Web Project""[tw]"	0
+tokue	TOKU-E Cell-culture Database	"""TOKU-E Cell-culture Database""[tw]"	0
+togoid	TogoID Ontology	"""TogoID Ontology""[tw]"	0
+tkg	Tohoku University cell line catalog	"""Tohoku University cell line catalog""[tw]"	0
+time	Time Ontology in OWL	"""Time Ontology in OWL""[tw]"	0
+tigrfam	TIGR protein families	"""TIGR protein families""[tw]"	0
+tgn	Getty Thesaurus of Geographic Names	"""Getty Thesaurus of Geographic Names""[tw]"	0
+tgma	Mosquito gross anatomy ontology	"""Mosquito gross anatomy ontology""[tw] OR ""Mosquito gross anatomy ontology (TGMA)""[tw]"	0
+tfclass	Classification of Transcription Factors in Mammalia	"""Classification of Transcription Factors in Mammalia""[tw]"	0
+tdwg.taxonrank	TDWG Taxon Rank LSID Ontology	"""TDWG Taxon Rank LSID Ontology""[tw]"	0
+tto	Teleost taxonomy ontology	"""Teleost taxonomy ontology""[tw] OR ""Teleost taxonomy ontology (TTO)""[tw]"	0
+uberon.issue	UBERON Issue Tracker	"""UBERON Issue Tracker""[tw]"	0
+taxrank	Taxonomic rank vocabulary	"""Taxonomic rank vocabulary""[tw] OR ""Taxonomic rank vocabulary (TAXRANK)""[tw]"	0
+ubio.namebank	uBio NameBank	"""uBio NameBank""[tw]"	0
+unipathway.reaction	UniPathway Reaction	"""UniPathway Reaction""[tw]"	0
+unipathway.compound	UniPathway Compound	"""UniPathway Compound""[tw]"	0
+unimod	Unimod protein modification database for mass spectrometry	"""Unimod protein modification database for mass spectrometry""[tw]"	0
+unii	Unique Ingredient Identifier	"""Unique Ingredient Identifier""[tw]"	0
+unichem	UniChem compound	"""UniChem compound""[tw]"	0
+unesco.thesaurus	UNESCO Thesaurus	"""UNESCO Thesaurus""[tw]"	0
+umls.aui	Unified Medical Language System Atomic Unique Identifier	"""Unified Medical Language System Atomic Unique Identifier""[tw]"	0
+umls	Unified Medical Language System Concept Unique Identifier	"""Unified Medical Language System Concept Unique Identifier""[tw]"	0
+uminctr	University hospital Medical Information Network Clinical Trial Registry	"""University hospital Medical Information Network Clinical Trial Registry""[tw]"	0
+umbbd.rule	EAWAG Biocatalysis/Biodegradation Database	"""EAWAG Biocatalysis/Biodegradation Database""[tw]"	0
+umbbd.reaction	EAWAG Biocatalysis/Biodegradation Database	"""EAWAG Biocatalysis/Biodegradation Database""[tw]"	0
+umbbd.pathway	EAWAG Biocatalysis/Biodegradation Database	"""EAWAG Biocatalysis/Biodegradation Database""[tw]"	0
+umbbd.enzyme	EAWAG Biocatalysis/Biodegradation Database	"""EAWAG Biocatalysis/Biodegradation Database""[tw]"	0
+umbbd.compound	UM-BBD compound	"""UM-BBD compound""[tw]"	0
+ukprn	UK Provider Reference Number	"""UK Provider Reference Number""[tw]"	0
+ucas	UK Universities and Colleges Admissions Service	"""UK Universities and Colleges Admissions Service""[tw]"	0
+ubprop	Uberon Property	"""Uberon Property""[tw]"	0
+tccd	The Cell Cycle DB	"""The Cell Cycle DB""[tw]"	0
+tao	Teleost Anatomy Ontology	"""Teleost Anatomy Ontology""[tw] OR ""Teleost Anatomy Ontology (TAO)""[tw]"	0
+sopharm	Suggested Ontology for Pharmacogenomics	"""Suggested Ontology for Pharmacogenomics""[tw] OR ""Suggested Ontology for Pharmacogenomics (SOPHARM)""[tw]"	0
+stitch	Search Tool for Interactions of Chemicals	"""Search Tool for Interactions of Chemicals""[tw]"	0
+stap	Statistical Torsional Angles Potentials	"""Statistical Torsional Angles Potentials""[tw]"	0
+sstoss	Sequence-Structural Templates of Single-member Superfamilies	"""Sequence-Structural Templates of Single-member Superfamilies""[tw]"	0
+sssom	Simple Standard for Sharing Ontological Mappings	"""Simple Standard for Sharing Ontological Mappings""[tw]"	0
+ssrn.author	Social Science Research Network Author	"""Social Science Research Network Author""[tw]"	0
+ssrn.article	Social Science Research Network Article	"""Social Science Research Network Article""[tw]"	0
+ssn.system	System capabilities, operating ranges, and survival ranges ontology	"""System capabilities, operating ranges, and survival ranges ontology""[tw]"	0
+ssbd.project	System Science of Biological Dynamics project	"""System Science of Biological Dynamics project""[tw]"	0
+ssbd.dataset	System Science of Biological Dynamics dataset	"""System Science of Biological Dynamics dataset""[tw]"	0
+srao	FAIRsharing Subject Ontology	"""FAIRsharing Subject Ontology""[tw]"	0
+spp	Signaling Pathways Project	"""Signaling Pathways Project""[tw]"	0
+splash	Spectra Hash Code	"""Spectra Hash Code""[tw]"	0
+sphn	Swiss Personalized Health Network Schema	"""Swiss Personalized Health Network Schema""[tw]"	0
+spdx.term	Software Package Data Exchange RDF Vocabulary	"""Software Package Data Exchange RDF Vocabulary""[tw]"	0
+spdx	Software Package Data Exchange License	"""Software Package Data Exchange License""[tw]"	0
+spd	Spider Ontology	"""Spider Ontology""[tw] OR ""Spider Ontology (SPD)""[tw]"	0
+sparcdrs	SPARC DRS	"""SPARC DRS""[tw]"	0
+sosa	Sensor, Observation, Sample, and Actuator Ontology	"""Sensor, Observation, Sample, and Actuator Ontology""[tw]"	0
+stato	The Statistical Methods Ontology	"""The Statistical Methods Ontology""[tw] OR ""The Statistical Methods Ontology (STATO)""[tw]"	0
+stn	FDA Submission Tracking Number	"""FDA Submission Tracking Number""[tw]"	0
+tair.protein	TAIR Protein	"""TAIR Protein""[tw]"	0
+storedb.dataset	STOREDB at University of Cambridge	"""STOREDB at University of Cambridge""[tw]"	0
+tair.gene	TAIR Gene	"""TAIR Gene""[tw]"	0
+tahh	Terminology of Anatomy of Human Histology	"""Terminology of Anatomy of Human Histology""[tw] OR ""Terminology of Anatomy of Human Histology (TAHH)""[tw]"	0
+tahe	Terminology of Anatomy of Human Embryology	"""Terminology of Anatomy of Human Embryology""[tw] OR ""Terminology of Anatomy of Human Embryology (TAHE)""[tw]"	0
+tads	Tick Anatomy Ontology	"""Tick Anatomy Ontology""[tw] OR ""Tick Anatomy Ontology (TADS)""[tw]"	0
+t4fs	terms4FAIRskills	"""terms4FAIRskills""[tw] OR ""terms4FAIRskills (T4FS)""[tw]"	0
+syoid	Gemina Symptom Ontology	"""Gemina Symptom Ontology""[tw]"	0
+synbip.pss	Synthetic Binding Protein Protein Scaffold	"""Synthetic Binding Protein Protein Scaffold""[tw]"	0
+synbip.epitope	Synthetic Binding Protein Epitope	"""Synthetic Binding Protein Epitope""[tw]"	0
+synbip.bts	Synthetic Binding Proteins Binding Target	"""Synthetic Binding Proteins Binding Target""[tw]"	0
+synapse	Synapse Data Repository	"""Synapse Data Repository""[tw]"	0
+swrl	A Semantic Web Rule Language Combining OWL and RuleML	"""A Semantic Web Rule Language Combining OWL and RuleML""[tw] OR ""A Semantic Web Rule Language Combining OWL and RuleML (swrl)""[tw]"	0
+swh	Software Heritage	"""Software Heritage""[tw]"	0
+sweetrealm	Semantic Web for Earth and Environment Technology Ontology	"""Semantic Web for Earth and Environment Technology Ontology""[tw]"	0
+sulo	Simplified Upper Level Ontology	"""Simplified Upper Level Ontology""[tw]"	0
+sty	UMLS Semantic Types Ontology	"""UMLS Semantic Types Ontology""[tw]"	0
+storedb.study	STOREDB at University of Cambridge	"""STOREDB at University of Cambridge""[tw]"	0
+storedb.file	STOREDB at University of Cambridge	"""STOREDB at University of Cambridge""[tw]"	0
+rfc	Internet Standard -- IETF Request for Comments	"""Internet Standard -- IETF Request for Comments""[tw]"	0
+rfam	Rfam database of RNA families	"""Rfam database of RNA families""[tw]"	0
+rexo	Regulation of Gene Expression Ontology	"""Regulation of Gene Expression Ontology""[tw]"	0
+p3db.site	P3DB Site	"""P3DB Site""[tw]"	0
+owlstar	Ontological Interpretations for Web Property Graphs	"""Ontological Interpretations for Web Property Graphs""[tw]"	0
+osti.article	Office of Scientific and Technical Information (OSTI)	"""Office of Scientific and Technical Information (OSTI)""[tw]"	0
+oslc	OASIS Open Services for Lifecycle Collaboration Core Vocabulary	"""OASIS Open Services for Lifecycle Collaboration Core Vocabulary""[tw] OR ""OASIS Open Services for Lifecycle Collaboration Core Vocabulary (oslc)""[tw]"	0
+oryzabase.strain	Oryzabase Strain	"""Oryzabase Strain""[tw]"	0
+oryzabase.stage	Oryzabase Stage	"""Oryzabase Stage""[tw]"	0
+oryzabase.reference	Oryzabase Reference	"""Oryzabase Reference""[tw]"	0
+oryzabase.mutant	Oryzabase Mutant	"""Oryzabase Mutant""[tw]"	0
+oryzabase.gene	Oryzabase Gene	"""Oryzabase Gene""[tw]"	0
+ornaseq	Ontology of RNA Sequencing	"""Ontology of RNA Sequencing""[tw] OR ""Ontology of RNA Sequencing (ORNASEQ)""[tw]"	0
+oridb.schizo	OriDB Schizosaccharomyces	"""OriDB Schizosaccharomyces""[tw]"	0
+oridb.sacch	OriDB Saccharomyces	"""OriDB Saccharomyces""[tw]"	0
+orcid	Open Researcher and Contributor	"""Open Researcher and Contributor""[tw]"	0
+orangebook	IUPAC Compendium of Analytical Nomenclature (Orange Book)	"""IUPAC Compendium of Analytical Nomenclature (Orange Book)""[tw]"	0
+oprlm	Orientation of Proteins in Realistic Lipid Membranes	"""Orientation of Proteins in Realistic Lipid Membranes""[tw]"	0
+opmi	Ontology of Precision Medicine and Investigation	"""Ontology of Precision Medicine and Investigation""[tw] OR ""Ontology of Precision Medicine and Investigation (OPMI)""[tw]"	0
+opl	Ontology for Parasite LifeCycle	"""Ontology for Parasite LifeCycle""[tw] OR ""Ontology for Parasite LifeCycle (OPL)""[tw]"	0
+openwemi	openWEMI Vocabulary	"""openWEMI Vocabulary""[tw]"	0
+p3db.protein	P3DB Protein	"""P3DB Protein""[tw]"	0
+packagist	Packagist	"""Packagist""[tw]"	0
+oostt	Ontology of Organizational Structures of Trauma centers and Trauma systems	"""Ontology of Organizational Structures of Trauma centers and Trauma systems""[tw] OR ""Ontology of Organizational Structures of Trauma centers and Trauma systems (OOSTT)""[tw]"	0
+pandit	Protein and Associated NucleotideDomains with Inferred Trees	"""Protein and Associated NucleotideDomains with Inferred Trees""[tw]"	0
+pdumdv	Platynereis Developmental Stages	"""Platynereis Developmental Stages""[tw] OR ""Platynereis Developmental Stages (PdumDv)""[tw]"	0
+pdro	The Prescription of Drugs Ontology	"""The Prescription of Drugs Ontology""[tw] OR ""The Prescription of Drugs Ontology (PDRO)""[tw]"	0
+pdbsum	PDBsum; at-a-glance overview of macromolecular structures	"""PDBsum; at-a-glance overview of macromolecular structures""[tw]"	0
+pd_st	Platynereis stage ontology	"""Platynereis stage ontology""[tw] OR ""Platynereis stage ontology (PD_ST)""[tw]"	0
+pco	Population and Community Ontology	"""Population and Community Ontology""[tw] OR ""Population and Community Ontology (PCO)""[tw]"	0
+pcl	Provisional Cell Ontology	"""Provisional Cell Ontology""[tw] OR ""Provisional Cell Ontology (PCL)""[tw]"	0
+pba	Primate Brain Atlas	"""Primate Brain Atlas""[tw] OR ""Primate Brain Atlas (PBA)""[tw]"	0
+pazar	Pazar Transcription Factor	"""Pazar Transcription Factor""[tw]"	0
+paxdb.protein	PaxDb Protein	"""PaxDb Protein""[tw]"	0
+paxdb.organism	PaxDb Organism	"""PaxDb Organism""[tw]"	0
+pav	Provenance, Authoring, and Versioning Vocabulary	"""Provenance, Authoring, and Versioning Vocabulary""[tw] OR ""Provenance, Authoring, and Versioning Vocabulary (pav)""[tw]"	0
+pato	Phenotype And Trait Ontology	"""Phenotype And Trait Ontology""[tw] OR ""Phenotype And Trait Ontology (PATO)""[tw]"	0
+pass2	Protein Alignment organised as Structural Superfamily	"""Protein Alignment organised as Structural Superfamily""[tw]"	0
+pao	Plant Anatomy Ontology	"""Plant Anatomy Ontology""[tw] OR ""Plant Anatomy Ontology (PAO)""[tw]"	0
+panther.pthcmp	PANTHER Pathway Component	"""PANTHER Pathway Component""[tw]"	0
+panther.node	PANTHER Node	"""PANTHER Node""[tw]"	0
+panther.family	PANTHER Family	"""PANTHER Family""[tw]"	0
+opb	Ontology of Physics for Biology	"""Ontology of Physics for Biology""[tw]"	0
+ontoneo	Obstetric and Neonatal Ontology	"""Obstetric and Neonatal Ontology""[tw] OR ""Obstetric and Neonatal Ontology (ONTONEO)""[tw]"	0
+ped.ensemble	Protein Ensemble Database ensemble	"""Protein Ensemble Database ensemble""[tw]"	0
+ohd	Oral Health and Disease Ontology	"""Oral Health and Disease Ontology""[tw] OR ""Oral Health and Disease Ontology (OHD)""[tw]"	0
+ogms	Ontology for General Medical Science	"""Ontology for General Medical Science""[tw] OR ""Ontology for General Medical Science (OGMS)""[tw]"	0
+ogi	Ontology for genetic interval	"""Ontology for genetic interval""[tw] OR ""Ontology for genetic interval (OGI)""[tw]"	0
+ogg	The Ontology of Genes and Genomes	"""The Ontology of Genes and Genomes""[tw] OR ""The Ontology of Genes and Genomes (OGG)""[tw]"	0
+og	Open Graph protocol	"""Open Graph protocol""[tw]"	0
+oeh.educationlevel	OpenEduHub Education Level	"""OpenEduHub Education Level""[tw]"	0
+odrl	Open Digital Rights Language Ontology	"""Open Digital Rights Language Ontology""[tw]"	0
+odor	Odor Molecules DataBase	"""Odor Molecules DataBase""[tw]"	0
+odc.tbi	Open Data Commons for Traumatic Brain Injury	"""Open Data Commons for Traumatic Brain Injury""[tw]"	0
+odc.sci	Open Data Commons for Spinal Cord Injury	"""Open Data Commons for Spinal Cord Injury""[tw]"	0
+odamexplorer	ODAM Data explorer	"""ODAM Data explorer""[tw]"	0
+odam	Open Data for Access and Mining	"""Open Data for Access and Mining""[tw]"	0
+oclc	Online Computer Library Center WorldCat	"""Online Computer Library Center WorldCat""[tw]"	0
+ocid	Ontology Concept Identifiers	"""Ontology Concept Identifiers""[tw]"	0
+oci	Open Citation Identifier	"""Open Citation Identifier""[tw]"	0
+occo	Occupation Ontology	"""Occupation Ontology""[tw] OR ""Occupation Ontology (OCCO)""[tw]"	0
+occ	OpenCitations Corpus	"""OpenCitations Corpus""[tw]"	0
+obv	Austrian Library Network	"""Austrian Library Network""[tw]"	0
+ogsf	Ontology of Genetic Susceptibility Factor	"""Ontology of Genetic Susceptibility Factor""[tw] OR ""Ontology of Genetic Susceptibility Factor (OGSF)""[tw]"	0
+ohpi	Ontology of Host Pathogen Interactions	"""Ontology of Host Pathogen Interactions""[tw] OR ""Ontology of Host Pathogen Interactions (OHPI)""[tw]"	0
+ontoavida	Ontology for Avida digital evolution platform	"""Ontology for Avida digital evolution platform""[tw] OR ""Ontology for Avida digital evolution platform (ONTOAVIDA)""[tw]"	0
+oid	ISO Object Identifier	"""ISO Object Identifier""[tw]"	0
+ontie	Ontology for Immune Epitopes	"""Ontology for Immune Epitopes""[tw]"	0
+ons	Ontology for Nutritional Studies	"""Ontology for Nutritional Studies""[tw] OR ""Ontology for Nutritional Studies (ONS)""[tw]"	0
+one	Ontology for Nutritional Epidemiology	"""Ontology for Nutritional Epidemiology""[tw] OR ""Ontology for Nutritional Epidemiology (ONE)""[tw]"	0
+omx.dataset	OncoMX Dataset	"""OncoMX Dataset""[tw]"	0
+omrse	Ontology for Modeling and Representation of Social Entities	"""Ontology for Modeling and Representation of Social Entities""[tw] OR ""Ontology for Modeling and Representation of Social Entities (OMRSE)""[tw]"	0
+omp	Ontology of Microbial Phenotypes	"""Ontology of Microbial Phenotypes""[tw] OR ""Ontology of Microbial Phenotypes (OMP)""[tw]"	0
+omon	Overview of Medical Research in the Netherlands	"""Overview of Medical Research in the Netherlands""[tw]"	0
+omo	OBO Metadata Ontology	"""OBO Metadata Ontology""[tw] OR ""OBO Metadata Ontology (OMO)""[tw]"	0
+omit	Ontology for MicroRNA Target	"""Ontology for MicroRNA Target""[tw] OR ""Ontology for MicroRNA Target (OMIT)""[tw]"	0
+omim.ps	OMIM Phenotypic Series	"""OMIM Phenotypic Series""[tw]"	0
+omid	OpenCitations Meta Identifier	"""OpenCitations Meta Identifier""[tw]"	0
+omiabis	Ontologized MIABIS	"""Ontologized MIABIS""[tw] OR ""Ontologized MIABIS (OMIABIS)""[tw]"	0
+omia.variant	OMIA variants	"""OMIA variants""[tw]"	0
+oma.protein	OMA Protein	"""OMA Protein""[tw]"	0
+oma.hog	OMA HOGs	"""OMA HOGs""[tw]"	0
+om	Ontology of units of Measure	"""Ontology of units of Measure""[tw]"	0
+olatdv	Medaka Developmental Stages	"""Medaka Developmental Stages""[tw] OR ""Medaka Developmental Stages (OlatDv)""[tw]"	0
+peco	Plant Experimental Conditions Ontology	"""Plant Experimental Conditions Ontology""[tw] OR ""Plant Experimental Conditions Ontology (PECO)""[tw]"	0
+peff	PSI Extended File Format	"""PSI Extended File Format""[tw]"	0
+reto	Regulation of Transcription Ontology	"""Regulation of Transcription Ontology""[tw]"	0
+radiomics	Radiomics Ontology	"""Radiomics Ontology""[tw]"	0
+qualo	Qualification Ontology	"""Qualification Ontology""[tw]"	0
+qtldb	Animal Genome QTL	"""Animal Genome QTL""[tw]"	0
+qb	The data cube vocabulary	"""The data cube vocabulary""[tw] OR ""The data cube vocabulary (qb)""[tw]"	0
+pwo	Publishing Workflow Ontology	"""Publishing Workflow Ontology""[tw] OR ""Publishing Workflow Ontology (PWO)""[tw]"	0
+puro	Publishing Roles Ontology	"""Publishing Roles Ontology""[tw] OR ""Publishing Roles Ontology (PuRO)""[tw]"	0
+publons.researcher	Publons Researcher	"""Publons Researcher""[tw]"	0
+publons.publication	Publons publication	"""Publons publication""[tw]"	0
+pubchem.substance	PubChem Substance ID (SID)	"""PubChem Substance ID (SID)""[tw]"	0
+pubchem.element	PubChem Element	"""PubChem Element""[tw]"	0
+pubchem.classification	PubChem Classification	"""PubChem Classification""[tw]"	0
+pubchem.cell	PubChem Cell Line	"""PubChem Cell Line""[tw]"	0
+pubchem.bioassay	NCBI PubChem database of bioassay records	"""NCBI PubChem database of bioassay records""[tw]"	0
+ptr	Pointer Methods in RDF	"""Pointer Methods in RDF""[tw]"	0
+psskb	Protein Structure and Stability Knowledge Base	"""Protein Structure and Stability Knowledge Base""[tw]"	0
+pspub	Phenoscape Publication	"""Phenoscape Publication""[tw]"	0
+pso	Plant Stress Ontology	"""Plant Stress Ontology""[tw] OR ""Plant Stress Ontology (PSO)""[tw]"	0
+psdo	Performance Summary Display Ontology	"""Performance Summary Display Ontology""[tw] OR ""Performance Summary Display Ontology (PSDO)""[tw]"	0
+qudt	Quantities, Units, Dimensions, and Types Ontology	"""Quantities, Units, Dimensions, and Types Ontology""[tw] OR ""Quantities, Units, Dimensions, and Types Ontology (qudt)""[tw]"	0
+radlex	RSNA Informatics RadLex	"""RSNA Informatics RadLex""[tw]"	0
+prov	PROV Namespace	"""PROV Namespace""[tw] OR ""PROV Namespace (prov)""[tw]"	0
+raid	Research Activity Identifier	"""Research Activity Identifier""[tw]"	0
+resid	Protein covalent bond	"""Protein covalent bond""[tw] OR ""Protein covalent bond (RESID)""[tw]"	0
+researchgate.profile	ResearchGate profile ID	"""ResearchGate profile ID""[tw]"	0
+reproduceme	REPRODUCE-ME Ontology	"""REPRODUCE-ME Ontology""[tw]"	0
+repeatsdb.structure	RepeatsDB Structure	"""RepeatsDB Structure""[tw]"	0
+repeatsdb.protein	RepeatsDB Protein	"""RepeatsDB Protein""[tw]"	0
+reo	Reagent Ontology	"""Reagent Ontology""[tw]"	0
+redfly	Regulatory Elements Database for Drosophila	"""Regulatory Elements Database for Drosophila""[tw]"	0
+receptome.family	Human Plasma Membrane Receptome Families	"""Human Plasma Membrane Receptome Families""[tw]"	0
+rec	Recommendation Ontology	"""Recommendation Ontology""[tw]"	0
+rebase	REBASE Enzyme Number	"""REBASE Enzyme Number""[tw]"	0
+rdo	RGD Disease Ontology	"""RGD Disease Ontology""[tw]"	0
+rdfa	RDFa Vocabulary for Term and Prefix Assignment, and for Processor Graph Reporting	"""RDFa Vocabulary for Term and Prefix Assignment, and for Processor Graph Reporting""[tw]"	0
+rdbsb	Registry and database of bioparts for synthetic biology	"""Registry and database of bioparts for synthetic biology""[tw]"	0
+rcb	RIKEN Bioresource Center Cell Bank	"""RIKEN Bioresource Center Cell Bank""[tw]"	0
+rbo	Radiation Biology Ontology	"""Radiation Biology Ontology""[tw] OR ""Radiation Biology Ontology (RBO)""[tw]"	0
+rbk	Rebuilding a Kidney	"""Rebuilding a Kidney""[tw]"	0
+rapdb.locus	RAP-DB Locus	"""RAP-DB Locus""[tw]"	0
+pscdb	Protein Structural Change Database	"""Protein Structural Change Database""[tw]"	0
+protonet.proteincard	ProtoNet ProteinCard	"""ProtoNet ProteinCard""[tw]"	0
+pepbank	PepBank Peptide Database	"""PepBank Peptide Database""[tw]"	0
+pibase	Database of structurally defined protein interfaces	"""Database of structurally defined protein interfaces""[tw]"	0
+phosphosite.sitegroup	PhosphoSite Site Group	"""PhosphoSite Site Group""[tw]"	0
+phosphosite.residue	PhosphoSite Residue	"""PhosphoSite Residue""[tw]"	0
+phosphosite.curation	PhosphoSite Curation	"""PhosphoSite Curation""[tw]"	0
+phosphopoint.protein	PhosphoPoint Phosphoprotein	"""PhosphoPoint Phosphoprotein""[tw]"	0
+phosphopoint.kinase	PhosphoPoint Kinase	"""PhosphoPoint Kinase""[tw]"	0
+phipo	Pathogen Host Interaction Phenotype Ontology	"""Pathogen Host Interaction Phenotype Ontology""[tw] OR ""Pathogen Host Interaction Phenotype Ontology (PHIPO)""[tw]"	0
+pharmgkb.gene	PharmGKB Gene	"""PharmGKB Gene""[tw]"	0
+pharmgkb.drug	PharmGKB Drug	"""PharmGKB Drug""[tw]"	0
+pharmgkb.disease	PharmGKB Disease	"""PharmGKB Disease""[tw]"	0
+pharmacodb.tissue	PharmacoDB Tissues	"""PharmacoDB Tissues""[tw]"	0
+pharmacodb.dataset	PharmacoDB Datasets	"""PharmacoDB Datasets""[tw]"	0
+pharmacodb.cell	PharmacoDB Cells	"""PharmacoDB Cells""[tw]"	0
+pgdso	Plant Growth and Development Stage	"""Plant Growth and Development Stage""[tw] OR ""Plant Growth and Development Stage (PGDSO)""[tw]"	0
+pesticides	Alan Wood's Pesticides	"""Alan Wood's Pesticides""[tw]"	0
+pesticideinfo	PesticideInfo chemical ID	"""PesticideInfo chemical ID""[tw]"	0
+perkinelmer	PerkinElmer cell line collection	"""PerkinElmer cell line collection""[tw]"	0
+peptideatlas.dataset	PeptideAtlas Dataset	"""PeptideAtlas Dataset""[tw]"	0
+phytozome.locus	Plant Genome Network	"""Plant Genome Network""[tw]"	0
+pid.pathway	NCI Pathway Interaction Database: Pathway	"""NCI Pathway Interaction Database: Pathway""[tw]"	0
+protonet.cluster	ProtoNet Cluster	"""ProtoNet Cluster""[tw]"	0
+pigqtldb	Animal Genome Pig QTL	"""Animal Genome Pig QTL""[tw]"	0
+proteomicsdb.protein	ProteomicsDB Protein	"""ProteomicsDB Protein""[tw]"	0
+proteomicsdb.peptide	ProteomicsDB Peptide	"""ProteomicsDB Peptide""[tw]"	0
+protcom	Database of protein-protein complexes	"""Database of protein-protein complexes""[tw]"	0
+propreo	Proteomics data and process provenance	"""Proteomics data and process provenance""[tw] OR ""Proteomics data and process provenance (PROPREO)""[tw]"	0
+proco	Process Chemistry Ontology	"""Process Chemistry Ontology""[tw] OR ""Process Chemistry Ontology (PROCO)""[tw]"	0
+probonto	Probability Distribution Ontology	"""Probability Distribution Ontology""[tw]"	0
+prints	PRINTS compendium of protein fingerprints	"""PRINTS compendium of protein fingerprints""[tw]"	0
+pride	Proteomics Identification Database Ontology	"""Proteomics Identification Database Ontology""[tw]"	0
+prefixcommons	Prefix Commons	"""Prefix Commons""[tw]"	0
+ppr	Europe PMC Preprints	"""Europe PMC Preprints""[tw]"	0
+polytraits.trait	Polytraits Trait Definitions	"""Polytraits Trait Definitions""[tw]"	0
+pmr.workspace	Physiome Model Repository workspace	"""Physiome Model Repository workspace""[tw]"	0
+plos	PLOS Thesaurus	"""PLOS Thesaurus""[tw]"	0
+planp	Planarian Phenotype Ontology	"""Planarian Phenotype Ontology""[tw] OR ""Planarian Phenotype Ontology (PLANP)""[tw]"	0
+plana	Planarian Anatomy and Schmidtea mediterranean Developmental Stage Ontology	"""Planarian Anatomy and Schmidtea mediterranean Developmental Stage Ontology""[tw] OR ""Planarian Anatomy and Schmidtea mediterranean Developmental Stage Ontology (PLANA)""[tw]"	0
+pirsf	PIR Superfamily Classification System	"""PIR Superfamily Classification System""[tw]"	0
+pii	Publisher Item Identifier	"""Publisher Item Identifier""[tw]"	0
+mfomd	Mental Disease Ontology	"""Mental Disease Ontology""[tw] OR ""Mental Disease Ontology (MFOMD)""[tw]"	0
+_3dmet	3D Metabolites	"""3D Metabolites""[tw]"	0
+mfo	Medaka fish anatomy and development	"""Medaka fish anatomy and development""[tw] OR ""Medaka fish anatomy and development (MFO)""[tw]"	0
+cosmic.cell	COSMIC Cell Lines	"""COSMIC Cell Lines""[tw]"	0
+cst.ab	Cell Signaling Technology Antibody	"""Cell Signaling Technology Antibody""[tw]"	0
+cst	Cell Signaling Technology Pathways	"""Cell Signaling Technology Pathways""[tw]"	0
+csp	Computer Retrieval of Information on Science Projects Thesaurus	"""Computer Retrieval of Information on Science Projects Thesaurus""[tw]"	0
+cryoem	Cryo Electron Microscopy ontology	"""Cryo Electron Microscopy ontology""[tw]"	0
+crop2ml	CropMRepository	"""CropMRepository""[tw]"	0
+creativebiolabs.protein	Creative Biolabs	"""Creative Biolabs""[tw]"	0
+creativebiolabs.antibody	Creative Biolabs	"""Creative Biolabs""[tw]"	0
+covoc	CoVoc Coronavirus Vocabulary	"""CoVoc Coronavirus Vocabulary""[tw]"	0
+covid19	COVID-19 Surveillance Ontology	"""COVID-19 Surveillance Ontology""[tw]"	0
+cosmic	COSMIC Gene	"""COSMIC Gene""[tw]"	0
+combine.specifications	COMBINE specifications	"""COMBINE specifications""[tw]"	0
+coriell	Coriell Institute for Medical Research	"""Coriell Institute for Medical Research""[tw]"	0
+cordis.project	CORDIS Project	"""CORDIS Project""[tw]"	0
+cordis.article	CORDIS Article	"""CORDIS Article""[tw]"	0
+conso	Curation of Neurodegeneration Supporting Ontology	"""Curation of Neurodegeneration Supporting Ontology""[tw]"	0
+confident.series	ConfIDent Event Series	"""ConfIDent Event Series""[tw]"	0
+confident.event	ConfIDent Event	"""ConfIDent Event""[tw]"	0
+conference	Conference Ontology	"""Conference Ontology""[tw]"	0
+compulyeast	Compluyeast-2D-DB	"""Compluyeast-2D-DB""[tw]"	0
+comptox	DSSTox substance	"""DSSTox substance""[tw]"	0
+cstr	Common Science and Technology Resources	"""Common Science and Technology Resources""[tw]"	0
+ctd.disease	CTD Disease	"""CTD Disease""[tw]"	0
+ctd.gene	CTD Gene	"""CTD Gene""[tw]"	0
+cteno	Ctenophore Ontology	"""Ctenophore Ontology""[tw] OR ""Ctenophore Ontology (CTENO)""[tw]"	0
+dbest	EST database maintained at the NCBI.	"""EST database maintained at the NCBI.""[tw]"	0
+datf	Database of Arabidopsis Transcription Factors	"""Database of Arabidopsis Transcription Factors""[tw]"	0
+datanator.reaction	Datanator Reaction	"""Datanator Reaction""[tw]"	0
+datanator.metabolite	Datanator Metabolite	"""Datanator Metabolite""[tw]"	0
+datanator.gene	Datanator Gene	"""Datanator Gene""[tw]"	0
+datacite	DataCite Ontology	"""DataCite Ontology""[tw] OR ""DataCite Ontology (DataCite)""[tw]"	0
+dashr.expression	DASHR expression	"""DASHR expression""[tw]"	0
+dashr	Database of small human noncoding RNAs	"""Database of small human noncoding RNAs""[tw]"	0
+darc	Database of Aligned Ribosomal Complexes	"""Database of Aligned Ribosomal Complexes""[tw]"	0
+dandi	Distributed Archives for Neurophysiology Data Integration	"""Distributed Archives for Neurophysiology Data Integration""[tw]"	0
+daml.pt	DAML Periodic Table of the Elements	"""DAML Periodic Table of the Elements""[tw]"	0
+dalia.oer	DALIA Open Educational Resource	"""DALIA Open Educational Resource""[tw]"	0
+dalia.community	DALIA Community	"""DALIA Community""[tw]"	0
+dalia	MoDALIA Ontology	"""MoDALIA Ontology""[tw]"	0
+dai.thesauri	German Archaeological Institute Thesaurus	"""German Archaeological Institute Thesaurus""[tw]"	0
+cvx	Vaccine administered code set	"""Vaccine administered code set""[tw]"	0
+cutg	Codon Usage Tabulated from GenBank	"""Codon Usage Tabulated from GenBank""[tw]"	0
+ctri	India Clinical Trials Registry	"""India Clinical Trials Registry""[tw]"	0
+cto	Clinical Trials Ontology	"""Clinical Trials Ontology""[tw] OR ""Clinical Trials Ontology (CTO)""[tw]"	0
+come	The Bioinorganic Motif Database	"""The Bioinorganic Motif Database""[tw]"	0
+colao	Coleoptera Anatomy Ontology	"""Coleoptera Anatomy Ontology""[tw] OR ""Coleoptera Anatomy Ontology (COLAO)""[tw]"	0
+cmf	CranioMaxilloFacial ontology	"""CranioMaxilloFacial ontology""[tw] OR ""CranioMaxilloFacial ontology (CMF)""[tw]"	0
+co_326	Coconut ontology	"""Coconut ontology""[tw] OR ""Coconut ontology (CO_326)""[tw]"	0
+co_338	Chickpea ontology	"""Chickpea ontology""[tw] OR ""Chickpea ontology (CO_338)""[tw]"	0
+co_337	Groundnut ontology	"""Groundnut ontology""[tw] OR ""Groundnut ontology (CO_337)""[tw]"	0
+co_336	Soybean ontology	"""Soybean ontology""[tw] OR ""Soybean ontology (CO_336)""[tw]"	0
+co_335	Common Bean ontology	"""Common Bean ontology""[tw] OR ""Common Bean ontology (CO_335)""[tw]"	0
+co_334	Cassava ontology	"""Cassava ontology""[tw] OR ""Cassava ontology (CO_334)""[tw]"	0
+co_333	Beet Ontology ontology	"""Beet Ontology ontology""[tw] OR ""Beet Ontology ontology (CO_333)""[tw]"	0
+co_331	Sweet Potato ontology	"""Sweet Potato ontology""[tw] OR ""Sweet Potato ontology (CO_331)""[tw]"	0
+co_330	Potato ontology	"""Potato ontology""[tw] OR ""Potato ontology (CO_330)""[tw]"	0
+co_327	Pearl millet ontology	"""Pearl millet ontology""[tw] OR ""Pearl millet ontology (CO_327)""[tw]"	0
+co_325	Banana ontology	"""Banana ontology""[tw] OR ""Banana ontology (CO_325)""[tw]"	0
+col.taiwan	Catalogue of Life in Taiwan	"""Catalogue of Life in Taiwan""[tw]"	0
+co_324	Sorghum ontology	"""Sorghum ontology""[tw] OR ""Sorghum ontology (CO_324)""[tw]"	0
+co_323	Barley ontology	"""Barley ontology""[tw] OR ""Barley ontology (CO_323)""[tw]"	0
+co_322	Maize ontology	"""Maize ontology""[tw] OR ""Maize ontology (CO_322)""[tw]"	0
+co_321	Wheat ontology	"""Wheat ontology""[tw] OR ""Wheat ontology (CO_321)""[tw]"	0
+co_320	Rice ontology	"""Rice ontology""[tw] OR ""Rice ontology (CO_320)""[tw]"	0
+cnt	Representing Content in RDF	"""Representing Content in RDF""[tw]"	0
+cnrs	French National Center for Scientific Research - Research Group Identifier	"""French National Center for Scientific Research - Research Group Identifier""[tw]"	0
+cncb.gwh	CNCB Genome Warehouse	"""CNCB Genome Warehouse""[tw]"	0
+cmpo	Cellular Microscopy Phenotype Ontology	"""Cellular Microscopy Phenotype Ontology""[tw]"	0
+co_339	Lentil ontology	"""Lentil ontology""[tw] OR ""Lentil ontology (CO_339)""[tw]"	0
+co_340	Cowpea ontology	"""Cowpea ontology""[tw] OR ""Cowpea ontology (CO_340)""[tw]"	0
+co_341	Pigeonpea ontology	"""Pigeonpea ontology""[tw] OR ""Pigeonpea ontology (CO_341)""[tw]"	0
+co_343	Yam ontology	"""Yam ontology""[tw] OR ""Yam ontology (CO_343)""[tw]"	0
+coi	COI Catalogue	"""COI Catalogue""[tw]"	0
+codelink	GE Healthcare/Amersham Biosciences CodeLink Human Whole Genome Bioarray	"""GE Healthcare/Amersham Biosciences CodeLink Human Whole Genome Bioarray""[tw]"	0
+codata.rdmt	CODATA Research Data Management Terminology	"""CODATA Research Data Management Terminology""[tw]"	0
+coconut	COlleCtion of Open Natural ProdUcTs	"""COlleCtion of Open Natural ProdUcTs""[tw]"	0
+cob	Core Ontology for Biology and Biomedicine	"""Core Ontology for Biology and Biomedicine""[tw] OR ""Core Ontology for Biology and Biomedicine (COB)""[tw]"	0
+co_370	Apple Ontology	"""Apple Ontology""[tw] OR ""Apple Ontology (CO_370)""[tw]"	0
+co_367	Quinoa Ontology	"""Quinoa Ontology""[tw] OR ""Quinoa Ontology (CO_367)""[tw]"	0
+co_366	Bambara groundnut ontology	"""Bambara groundnut ontology""[tw] OR ""Bambara groundnut ontology (CO_366)""[tw]"	0
+co_365	Fababean ontology	"""Fababean ontology""[tw] OR ""Fababean ontology (CO_365)""[tw]"	0
+co_360	Sugar Kelp trait ontology	"""Sugar Kelp trait ontology""[tw] OR ""Sugar Kelp trait ontology (CO_360)""[tw]"	0
+co_359	Sunflower ontology	"""Sunflower ontology""[tw] OR ""Sunflower ontology (CO_359)""[tw]"	0
+co_358	Cotton ontology	"""Cotton ontology""[tw] OR ""Cotton ontology (CO_358)""[tw]"	0
+co_357	Woody Plant Ontology ontology	"""Woody Plant Ontology ontology""[tw] OR ""Woody Plant Ontology ontology (CO_357)""[tw]"	0
+co_356	Vitis ontology	"""Vitis ontology""[tw] OR ""Vitis ontology (CO_356)""[tw]"	0
+co_350	Oat ontology	"""Oat ontology""[tw] OR ""Oat ontology (CO_350)""[tw]"	0
+co_348	Brassica ontology	"""Brassica ontology""[tw] OR ""Brassica ontology (CO_348)""[tw]"	0
+co_347	Castor bean ontology	"""Castor bean ontology""[tw] OR ""Castor bean ontology (CO_347)""[tw]"	0
+co_346	Mungbean ontology	"""Mungbean ontology""[tw] OR ""Mungbean ontology (CO_346)""[tw]"	0
+co_345	Brachiaria ontology	"""Brachiaria ontology""[tw] OR ""Brachiaria ontology (CO_345)""[tw]"	0
+dbg2introns	DBG2 Introns	"""DBG2 Introns""[tw]"	0
+dblp.author	DBLP author ID	"""DBLP author ID""[tw]"	0
+dbmhc	Database of human Major Histocompatibility Complex	"""Database of human Major Histocompatibility Complex""[tw]"	0
+dpvocab	Data Privacy Vocabulary	"""Data Privacy Vocabulary""[tw]"	0
+drsanv0	AnVIL DRS	"""AnVIL DRS""[tw]"	0
+dron	The Drug Ontology	"""The Drug Ontology""[tw] OR ""The Drug Ontology (DRON)""[tw]"	0
+drks	German Clinical Trials Register	"""German Clinical Trials Register""[tw]"	0
+drduke	Dr. Duke's Phytochemical and Ethnobotanical Databases chemical	"""Dr. Duke's Phytochemical and Ethnobotanical Databases chemical""[tw]"	0
+drc.filenumber	Dutch Research Council File Number	"""Dutch Research Council File Number""[tw]"	0
+dragondb.protein	DragonDB Protein	"""DragonDB Protein""[tw]"	0
+dragondb.locus	DragonDB Locus	"""DragonDB Locus""[tw]"	0
+dragondb.dna	DragonDB DNA	"""DragonDB DNA""[tw]"	0
+dragondb.allele	DragonDB Allele	"""DragonDB Allele""[tw]"	0
+dpv	Description of Plant Viruses	"""Description of Plant Viruses""[tw]"	0
+dbo	DBPedia Ontology	"""DBPedia Ontology""[tw]"	0
+dpo	Drosophila Phenotype Ontology	"""Drosophila Phenotype Ontology""[tw] OR ""Drosophila Phenotype Ontology (DPO)""[tw]"	0
+dpbo	DataPLANT Biology Ontology	"""DataPLANT Biology Ontology""[tw]"	0
+doqcs.pathway	Database of Quantitative Cellular Signaling: Pathway	"""Database of Quantitative Cellular Signaling: Pathway""[tw]"	0
+doqcs.model	Database of Quantitative Cellular Signaling: Model	"""Database of Quantitative Cellular Signaling: Model""[tw]"	0
+door	Database for Prokaryotic Operons	"""Database for Prokaryotic Operons""[tw]"	0
+dommino	Database of Macromolecular Interactions	"""Database of Macromolecular Interactions""[tw]"	0
+dome	DOME Registry	"""DOME Registry""[tw]"	0
+dolce	Descriptive Ontology for Linguistic and Cognitive Engineering	"""Descriptive Ontology for Linguistic and Cognitive Engineering""[tw]"	0
+doco	Document Components Ontology	"""Document Components Ontology""[tw] OR ""Document Components Ontology (DoCO)""[tw]"	0
+drugbank.bioentity	DrugBank Target v4	"""DrugBank Target v4""[tw]"	0
+drugbank.category	DrugBank Drug Category	"""DrugBank Drug Category""[tw]"	0
+drugbank.condition	DrugBank Condition	"""DrugBank Condition""[tw]"	0
+drugbank.metabolite	DrugBank Metabolite	"""DrugBank Metabolite""[tw]"	0
+eco	Evidence and Conclusion Ontology	"""Evidence and Conclusion Ontology""[tw] OR ""Evidence and Conclusion Ontology (ECO)""[tw]"	0
+ecmdb	E. coli Metabolite Database	"""E. coli Metabolite Database""[tw]"	0
+echobase	EchoBASE post-genomic database for Escherichia coli	"""EchoBASE post-genomic database for Escherichia coli""[tw]"	0
+ecg	Electrocardiogram Ontology	"""Electrocardiogram Ontology""[tw]"	0
+ecao	The Echinoderm Anatomy and Development Ontology	"""The Echinoderm Anatomy and Development Ontology""[tw] OR ""The Echinoderm Anatomy and Development Ontology (ECAO)""[tw]"	0
+ecacc	European Collection of Authenticated Cell Culture	"""European Collection of Authenticated Cell Culture""[tw]"	0
+ebisc	European Bank for induced pluripotent Stem Cells	"""European Bank for induced pluripotent Stem Cells""[tw]"	0
+easychair.topic	EasyChair Topic	"""EasyChair Topic""[tw]"	0
+easychair.cfp	EasyChair Call for Paper	"""EasyChair Call for Paper""[tw]"	0
+earthcube.swl	Software Licenses Ontology	"""Software Licenses Ontology""[tw]"	0
+earthcube.srt	Semantic Resource Types Vocabulary	"""Semantic Resource Types Vocabulary""[tw]"	0
+earthcube.sfo	Software Functions Ontology	"""Software Functions Ontology""[tw]"	0
+earthcube.mola	Data Model Language Controlled Vocabulary	"""Data Model Language Controlled Vocabulary""[tw]"	0
+earthcube.aut	Audience Types Controlled Vocabulary	"""Audience Types Controlled Vocabulary""[tw]"	0
+earl	Evaluation and Report Language	"""Evaluation and Report Language""[tw]"	0
+duo	Data Use Ontology	"""Data Use Ontology""[tw] OR ""Data Use Ontology (DUO)""[tw]"	0
+dso	Data Science Ontology	"""Data Science Ontology""[tw]"	0
+drugbank.salt	DrugBank Salts	"""DrugBank Salts""[tw]"	0
+drugbank.reaction	DrugBank Reaction	"""DrugBank Reaction""[tw]"	0
+dockerhub.user	DockerHub User	"""DockerHub User""[tw]"	0
+dockerhub.repo	Docker Hub repository	"""Docker Hub repository""[tw]"	0
+doap	Description of a Project	"""Description of a Project""[tw] OR ""Description of a Project (doap)""[tw]"	0
+deims.site	Dynamic Ecological Information Management System - Site and dataset registry	"""Dynamic Ecological Information Management System - Site and dataset registry""[tw]"	0
+deims.network	Dynamic Ecological Information Management System - Site and Dataset Registry - Network	"""Dynamic Ecological Information Management System - Site and Dataset Registry - Network""[tw]"	0
+deims.location	Dynamic Ecological Information Management System - Site and Dataset Registry - Locations	"""Dynamic Ecological Information Management System - Site and Dataset Registry - Locations""[tw]"	0
+deims.dataset	Dynamic Ecological Information Management System - Site and Dataset Registry - Dataset	"""Dynamic Ecological Information Management System - Site and Dataset Registry - Dataset""[tw]"	0
+deims.activity	Dynamic Ecological Information Management System - Site and Dataset Registry - Activity	"""Dynamic Ecological Information Management System - Site and Dataset Registry - Activity""[tw]"	0
+decipher	DECIPHER CNV Syndromes	"""DECIPHER CNV Syndromes""[tw]"	0
+debio	Decentralized Biomedical Ontology	"""Decentralized Biomedical Ontology""[tw]"	0
+ddpheno	Dictyostelium discoideum phenotype ontology	"""Dictyostelium discoideum phenotype ontology""[tw] OR ""Dictyostelium discoideum phenotype ontology (DDPHENO)""[tw]"	0
+ddinter.interaction	Curated Drug-Drug Interactions Database - Interaction	"""Curated Drug-Drug Interactions Database - Interaction""[tw]"	0
+ddinter.drug	Curated Drug-Drug Interactions Database - Drug	"""Curated Drug-Drug Interactions Database - Drug""[tw]"	0
+ddi	Data Documentation Initiative Vocabulary	"""Data Documentation Initiative Vocabulary""[tw]"	0
+ddanat	Dictyostelium discoideum anatomy	"""Dictyostelium discoideum anatomy""[tw] OR ""Dictyostelium discoideum anatomy (DDANAT)""[tw]"	0
+dctypes	Dublin Core Types	"""Dublin Core Types""[tw] OR ""Dublin Core Types (dctypes)""[tw]"	0
+dcterms	Dublin Core Metadata Initiative Terms	"""Dublin Core Metadata Initiative Terms""[tw] OR ""Dublin Core Metadata Initiative Terms (dcterms)""[tw]"	0
+dc	Dublin Core Elements (1.1)	"""Dublin Core Elements (1.1)""[tw] OR ""Dublin Core Elements (1.1) (dc)""[tw]"	0
+dbvar.variant	Database of Genomic Structural Variation - Variant	"""Database of Genomic Structural Variation - Variant""[tw]"	0
+dbvar.study	Database of Genomic Structural Variation - Study	"""Database of Genomic Structural Variation - Study""[tw]"	0
+dbsnp	dbSNP Reference SNP number	"""dbSNP Reference SNP number""[tw]"	0
+dbprobe	NCBI Probe database Public registry of nucleic acid reagents	"""NCBI Probe database Public registry of nucleic acid reagents""[tw]"	0
+dbpedia.property	DBPedia Property	"""DBPedia Property""[tw]"	0
+deims.sensor	Dynamic Ecological Information Management System - Site and Dataset Registry - Sensor	"""Dynamic Ecological Information Management System - Site and Dataset Registry - Sensor""[tw]"	0
+deims.taxonomy	Dynamic Ecological Information Management System - Site and Dataset Registry - Taxonomy	"""Dynamic Ecological Information Management System - Site and Dataset Registry - Taxonomy""[tw]"	0
+dlxc	Circular double stranded DNA sequences composed	"""Circular double stranded DNA sequences composed""[tw]"	0
+deo	Discourse Elements Ontology	"""Discourse Elements Ontology""[tw] OR ""Discourse Elements Ontology (DEO)""[tw]"	0
+dlxb	Linear double stranded DNA sequences	"""Linear double stranded DNA sequences""[tw]"	0
+disprot.region	DisProt region	"""DisProt region""[tw]"	0
+disdriv	Disease Drivers Ontology	"""Disease Drivers Ontology""[tw] OR ""Disease Drivers Ontology (DISDRIV)""[tw]"	0
+discoverx	DiscoverX cell line products	"""DiscoverX cell line products""[tw]"	0
+dinto	The Drug-Drug Interactions Ontology	"""The Drug-Drug Interactions Ontology""[tw] OR ""The Drug-Drug Interactions Ontology (DINTO)""[tw]"	0
+dideo	Drug-drug Interaction and Drug-drug Interaction Evidence Ontology	"""Drug-drug Interaction and Drug-drug Interaction Evidence Ontology""[tw] OR ""Drug-drug Interaction and Drug-drug Interaction Evidence Ontology (DIDEO)""[tw]"	0
+dictybase.gene	Dictybase Gene	"""Dictybase Gene""[tw]"	0
+dictybase.est	dictyBase Expressed Sequence Tag	"""dictyBase Expressed Sequence Tag""[tw]"	0
+dicom	DICOM Controlled Terminology	"""DICOM Controlled Terminology""[tw]"	0
+dialnet.journal	Dialnet journal ID	"""Dialnet journal ID""[tw]"	0
+dialnet.book	Dialnet book ID	"""Dialnet book ID""[tw]"	0
+dialnet.author	Dialnet author ID	"""Dialnet author ID""[tw]"	0
+dialnet.article	Dialnet article ID	"""Dialnet article ID""[tw]"	0
+dhba	Developing Human Brain Atlas	"""Developing Human Brain Atlas""[tw] OR ""Developing Human Brain Atlas (DHBA)""[tw]"	0
+dggr	Kyoto Stock Center	"""Kyoto Stock Center""[tw]"	0
+dg.4dfc	NCI Data Commons Framework Services	"""NCI Data Commons Framework Services""[tw]"	0
+dev.ga4ghdos	Development Data Object Service	"""Development Data Object Service""[tw]"	0
+dermo	Human Dermatological Disease Ontology	"""Human Dermatological Disease Ontology""[tw]"	0
+depmap	DepMap Cell Lines	"""DepMap Cell Lines""[tw]"	0
+cmo	Clinical measurement ontology	"""Clinical measurement ontology""[tw] OR ""Clinical measurement ontology (CMO)""[tw]"	0
+cmecs	Costal and Marine Ecological Classification Standard	"""Costal and Marine Ecological Classification Standard""[tw]"	0
+mfmo	Mammalian Feeding Muscle Ontology	"""Mammalian Feeding Muscle Ontology""[tw] OR ""Mammalian Feeding Muscle Ontology (MFMO)""[tw]"	0
+bcgo	Beta Cell Genomics Ontology	"""Beta Cell Genomics Ontology""[tw] OR ""Beta Cell Genomics Ontology (BCGO)""[tw]"	0
+bgee.family	Bgee family	"""Bgee family""[tw]"	0
+begdb	Benchmark Energy & Geometry Database	"""Benchmark Energy & Geometry Database""[tw]"	0
+beetlebase	Tribolium Genome Database -- Insertion	"""Tribolium Genome Database -- Insertion""[tw]"	0
+bdgp.insertion	BDGP insertion DB	"""BDGP insertion DB""[tw]"	0
+bdgp.est	Berkeley Drosophila Genome Project EST database	"""Berkeley Drosophila Genome Project EST database""[tw]"	0
+bcrj	Banco de Celulas do Rio de Janeiro	"""Banco de Celulas do Rio de Janeiro""[tw]"	0
+bcrc	BCRC Strain Collection Catalog	"""BCRC Strain Collection Catalog""[tw]"	0
+bco	Biological Collections Ontology	"""Biological Collections Ontology""[tw] OR ""Biological Collections Ontology (BCO)""[tw]"	0
+bcio	The Behaviour Change Intervention Ontology	"""The Behaviour Change Intervention Ontology""[tw]"	0
+bbtp	Blue Brain Project Topological sampling Knowledge Graph	"""Blue Brain Project Topological sampling Knowledge Graph""[tw]"	0
+atfdb.family	Animal TFDB Family	"""Animal TFDB Family""[tw]"	0
+bbkg	Blue Brain Project Knowledge Graph	"""Blue Brain Project Knowledge Graph""[tw]"	0
+bartoc	Basic Register of Thesauri, Ontologies & Classifications	"""Basic Register of Thesauri, Ontologies & Classifications""[tw]"	0
+bams	Brain Architecture Knowledge Management System Neuroanatomical Ontology	"""Brain Architecture Knowledge Management System Neuroanatomical Ontology""[tw]"	0
+bacmap.map	BacMap Map	"""BacMap Map""[tw]"	0
+bacmap.biog	BacMap Biography	"""BacMap Biography""[tw]"	0
+babelon	Babelon	"""Babelon""[tw]"	0
+authorea.author	Authorea author ID	"""Authorea author ID""[tw]"	0
+authenticus	Authenticus ID	"""Authenticus ID""[tw]"	0
+atol	Animal Trait Ontology for Livestock	"""Animal Trait Ontology for Livestock""[tw]"	0
+bgee.gene	Bgee gene	"""Bgee gene""[tw]"	0
+bgee.organ	Bgee organ	"""Bgee organ""[tw]"	0
+bgee.stage	Bgee stage	"""Bgee stage""[tw]"	0
+bibframe	Bibliographic Framework Initiative Vocabulary	"""Bibliographic Framework Initiative Vocabulary""[tw]"	0
+bioregistry.schema	Bioregistry Schema	"""Bioregistry Schema""[tw]"	0
+bioregistry.registry	Bioregistry Metaregistry	"""Bioregistry Metaregistry""[tw]"	0
+bioregistry.collection	Bioregistry Collections	"""Bioregistry Collections""[tw]"	0
+biopixie	biological Process Inference from eXperimental Interaction Evidence/Microarray Experiment Functional Integration Technology	"""biological Process Inference from eXperimental Interaction Evidence/Microarray Experiment Functional Integration Technology""[tw]"	0
+biomodels.vocabulary	SBML RDF Vocabulary	"""SBML RDF Vocabulary""[tw]"	0
+biomodels.teddy	Terminology for Description of Dynamics	"""Terminology for Description of Dynamics""[tw]"	0
+biominder	Bio-MINDER Tissue Database	"""Bio-MINDER Tissue Database""[tw]"	0
+biogrid.interaction	BioGRID Interactions	"""BioGRID Interactions""[tw]"	0
+biodeep	BioDeep Database	"""BioDeep Database""[tw]"	0
+biocyc	BioCyc collection of metabolic pathway databases	"""BioCyc collection of metabolic pathway databases""[tw]"	0
+biocatalogue.service	BioCatalogue Service	"""BioCatalogue Service""[tw]"	0
+bind	BIND accession number	"""BIND accession number""[tw]"	0
+bila	Bilateria anatomy	"""Bilateria anatomy""[tw] OR ""Bilateria anatomy (BILA)""[tw]"	0
+bigg.reaction	BiGG Reaction	"""BiGG Reaction""[tw]"	0
+bigg.model	BiGG Model	"""BiGG Model""[tw]"	0
+bigg.metabolite	BiGG Metabolite	"""BiGG Metabolite""[tw]"	0
+bigg.compartment	BiGG Compartment	"""BiGG Compartment""[tw]"	0
+bido	Bibliometric Data Ontology	"""Bibliometric Data Ontology""[tw] OR ""Bibliometric Data Ontology (BiDO)""[tw]"	0
+bibo	The Bibliographic Ontology	"""The Bibliographic Ontology""[tw] OR ""The Bibliographic Ontology (bibo)""[tw]"	0
+ato	Amphibian taxonomy	"""Amphibian taxonomy""[tw] OR ""Amphibian taxonomy (ATO)""[tw]"	0
+atcvet	Anatomical Therapeutic Chemical Vetinary	"""Anatomical Therapeutic Chemical Vetinary""[tw]"	0
+clyh	Clytia hemisphaerica Development and Anatomy Ontology	"""Clytia hemisphaerica Development and Anatomy Ontology""[tw] OR ""Clytia hemisphaerica Development and Anatomy Ontology (CLYH)""[tw]"	0
+adw	Animal natural history and life history	"""Animal natural history and life history""[tw] OR ""Animal natural history and life history (ADW)""[tw]"	0
+agilent.probe	Agilent Probe	"""Agilent Probe""[tw]"	0
+aftol.taxonomy	Assembling the Fungal Tree of Life - Taxonomy	"""Assembling the Fungal Tree of Life - Taxonomy""[tw]"	0
+aftol.category	Assembling the Fungal Tree of Life - Category	"""Assembling the Fungal Tree of Life - Category""[tw]"	0
+afpo	African Population Ontology	"""African Population Ontology""[tw] OR ""African Population Ontology (AfPO)""[tw]"	0
+afo	Allotrope Merged Ontology Suite	"""Allotrope Merged Ontology Suite""[tw]"	0
+affy.probeset	Affymetrix Probeset	"""Affymetrix Probeset""[tw]"	0
+aero	Adverse Event Reporting Ontology	"""Adverse Event Reporting Ontology""[tw] OR ""Adverse Event Reporting Ontology (AERO)""[tw]"	0
+aeon	Academic Event Ontology	"""Academic Event Ontology""[tw]"	0
+aeo	Anatomical Entity Ontology	"""Anatomical Entity Ontology""[tw] OR ""Anatomical Entity Ontology (AEO)""[tw]"	0
+adms	Asset Description Metadata Schema Vocabulary	"""Asset Description Metadata Schema Vocabulary""[tw]"	0
+aspgd.protein	AspGD Protein	"""AspGD Protein""[tw]"	0
+addexbio	AddexBio cell line products	"""AddexBio cell line products""[tw]"	0
+adcad	Arctic Data Center Academic Disciplines Ontology	"""Arctic Data Center Academic Disciplines Ontology""[tw]"	0
+aceview.worm	Aceview Worm	"""Aceview Worm""[tw]"	0
+ac	Activity Streams	"""Activity Streams""[tw] OR ""Activity Streams (ac)""[tw]"	0
+abs	Annotated Regulatory Binding Sites	"""Annotated Regulatory Binding Sites""[tw]"	0
+abm	Applied Biological Materials cell line products	"""Applied Biological Materials cell line products""[tw]"	0
+abcd	AntiBodies Chemically Defined database	"""AntiBodies Chemically Defined database""[tw]"	0
+aao	Amphibian gross anatomy	"""Amphibian gross anatomy""[tw] OR ""Amphibian gross anatomy (AAO)""[tw]"	0
+_4dn.replicate	4D Nucleome Data Portal Experiment Replicate	"""4D Nucleome Data Portal Experiment Replicate""[tw]"	0
+agrkb	Alliance of Genome Resources Knowledge Base	"""Alliance of Genome Resources Knowledge Base""[tw]"	0
+agro	Agronomy Ontology	"""Agronomy Ontology""[tw] OR ""Agronomy Ontology (AGRO)""[tw]"	0
+agrovoc	Agronomy Vocabulary	"""Agronomy Vocabulary""[tw]"	0
+aio	The Artificial Intelligence Ontology	"""The Artificial Intelligence Ontology""[tw]"	0
+asin	Amazon Standard Identification Number	"""Amazon Standard Identification Number""[tw]"	0
+ascl	Astrophysics Source Code Library	"""Astrophysics Source Code Library""[tw]"	0
+asap	A Systematic Annotation Package for Community Analysis of Genomes	"""A Systematic Annotation Package for Community Analysis of Genomes""[tw]"	0
+ark	Archival Resource Key	"""Archival Resource Key""[tw]"	0
+apollosv	Apollo Structured Vocabulary	"""Apollo Structured Vocabulary""[tw] OR ""Apollo Structured Vocabulary (APOLLO_SV)""[tw]"	0
+apo	Ascomycete phenotype ontology	"""Ascomycete phenotype ontology""[tw] OR ""Ascomycete phenotype ontology (APO)""[tw]"	0
+apid.interactions	APID Interactomes	"""APID Interactomes""[tw]"	0
+aphidbase.transcript	AphidBase Transcript	"""AphidBase Transcript""[tw]"	0
+apaonto	Psychology Ontology	"""Psychology Ontology""[tw]"	0
+aop.stressor	AOPWiki (Stressor)	"""AOPWiki (Stressor)""[tw]"	0
+aop.relationships	AOPWiki (Key Event Relationship)	"""AOPWiki (Key Event Relationship)""[tw]"	0
+aop.events	AOPWiki (Key Event)	"""AOPWiki (Key Event)""[tw]"	0
+ans.educationlevel	U.S. Education Level Vocabulary	"""U.S. Education Level Vocabulary""[tw]"	0
+amphx	The Amphioxus Development and Anatomy Ontology	"""The Amphioxus Development and Anatomy Ontology""[tw] OR ""The Amphioxus Development and Anatomy Ontology (AMPHX)""[tw]"	0
+amphibiaweb.species	AmphibiaWeb Species ID	"""AmphibiaWeb Species ID""[tw]"	0
+alzgene	Alzheimer Gene Database	"""Alzheimer Gene Database""[tw]"	0
+alzforum.mutation	Alzforum Mutations	"""Alzforum Mutations""[tw]"	0
+alfred	The ALlele FREquency Database	"""The ALlele FREquency Database""[tw]"	0
+aism	Ontology for the Anatomy of the Insect SkeletoMuscular system	"""Ontology for the Anatomy of the Insect SkeletoMuscular system""[tw] OR ""Ontology for the Anatomy of the Insect SkeletoMuscular system (AISM)""[tw]"	0
+biozil	BIOZIL	"""BIOZIL""[tw]"	0
+birnlex	Biomedical Informatics Research Network Lexicon	"""Biomedical Informatics Research Network Lexicon""[tw]"	0
+biro	Bibliographic Reference Ontology	"""Bibliographic Reference Ontology""[tw] OR ""Bibliographic Reference Ontology (BiRO)""[tw]"	0
+chembl.target	ChEMBL target	"""ChEMBL target""[tw]"	0
+chiro	ChEBI Integrated Role Ontology	"""ChEBI Integrated Role Ontology""[tw] OR ""ChEBI Integrated Role Ontology (CHIRO)""[tw]"	0
+chickenqtldb	Animal Genome Chicken QTL	"""Animal Genome Chicken QTL""[tw]"	0
+chemrof	Chemical Entity Materials and Reactions Ontological Framework	"""Chemical Entity Materials and Reactions Ontological Framework""[tw] OR ""Chemical Entity Materials and Reactions Ontological Framework (ChEMROF)""[tw]"	0
+chempro.target	ChemPro Target	"""ChemPro Target""[tw]"	0
+chempro.probe	ChemPro Probe	"""ChemPro Probe""[tw]"	0
+chempro.competitor	ChemPro Competitor	"""ChemPro Competitor""[tw]"	0
+chemfont.ontology	ChemFOnt Ontology	"""ChemFOnt Ontology""[tw]"	0
+chemfont.chemical	ChemFOnt Chemical	"""ChemFOnt Chemical""[tw]"	0
+chembl.tissue	ChEMBL tissue	"""ChEMBL tissue""[tw]"	0
+chembl.mechanism	ChEMBL mechanism	"""ChEMBL mechanism""[tw]"	0
+bitterdb.cpd	BitterDB Compound	"""BitterDB Compound""[tw]"	0
+chembl.cell	ChEMBL database of bioactive drug-like small molecules - Cell lines section	"""ChEMBL database of bioactive drug-like small molecules - Cell lines section""[tw]"	0
+charprot	CharProt	"""CharProt""[tw]"	0
+cgnc	Chicken Gene Nomenclature Consortium	"""Chicken Gene Nomenclature Consortium""[tw]"	0
+cghdb	CGH Data Base	"""CGH Data Base""[tw]"	0
+ceph	Cephalopod Ontology	"""Cephalopod Ontology""[tw] OR ""Cephalopod Ontology (CEPH)""[tw]"	0
+cemo	The COVID-19 epidemiology and monitoring ontology	"""The COVID-19 epidemiology and monitoring ontology""[tw]"	0
+cellxgene.dataset	Chan Zuckerberg CELLxGENE Dataset	"""Chan Zuckerberg CELLxGENE Dataset""[tw]"	0
+cellxgene.collection	Chan Zuckerberg CELLxGENE Collection	"""Chan Zuckerberg CELLxGENE Collection""[tw]"	0
+cellrepo	Cell Version Control Repository	"""Cell Version Control Repository""[tw]"	0
+chmo	Chemical Methods Ontology	"""Chemical Methods Ontology""[tw] OR ""Chemical Methods Ontology (CHMO)""[tw]"	0
+chr	Chromosome Ontology	"""Chromosome Ontology""[tw]"	0
+cienciavitae	CIÊNCIAVITAE ID	"""CIÊNCIAVITAE ID""[tw]"	0
+cio	Confidence Information Ontology	"""Confidence Information Ontology""[tw] OR ""Confidence Information Ontology (CIO)""[tw]"	0
+cls	Cell Lines Service	"""Cell Lines Service""[tw]"	0
+clm	Cell Markers Ontology	"""Cell Markers Ontology""[tw] OR ""Cell Markers Ontology (CLM)""[tw]"	0
+clinvar.submitter	ClinVar Submitter	"""ClinVar Submitter""[tw]"	0
+clinvar.submission	ClinVar Submission	"""ClinVar Submission""[tw]"	0
+clinvar.record	ClinVar Record	"""ClinVar Record""[tw]"	0
+clinvar	ClinVar Variation	"""ClinVar Variation""[tw]"	0
+clingen.affiliation	ClinGen Clinical Genome Expert Panel	"""ClinGen Clinical Genome Expert Panel""[tw]"	0
+clao	Collembola Anatomy Ontology	"""Collembola Anatomy Ontology""[tw] OR ""Collembola Anatomy Ontology (CLAO)""[tw]"	0
+civic.vid	CIViC variant	"""CIViC variant""[tw]"	0
+civic.vgid	CIViC Variant Group	"""CIViC Variant Group""[tw]"	0
+civic.tid	CIViC Therapy	"""CIViC Therapy""[tw]"	0
+civic.sid	CIViC Source	"""CIViC Source""[tw]"	0
+civic.mpid	CIViC Molecular Profile	"""CIViC Molecular Profile""[tw]"	0
+civic.gid	CIViC gene	"""CIViC gene""[tw]"	0
+civic.eid	CIViC Evidence	"""CIViC Evidence""[tw]"	0
+civic.did	CIViC Disease	"""CIViC Disease""[tw]"	0
+civic.aid	CIViC Assertion	"""CIViC Assertion""[tw]"	0
+citexplore	CiteXplore	"""CiteXplore""[tw]"	0
+citedcat	DataCite to DCAT-AP Mapping	"""DataCite to DCAT-AP Mapping""[tw]"	0
+cellosaurus.resource	Cellosaurus Registry	"""Cellosaurus Registry""[tw]"	0
+cellopub	Cellosaurus Publication	"""Cellosaurus Publication""[tw]"	0
+cellimage	Cell Image Library	"""Cell Image Library""[tw]"	0
+cabri	Common Access to Biological Resources and Information Project	"""Common Access to Biological Resources and Information Project""[tw]"	0
+c4o	Citation Counting and Context Characterisation Ontology	"""Citation Counting and Context Characterisation Ontology""[tw] OR ""Citation Counting and Context Characterisation Ontology (C4O)""[tw]"	0
+bykdb	Bacterial Tyrosine Kinase Database	"""Bacterial Tyrosine Kinase Database""[tw]"	0
+bugbase.protocol	BugBase Protocol	"""BugBase Protocol""[tw]"	0
+bugbase.expt	BugBase Expt	"""BugBase Expt""[tw]"	0
+bto	BRENDA Tissue Ontology	"""BRENDA Tissue Ontology""[tw] OR ""BRENDA Tissue Ontology (BTO)""[tw]"	0
+bspo	Biological Spatial Ontology	"""Biological Spatial Ontology""[tw] OR ""Biological Spatial Ontology (BSPO)""[tw]"	0
+bs	Biosapiens Protein Feature Ontology	"""Biosapiens Protein Feature Ontology""[tw]"	0
+broad	Broad Fungal Genome Initiative	"""Broad Fungal Genome Initiative""[tw]"	0
+bridgedb	BridgeDb Vocabulary	"""BridgeDb Vocabulary""[tw]"	0
+brenda.ligandgroup	BRENDA Ligand Group	"""BRENDA Ligand Group""[tw]"	0
+brenda.ligand	BRENDA Ligand	"""BRENDA Ligand""[tw]"	0
+bpdb	Bio-Pesticides DataBase	"""Bio-Pesticides DataBase""[tw]"	0
+bold.taxonomy	BOLD Systems taxon	"""BOLD Systems taxon""[tw]"	0
+bmrb.restraint	NMR Restraints Grid	"""NMR Restraints Grid""[tw]"	0
+bmont	Biomarker Ontology	"""Biomarker Ontology""[tw] OR ""Biomarker Ontology (BMONT)""[tw]"	0
+bmbf.glossary	German Federal Ministry of Education and Research Glossary	"""German Federal Ministry of Education and Research Glossary""[tw]"	0
+blastrule	BlastRule	"""BlastRule""[tw]"	0
+bko	SBGN Bricks data and ontology	"""SBGN Bricks data and ontology""[tw]"	0
+bitterdb.rec	BitterDB Receptor	"""BitterDB Receptor""[tw]"	0
+cabi	CABI Digital Library	"""CABI Digital Library""[tw]"	0
+cadsr	Cancer Data Standards Registry and Repository	"""Cancer Data Standards Registry and Repository""[tw]"	0
+cellbank.australia	CellBank Australia	"""CellBank Australia""[tw]"	0
+caloha	CALIPHO Group Ontology of Human Anatomy	"""CALIPHO Group Ontology of Human Anatomy""[tw]"	0
+cell_model_passport	Sanger Cell Model Passports	"""Sanger Cell Model Passports""[tw]"	0
+cell_biolabs	Cell Biolabs cell line products	"""Cell Biolabs cell line products""[tw]"	0
+ceds.element	Common Entity Data Standards - Domain Entity Schema	"""Common Entity Data Standards - Domain Entity Schema""[tw]"	0
+cdpd	Canadian Drug Product Database	"""Canadian Drug Product Database""[tw]"	0
+cdno	Compositional Dietary Nutrition Ontology	"""Compositional Dietary Nutrition Ontology""[tw] OR ""Compositional Dietary Nutrition Ontology (CDNO)""[tw]"	0
+cdd	Conserved Domain Database at NCBI	"""Conserved Domain Database at NCBI""[tw]"	0
+cdao	Comparative Data Analysis Ontology	"""Comparative Data Analysis Ontology""[tw] OR ""Comparative Data Analysis Ontology (CDAO)""[tw]"	0
+ccrid	National Experimental Cell Resource Sharing Platform	"""National Experimental Cell Resource Sharing Platform""[tw]"	0
+ccle	Cancer Cell Line Encyclopedia Cells	"""Cancer Cell Line Encyclopedia Cells""[tw]"	0
+ccf	Human Reference Atlas Common Coordinate Framework Ontology	"""Human Reference Atlas Common Coordinate Framework Ontology""[tw]"	0
+ccds	Consensus CDS	"""Consensus CDS""[tw]"	0
+ccdc	CCDC Number	"""CCDC Number""[tw]"	0
+cc	Creative Commons Rights Expression Language	"""Creative Commons Rights Expression Language""[tw]"	0
+cbioportal	The cBioPortal for Cancer Genomics	"""The cBioPortal for Cancer Genomics""[tw]"	0
+cba	Chinese Biological Abstracts	"""Chinese Biological Abstracts""[tw]"	0
+cattleqtldb	Animal Genome Cattle QTL	"""Animal Genome Cattle QTL""[tw]"	0
+cath	CATH Protein Structural Domain Superfamily	"""CATH Protein Structural Domain Superfamily""[tw]"	0
+casspc	Eschmeyer's Catalog of Fishes	"""Eschmeyer's Catalog of Fishes""[tw]"	0
+cao	Chemical Analysis Ontology	"""Chemical Analysis Ontology""[tw]"	0
+ecocore	An ontology of core ecological entities	"""An ontology of core ecological entities""[tw] OR ""An ontology of core ecological entities (ECOCORE)""[tw]"	0
+ecogene	Database of Escherichia coli Sequence and Function	"""Database of Escherichia coli Sequence and Function""[tw]"	0
+ecoliwiki	EcoliWiki from EcoliHub	"""EcoliWiki from EcoliHub""[tw]"	0
+ieee.document	IEEE Xplore document ID	"""IEEE Xplore document ID""[tw]"	0
+imgt.hla	IMGT/HLA human major histocompatibility complex sequence database	"""IMGT/HLA human major histocompatibility complex sequence database""[tw]"	0
+img.taxon	Integrated Microbial Genomes Taxon	"""Integrated Microbial Genomes Taxon""[tw]"	0
+img.gene	Integrated Microbial Genomes Gene	"""Integrated Microbial Genomes Gene""[tw]"	0
+imanis	Imanis Life Sciences cell line products	"""Imanis Life Sciences cell line products""[tw]"	0
+illumina.probe	Illumina Probe Identifier	"""Illumina Probe Identifier""[tw]"	0
+igsn	International Generic Sample Number	"""International Generic Sample Number""[tw]"	0
+igrhcellid	Integrated Genomic Resources of human Cell Lines for Identification	"""Integrated Genomic Resources of human Cell Lines for Identification""[tw]"	0
+iev	Event (INOH pathway ontology)	"""Event (INOH pathway ontology)""[tw] OR ""Event (INOH pathway ontology) (IEV)""[tw]"	0
+ietf.language	Internet Engineering Task Force Language Tag	"""Internet Engineering Task Force Language Tag""[tw]"	0
+ieee.author	IEEE Xplore author ID	"""IEEE Xplore author ID""[tw]"	0
+idocovid19	The COVID-19 Infectious Disease Ontology	"""The COVID-19 Infectious Disease Ontology""[tw]"	0
+iedb.reference	Immune Epitope Database References	"""Immune Epitope Database References""[tw]"	0
+iedb.receptor	Immune Epitope Database Receptors	"""Immune Epitope Database Receptors""[tw]"	0
+iedb.mhc	Immune Epitope Database MHC Restrictions	"""Immune Epitope Database MHC Restrictions""[tw]"	0
+iedb.epitope	Immune Epitope Database Epitopes	"""Immune Epitope Database Epitopes""[tw]"	0
+iedb.assay	Immune Epitope Database Assays	"""Immune Epitope Database Assays""[tw]"	0
+idpo	Intrinsically Disordered Proteins Ontology	"""Intrinsically Disordered Proteins Ontology""[tw]"	0
+idot	Identifiers.org Terms	"""Identifiers.org Terms""[tw] OR ""Identifiers.org Terms (idot)""[tw]"	0
+idoo	Identifiers.org Ontology	"""Identifiers.org Ontology""[tw]"	0
+idog	Integrated Resource for Domestic Dog	"""Integrated Resource for Domestic Dog""[tw]"	0
+imgt.ligm	ImMunoGeneTics database covering immunoglobulins and T-cell receptors	"""ImMunoGeneTics database covering immunoglobulins and T-cell receptors""[tw]"	0
+imotdb	Database of Spatially Interacting Motifs in Proteins	"""Database of Spatially Interacting Motifs in Proteins""[tw]"	0
+imr	Molecule role (INOH Protein name/family name ontology)	"""Molecule role (INOH Protein name/family name ontology)""[tw] OR ""Molecule role (INOH Protein name/family name ontology) (IMR)""[tw]"	0
+imsr.apb	NHMRC Australian PhenomeBank	"""NHMRC Australian PhenomeBank""[tw]"	0
+isced1997	International Standard Classification of Education, 1997 Edition	"""International Standard Classification of Education, 1997 Edition""[tw]"	0
+iro	Insect Resistance Ontology	"""Insect Resistance Ontology""[tw]"	0
+iresite	Database of experimentally verified IRES structures	"""Database of experimentally verified IRES structures""[tw]"	0
+ird.segment	IRD Segment Sequence	"""IRD Segment Sequence""[tw]"	0
+iobc	Interlinking Ontology for Biological Concepts	"""Interlinking Ontology for Biological Concepts""[tw]"	0
+interfil	Human Intermediate Filament Database	"""Human Intermediate Filament Database""[tw]"	0
+intact	IntAct protein interaction database	"""IntAct protein interaction database""[tw]"	0
+insdc.run	International Nucleotide Sequence Database Collaboration (INSDC) Run	"""International Nucleotide Sequence Database Collaboration (INSDC) Run""[tw]"	0
+insdc.gcf	Genome assembly database - RefSeq accessions	"""Genome assembly database - RefSeq accessions""[tw]"	0
+insdc.gca	Genome assembly database - INSDC accessions	"""Genome assembly database - INSDC accessions""[tw]"	0
+insdc.cds	INSDC CDS	"""INSDC CDS""[tw]"	0
+innatedb	A Knowledge Resource for Innate Immunity Interactions and Pathways	"""A Knowledge Resource for Innate Immunity Interactions and Pathways""[tw]"	0
+inhand	The International Harmonization of Nomenclature and Diagnostic criteria	"""The International Harmonization of Nomenclature and Diagnostic criteria""[tw]"	0
+informall	InformAll Allergenic Food Database	"""InformAll Allergenic Food Database""[tw]"	0
+infores	Information Resource Registry	"""Information Resource Registry""[tw]"	0
+inaturalist.user	iNaturalist User	"""iNaturalist User""[tw]"	0
+inaturalist.taxon	iNaturalist Taxonomy	"""iNaturalist Taxonomy""[tw]"	0
+inaturalist.place	iNaturalist Place	"""iNaturalist Place""[tw]"	0
+_4dn.biosource	4D Nucleome Data Portal Biosource	"""4D Nucleome Data Portal Biosource""[tw]"	0
+idoden	Dengue Fever Ontology	"""Dengue Fever Ontology""[tw]"	0
+ideal	Intrinsically Disordered proteins with Extensive Annotations and Literature	"""Intrinsically Disordered proteins with Extensive Annotations and Literature""[tw]"	0
+ecso	The Ecosystem Ontology	"""The Ecosystem Ontology""[tw]"	0
+holofood.animal	HoloFood animal	"""HoloFood animal""[tw]"	0
+hpath	Histopathology Ontology	"""Histopathology Ontology""[tw]"	0
+hpa	Human Protein Atlas tissue profile information	"""Human Protein Atlas tissue profile information""[tw]"	0
+hovergen	Homologous Vertebrate Genes Database	"""Homologous Vertebrate Genes Database""[tw]"	0
+hoso	Healthcare Organizations and Services Ontology	"""Healthcare Organizations and Services Ontology""[tw]"	0
+horizon_discovery	Horizon Discovery cell line collection	"""Horizon Discovery cell line collection""[tw]"	0
+homosaurus	Homosaurus	"""Homosaurus""[tw]"	0
+homd.seq	HOMD Sequence Metainformation	"""HOMD Sequence Metainformation""[tw]"	0
+hom	Homology Ontology	"""Homology Ontology""[tw] OR ""Homology Ontology (HOM)""[tw]"	0
+holofood.sample	HoloFood sample	"""HoloFood sample""[tw]"	0
+hoip	Homeostasis imbalance process ontology	"""Homeostasis imbalance process ontology""[tw]"	0
+ictv	International Committee on Taxonomy of Viruses Ontology	"""International Committee on Taxonomy of Viruses Ontology""[tw]"	0
+hogenom	Database of Complete Genome Homologous Genes Families	"""Database of Complete Genome Homologous Genes Families""[tw]"	0
+hog	Homologous Organ Groups	"""Homologous Organ Groups""[tw]"	0
+hoelzel	Hölzel Diagnostika	"""Hölzel Diagnostika""[tw]"	0
+hms.lincs.dataset	HMS Library of Integrated Network-based Cellular Signatures Datasets	"""HMS Library of Integrated Network-based Cellular Signatures Datasets""[tw]"	0
+hms.lincs.compound	HMS LINCS Compound	"""HMS LINCS Compound""[tw]"	0
+hms.lincs.cell	HMS LINCS Cell	"""HMS LINCS Cell""[tw]"	0
+hms.lincs.antibody	HMS Library of Integrated Network-based Cellular Signatures Antibodies	"""HMS Library of Integrated Network-based Cellular Signatures Antibodies""[tw]"	0
+hl7.v3codesystem	HL7 V2 Code Systems	"""HL7 V2 Code Systems""[tw]"	0
+hl7.v2codesystem	HL7 V2 Code Systems	"""HL7 V2 Code Systems""[tw]"	0
+hpm.peptide	Human Proteome Map Peptide	"""Human Proteome Map Peptide""[tw]"	0
+hso	Health Surveillance Ontology	"""Health Surveillance Ontology""[tw] OR ""Health Surveillance Ontology (HSO)""[tw]"	0
+htn	Hypertension Ontology	"""Hypertension Ontology""[tw] OR ""Hypertension Ontology (HTN)""[tw]"	0
+hubmap.collection	Human BioMolecular Atlas Program Collection	"""Human BioMolecular Atlas Program Collection""[tw]"	0
+icpd.study	Indian Crop Phenome Database Study	"""Indian Crop Phenome Database Study""[tw]"	0
+icpd.project	Indian Crop Phenome Database Project	"""Indian Crop Phenome Database Project""[tw]"	0
+iconclass	Iconclass Classification	"""Iconclass Classification""[tw]"	0
+icldb	Insect Cell Line Database	"""Insect Cell Line Database""[tw]"	0
+iclc	Interlab Cell Line Collection	"""Interlab Cell Line Collection""[tw]"	0
+iceo	Integrative and Conjugative Element Ontology	"""Integrative and Conjugative Element Ontology""[tw] OR ""Integrative and Conjugative Element Ontology (ICEO)""[tw]"	0
+icechem	Integrated Chemical Environment - Chemical data	"""Integrated Chemical Environment - Chemical data""[tw]"	0
+iceberg.ime	ICEberg integrative and mobilizable element	"""ICEberg integrative and mobilizable element""[tw]"	0
+iceberg.family	ICEberg family	"""ICEberg family""[tw]"	0
+iceberg.element	ICEberg integrative and conjugative element	"""ICEberg integrative and conjugative element""[tw]"	0
+iceberg.cime	ICEberg cis-integrative and mobilizable element	"""ICEberg cis-integrative and mobilizable element""[tw]"	0
+icdc	Integrated Canine Data Commons	"""Integrated Canine Data Commons""[tw]"	0
+icd11	International Classification of Diseases, 11th Revision (Foundation Component)	"""International Classification of Diseases, 11th Revision (Foundation Component)""[tw]"	0
+iao.issue	Information Artifact Ontology Issue Tracker	"""Information Artifact Ontology Issue Tracker""[tw]"	0
+humap	Human Protein Complex Map	"""Human Protein Complex Map""[tw]"	0
+huge	Human Unidentified Gene-Encoded	"""Human Unidentified Gene-Encoded""[tw]"	0
+hubmap.sample	Human BioMolecular Atlas Program Sample	"""Human BioMolecular Atlas Program Sample""[tw]"	0
+hubmap.donor	Human BioMolecular Atlas Program Donor	"""Human BioMolecular Atlas Program Donor""[tw]"	0
+hubmap.dataset	Human BioMolecular Atlas Program Dataset	"""Human BioMolecular Atlas Program Dataset""[tw]"	0
+isced2011	International Standard Classification of Education, 2011 Edition	"""International Standard Classification of Education, 2011 Edition""[tw]"	0
+isced2013	International Standard Classification of Education, 2013 Edition	"""International Standard Classification of Education, 2013 Edition""[tw]"	0
+ised	Influenza Sequence and Epitope Database	"""Influenza Sequence and Epitope Database""[tw]"	0
+macie	Mechanism, Annotation and Classification in Enzymes	"""Mechanism, Annotation and Classification in Enzymes""[tw]"	0
+mco	Microbial Conditions Ontology	"""Microbial Conditions Ontology""[tw] OR ""Microbial Conditions Ontology (MCO)""[tw]"	0
+mcc	Cell Line Ontology [derivative]	"""Cell Line Ontology [derivative]""[tw]"	0
+mavedb	Multiplexed Assays of Variant Effect Database	"""Multiplexed Assays of Variant Effect Database""[tw]"	0
+matrixdb.association	MatrixDB Association	"""MatrixDB Association""[tw]"	0
+mat	Minimal Anatomical Terminology	"""Minimal Anatomical Terminology""[tw] OR ""Minimal Anatomical Terminology (MAT)""[tw]"	0
+marc21	Machine-readable Cataloging (MARC) List for Languages	"""Machine-readable Cataloging (MARC) List for Languages""[tw]"	0
+mampol	Mammalia Polymorphism Database	"""Mammalia Polymorphism Database""[tw]"	0
+mamo	Mathematical modeling ontology	"""Mathematical modeling ontology""[tw] OR ""Mathematical modeling ontology (MAMO)""[tw]"	0
+maizegdb.locus	MaizeGDB Locus	"""MaizeGDB Locus""[tw]"	0
+ma	Mouse adult gross anatomy	"""Mouse adult gross anatomy""[tw] OR ""Mouse adult gross anatomy (MA)""[tw]"	0
+isfinder	Insertion sequence elements database	"""Insertion sequence elements database""[tw]"	0
+m4i	Metadata4Ing	"""Metadata4Ing""[tw]"	0
+lw	LifeWatch Metadata Catalogue	"""LifeWatch Metadata Catalogue""[tw]"	0
+lter	Long Term Ecological Research Controlled Vocabulary	"""Long Term Ecological Research Controlled Vocabulary""[tw]"	0
+lspci	Laboratory of Systems Pharmacology Compound	"""Laboratory of Systems Pharmacology Compound""[tw]"	0
+lrg	Locus Reference Genomic	"""Locus Reference Genomic""[tw]"	0
+lpt	Livestock Product Trait Ontology	"""Livestock Product Trait Ontology""[tw]"	0
+lotus	LOTUS Initiative for Open Natural Products Research	"""LOTUS Initiative for Open Natural Products Research""[tw]"	0
+loqate	The localization and quantitation atlas of the yeast proteome	"""The localization and quantitation atlas of the yeast proteome""[tw]"	0
+loop	Loop ID	"""Loop ID""[tw]"	0
+mcro	Model Card Report Ontology	"""Model Card Report Ontology""[tw] OR ""Model Card Report Ontology (MCRO)""[tw]"	0
+mdl	Molecular Design Limited Hash	"""Molecular Design Limited Hash""[tw]"	0
+meddra	Medical Dictionary for Regulatory Activities Terminology	"""Medical Dictionary for Regulatory Activities Terminology""[tw]"	0
+medgen.cid	MedGen Concept Unique ID	"""MedGen Concept Unique ID""[tw]"	0
+mf	Mental Functioning Ontology	"""Mental Functioning Ontology""[tw] OR ""Mental Functioning Ontology (MF)""[tw]"	0
+metnetdb	Metabolic Network Exchange Database	"""Metabolic Network Exchange Database""[tw]"	0
+metlin	Metabolite and Tandem Mass Spectrometry Database	"""Metabolite and Tandem Mass Spectrometry Database""[tw]"	0
+metatlas.reaction	Metabolic Atlas Reaction	"""Metabolic Atlas Reaction""[tw]"	0
+metatlas.metabolite	Metabolic Atlas Metabolite	"""Metabolic Atlas Metabolite""[tw]"	0
+metanetx.reaction	MetaNetX reaction	"""MetaNetX reaction""[tw]"	0
+metanetx.compartment	MetaNetX compartment	"""MetaNetX compartment""[tw]"	0
+metanetx.chemical	MetaNetX chemical	"""MetaNetX chemical""[tw]"	0
+metacyc.reaction	MetaCyc Reaction	"""MetaCyc Reaction""[tw]"	0
+metacyc.pathway	Metabolic Encyclopedia for Pathway/Genome Databases	"""Metabolic Encyclopedia for Pathway/Genome Databases""[tw]"	0
+metacyc.compound	Metabolic Encyclopedia of metabolic and other pathways	"""Metabolic Encyclopedia of metabolic and other pathways""[tw]"	0
+metabolights	MetaboLights Compound	"""MetaboLights Compound""[tw]"	0
+mesh.2013	MeSH 2013	"""MeSH 2013""[tw]"	0
+merops.entry	MEROPS Entry	"""MEROPS Entry""[tw]"	0
+merckindex.reaction	Merck Index Reaction	"""Merck Index Reaction""[tw]"	0
+merckindex.monograph	Merck Index Monograph	"""Merck Index Monograph""[tw]"	0
+mediadive.solution	MediaDive Solution	"""MediaDive Solution""[tw]"	0
+mediadive.medium	MediaDive Medium	"""MediaDive Medium""[tw]"	0
+mediadive.ingredient	MediaDive Ingredient	"""MediaDive Ingredient""[tw]"	0
+linkedin	LinkedIn personal profile ID	"""LinkedIn personal profile ID""[tw]"	0
+linguist.gold	Genderal Ontology for Linguistic Description	"""Genderal Ontology for Linguistic Description""[tw]"	0
+lincs.protein	LINCS Protein	"""LINCS Protein""[tw]"	0
+kestrelo	KESTREL Ontology	"""KESTREL Ontology""[tw]"	0
+kegg.rclass	KEGG Reaction Class	"""KEGG Reaction Class""[tw]"	0
+kegg.metagenome	KEGG Metagenome	"""KEGG Metagenome""[tw]"	0
+kegg.environ	KEGG Environ	"""KEGG Environ""[tw]"	0
+kegg.dgroup	KEGG Drug Group	"""KEGG Drug Group""[tw]"	0
+kaken	e-Rad researcher number	"""e-Rad researcher number""[tw]"	0
+jstor	Digital archive of scholarly articles	"""Digital archive of scholarly articles""[tw]"	0
+jgi.proposal	Joint Genome Institute Proposals	"""Joint Genome Institute Proposals""[tw]"	0
+jcsd	Japan Chemical Substance Dictionary	"""Japan Chemical Substance Dictionary""[tw]"	0
+jcrb	JRBC Cell Bank	"""JRBC Cell Bank""[tw]"	0
+jcggdb	Japan Consortium for Glycobiology and Glycotechnology Database	"""Japan Consortium for Glycobiology and Glycotechnology Database""[tw]"	0
+jaxmice	Jackson Laboratories Mouse Strain	"""Jackson Laboratories Mouse Strain""[tw]"	0
+iuphar.receptor	Guide to Pharmacology Target	"""Guide to Pharmacology Target""[tw]"	0
+iuphar.ligand	Guide to Pharmacology Ligand	"""Guide to Pharmacology Ligand""[tw]"	0
+iuphar.family	IUPHAR family	"""IUPHAR family""[tw]"	0
+ito	Intelligence Task Ontology	"""Intelligence Task Ontology""[tw]"	0
+iso15926	ISO 15926-14	"""ISO 15926-14""[tw]"	0
+iso.639-3	ISO 639 3-Letter Language Code	"""ISO 639 3-Letter Language Code""[tw]"	0
+iso.3166	ISO 3166-1 Country Code	"""ISO 3166-1 Country Code""[tw]"	0
+isni	International Standard Name Identifier	"""International Standard Name Identifier""[tw]"	0
+kerafast	Kerafast cell lines	"""Kerafast cell lines""[tw]"	0
+kim.educationlevel	KIM Education Level	"""KIM Education Level""[tw]"	0
+ligea	Cancer cell LInes GEne fusions portAl	"""Cancer cell LInes GEne fusions portAl""[tw]"	0
+kim.esv	Educational Sectors Vocabulary	"""Educational Sectors Vocabulary""[tw]"	0
+ligandexpo	Ligand Expo	"""Ligand Expo""[tw]"	0
+lifestylefactors	Lifestyle Factors Ontology	"""Lifestyle Factors Ontology""[tw]"	0
+licebase	LiceBase	"""LiceBase""[tw]"	0
+lgai.cede	LG Chemical Entity Detection Dataset (LGCEDe)	"""LG Chemical Entity Detection Dataset (LGCEDe)""[tw]"	0
+lepao	Lepidoptera Anatomy Ontology	"""Lepidoptera Anatomy Ontology""[tw] OR ""Lepidoptera Anatomy Ontology (LEPAO)""[tw]"	0
+lei	Global LEI Index	"""Global LEI Index""[tw]"	0
+lccn	Library of Congress Control Number	"""Library of Congress Control Number""[tw]"	0
+lbo	Livestock Breed Ontology	"""Livestock Breed Ontology""[tw]"	0
+lbctr	Lebanon Clinical Trials Registry	"""Lebanon Clinical Trials Registry""[tw]"	0
+lattes	Lattes Platform number	"""Lattes Platform number""[tw]"	0
+langual	Langua aLimentaria Thesaurus	"""Langua aLimentaria Thesaurus""[tw]"	0
+labo	clinical LABoratory Ontology	"""clinical LABoratory Ontology""[tw] OR ""clinical LABoratory Ontology (LABO)""[tw]"	0
+kyinno	KYinno cell lines	"""KYinno cell lines""[tw]"	0
+kupo	Kidney and Urinary Pathway Ontology	"""Kidney and Urinary Pathway Ontology""[tw]"	0
+kim.schulfaecher	KIM School Subjects	"""KIM School Subjects""[tw]"	0
+kim.schularten	KIM German School Types	"""KIM German School Types""[tw]"	0
+kim.license	KIM License	"""KIM License""[tw]"	0
+kim.hochschulfaechersystematik	German University Subject Classification System	"""German University Subject Classification System""[tw]"	0
+kim.hcrt	Higher Education Resource Types	"""Higher Education Resource Types""[tw]"	0
+hivreagentprogram	NIH HIV Reagent Program	"""NIH HIV Reagent Program""[tw]"	0
+hipsci	Human Induced Pluripotent Stem Cells Initiative	"""Human Induced Pluripotent Stem Cells Initiative""[tw]"	0
+hinv.transcript	H-InvDb Transcript	"""H-InvDb Transcript""[tw]"	0
+fabio	FaBiO, the FRBR-aligned Bibliographic Ontology	"""FaBiO, the FRBR-aligned Bibliographic Ontology""[tw]"	0
+fbbt	Drosophila gross anatomy	"""Drosophila gross anatomy""[tw] OR ""Drosophila gross anatomy (FBbt)""[tw]"	0
+fbbi	Biological Imaging Methods Ontology	"""Biological Imaging Methods Ontology""[tw] OR ""Biological Imaging Methods Ontology (FBbi)""[tw]"	0
+fao.asfis	Aquatic Sciences and Fisheries Information System	"""Aquatic Sciences and Fisheries Information System""[tw]"	0
+fao	Fungal gross anatomy	"""Fungal gross anatomy""[tw] OR ""Fungal gross anatomy (FAO)""[tw]"	0
+fanta	Functional Genome Annotations with Transcriptional Activities	"""Functional Genome Annotations with Transcriptional Activities""[tw]"	0
+faldo	Feature Annotation Location Description Ontology 	"""Feature Annotation Location Description Ontology ""[tw] OR ""Feature Annotation Location Description Ontology  (faldo)""[tw]"	0
+fairsharing.user	FAIRsharing User	"""FAIRsharing User""[tw]"	0
+fairsharing.organization	FAIRsharing Organization	"""FAIRsharing Organization""[tw]"	0
+facebase	FaceBase Data Repository	"""FaceBase Data Repository""[tw]"	0
+exac.variant	ExAC Variant	"""ExAC Variant""[tw]"	0
+frapo	Funding, Research Administration and Projects Ontology	"""Funding, Research Administration and Projects Ontology""[tw] OR ""Funding, Research Administration and Projects Ontology (FRAPO)""[tw]"	0
+exac.transcript	ExAC Transcript	"""ExAC Transcript""[tw]"	0
+exac.gene	ExAC Gene	"""ExAC Gene""[tw]"	0
+evr	Event Venue Registry	"""Event Venue Registry""[tw]"	0
+evorao	EVORA Ontology	"""EVORA Ontology""[tw]"	0
+evm	eVOC mouse development stage	"""eVOC mouse development stage""[tw]"	0
+ev	eVOC (Expressed Sequence Annotation for Humans)	"""eVOC (Expressed Sequence Annotation for Humans)""[tw] OR ""eVOC (Expressed Sequence Annotation for Humans) (EV)""[tw]"	0
+europe.pic	European Commission Participant Identification Code (PIC)	"""European Commission Participant Identification Code (PIC)""[tw]"	0
+eupath	VEuPathDB ontology	"""VEuPathDB ontology""[tw] OR ""VEuPathDB ontology (EUPATH)""[tw]"	0
+eubopen	Enabling and Unlocking Biology in the Open	"""Enabling and Unlocking Biology in the Open""[tw]"	0
+fbcv	FlyBase Controlled Vocabulary	"""FlyBase Controlled Vocabulary""[tw] OR ""FlyBase Controlled Vocabulary (FBcv)""[tw]"	0
+fbol	International Fungal Working Group Fungal Barcoding.	"""International Fungal Working Group Fungal Barcoding.""[tw]"	0
+fbql	FlyBase Qualifiers	"""FlyBase Qualifiers""[tw]"	0
+fbrf	FlyBase Reference Report	"""FlyBase Reference Report""[tw]"	0
+fovt	FuTRES Ontology of Vertebrate Traits	"""FuTRES Ontology of Vertebrate Traits""[tw] OR ""FuTRES Ontology of Vertebrate Traits (FOVT)""[tw]"	0
+fossilworks.taxon	Fossilworks Taxon	"""Fossilworks Taxon""[tw]"	0
+fossilworks.journal	Fossilworks Journal	"""Fossilworks Journal""[tw]"	0
+foodon	The Food Ontology	"""The Food Ontology""[tw] OR ""The Food Ontology (FOODON)""[tw]"	0
+foodex2	Food Classification and Description System (from FSA Food Type identifiers)	"""Food Classification and Description System (from FSA Food Type identifiers)""[tw]"	0
+foodb.food	FooDB Food	"""FooDB Food""[tw]"	0
+foodb.compound	FooDB compound	"""FooDB compound""[tw]"	0
+fobi	Food-Biomarker Ontology	"""Food-Biomarker Ontology""[tw] OR ""Food-Biomarker Ontology (FOBI)""[tw]"	0
+flymine.chromosome	FlyMine Chromosome Band	"""FlyMine Chromosome Band""[tw]"	0
+flybrain.ndb	FlyBrain Neuron Database	"""FlyBrain Neuron Database""[tw]"	0
+flybase	FlyBase Gene	"""FlyBase Gene""[tw] OR ""FlyBase Gene (FlyBase)""[tw]"	0
+flu	Influenza Ontology	"""Influenza Ontology""[tw] OR ""Influenza Ontology (FLU)""[tw]"	0
+flopo	Flora Phenotype Ontology	"""Flora Phenotype Ontology""[tw] OR ""Flora Phenotype Ontology (FLOPO)""[tw]"	0
+fix	Physico-chemical methods and properties	"""Physico-chemical methods and properties""[tw] OR ""Physico-chemical methods and properties (FIX)""[tw]"	0
+fivestars	Five Stars of Online Research Articles Ontology	"""Five Stars of Online Research Articles Ontology""[tw] OR ""Five Stars of Online Research Articles Ontology (FiveStars)""[tw]"	0
+fideo	Food Interactions with Drugs Evidence Ontology	"""Food Interactions with Drugs Evidence Ontology""[tw] OR ""Food Interactions with Drugs Evidence Ontology (FIDEO)""[tw]"	0
+fhir.implementation	FHIR United States Implementation Guides	"""FHIR United States Implementation Guides""[tw]"	0
+fcsfree	Fetal Calf Serum-Free Database	"""Fetal Calf Serum-Free Database""[tw]"	0
+fbtc	Flybase Cell Line	"""Flybase Cell Line""[tw]"	0
+eu89h	JRC Data Catalogue	"""JRC Data Catalogue""[tw]"	0
+estdab	European Searchable Tumour Line Database	"""European Searchable Tumour Line Database""[tw]"	0
+esco.skill	ESCO Skill	"""ESCO Skill""[tw]"	0
+emi	Earth Metabolome Ontology	"""Earth Metabolome Ontology""[tw]"	0
+emapa	Mouse Developmental Anatomy Ontology	"""Mouse Developmental Anatomy Ontology""[tw] OR ""Mouse Developmental Anatomy Ontology (EMAPA)""[tw]"	0
+emap	Mouse gross anatomy and development, timed	"""Mouse gross anatomy and development, timed""[tw] OR ""Mouse gross anatomy and development, timed (EMAP)""[tw]"	0
+elsst	European Language Social Science Thesaurus	"""European Language Social Science Thesaurus""[tw]"	0
+ehdaa2	Human developmental anatomy, abstract	"""Human developmental anatomy, abstract""[tw] OR ""Human developmental anatomy, abstract (EHDAA2)""[tw]"	0
+ehdaa	Human developmental anatomy, abstract version	"""Human developmental anatomy, abstract version""[tw] OR ""Human developmental anatomy, abstract version (EHDAA)""[tw]"	0
+ehda	Human developmental anatomy, timed version	"""Human developmental anatomy, timed version""[tw] OR ""Human developmental anatomy, timed version (EHDA)""[tw]"	0
+ega.study	European Genome-phenome Archive Study	"""European Genome-phenome Archive Study""[tw]"	0
+ega.dataset	European Genome-phenome Archive Dataset	"""European Genome-phenome Archive Dataset""[tw]"	0
+educor	An Educational and Career-Oriented Recommendation Ontology	"""An Educational and Career-Oriented Recommendation Ontology""[tw]"	0
+edda	EDDA Study Designs Taxonomy	"""EDDA Study Designs Taxonomy""[tw]"	0
+edam.topic	EDAM Topic	"""EDAM Topic""[tw]"	0
+edam.operation	EDAM Operation	"""EDAM Operation""[tw]"	0
+edam.format	EDAM Format	"""EDAM Format""[tw]"	0
+edam.data	EDAM Data	"""EDAM Data""[tw]"	0
+ecyano.rule	E-cyanobacterium rule	"""E-cyanobacterium rule""[tw]"	0
+ecyano.model	E-cyanobacterium model	"""E-cyanobacterium model""[tw]"	0
+ecyano.experiment	E-cyanobacterium Experimental Data	"""E-cyanobacterium Experimental Data""[tw]"	0
+ecyano.entity	E-cyanobacterium entity	"""E-cyanobacterium entity""[tw]"	0
+ecto	Environmental conditions, treatments and exposures ontology	"""Environmental conditions, treatments and exposures ontology""[tw] OR ""Environmental conditions, treatments and exposures ontology (ECTO)""[tw]"	0
+emaps	Mouse Developmental Anatomy Ontology with Theiler Stage	"""Mouse Developmental Anatomy Ontology with Theiler Stage""[tw] OR ""Mouse Developmental Anatomy Ontology with Theiler Stage (EMAPS)""[tw]"	0
+emmo	Elementary Multiperspective Material Ontology	"""Elementary Multiperspective Material Ontology""[tw]"	0
+esco.occupation	ESCO Occupation	"""ESCO Occupation""[tw]"	0
+emolecules	Reaxys eMolecules	"""Reaxys eMolecules""[tw]"	0
+esco.model	ESCO Ontology	"""ESCO Ontology""[tw]"	0
+esco.isco	ESCO - International Standard Classification of Occupations	"""ESCO - International Standard Classification of Occupations""[tw]"	0
+erv	Human Endogenous Retrovirus Database	"""Human Endogenous Retrovirus Database""[tw]"	0
+eropmoscow	Endogenous Regulatory OligoPeptide knowledgebase-Moscow	"""Endogenous Regulatory OligoPeptide knowledgebase-Moscow""[tw]"	0
+ero	eagle-i resource ontology	"""eagle-i resource ontology""[tw] OR ""eagle-i resource ontology (ERO)""[tw]"	0
+erm	European Registry of Materials	"""European Registry of Materials""[tw]"	0
+epo	Epidemiology Ontology	"""Epidemiology Ontology""[tw] OR ""Epidemiology Ontology (EPO)""[tw]"	0
+epcc	European Paediatric Cardiac Codes	"""European Paediatric Cardiac Codes""[tw]"	0
+epawaste	EPA Hazardous Wastes	"""EPA Hazardous Wastes""[tw]"	0
+eol.schema	Encyclopedia of Life Schema	"""Encyclopedia of Life Schema""[tw]"	0
+eol	Environment Ontology for Livestock	"""Environment Ontology for Livestock""[tw]"	0
+eo	Plant Environment Ontology	"""Plant Environment Ontology""[tw] OR ""Plant Environment Ontology (EO)""[tw]"	0
+ensemblglossary	Ensembl Glossary	"""Ensembl Glossary""[tw]"	0
+ensembl.protist	Ensembl Protists	"""Ensembl Protists""[tw]"	0
+ensembl.metazoa	Ensembl Metazoa, the Ensembl database for accessing genome-scale data from non-vertebrate metazoa.	"""Ensembl Metazoa, the Ensembl database for accessing genome-scale data from non-vertebrate metazoa.""[tw]"	0
+ensembl.fungi	Ensembl Fungi, the Ensembl database for accessing genome-scale data from fungi.	"""Ensembl Fungi, the Ensembl database for accessing genome-scale data from fungi.""[tw]"	0
+enm	eNanoMapper ontology	"""eNanoMapper ontology""[tw]"	0
+emsl.project	Environmental Molecular Sciences Laboratory Project	"""Environmental Molecular Sciences Laboratory Project""[tw]"	0
+empiar	Electron Microscopy Public Image Archive	"""Electron Microscopy Public Image Archive""[tw]"	0
+fr	FAIR* Reviews Ontology	"""FAIR* Reviews Ontology""[tw] OR ""FAIR* Reviews Ontology (FR)""[tw]"	0
+frbr	Functional Requirements for Bibliographic Records	"""Functional Requirements for Bibliographic Records""[tw] OR ""Functional Requirements for Bibliographic Records (FRBR)""[tw]"	0
+hinv.protein	H-InvDb Protein	"""H-InvDb Protein""[tw]"	0
+gramene.taxonomy	Gramene Taxonomy	"""Gramene Taxonomy""[tw]"	0
+gxa.expt	GXA Expt	"""GXA Expt""[tw]"	0
+gwascentral.study	GWAS Central Study	"""GWAS Central Study""[tw]"	0
+gwascentral.phenotype	GWAS Central Phenotype	"""GWAS Central Phenotype""[tw]"	0
+gwascentral.marker	GWAS Central Marker	"""GWAS Central Marker""[tw]"	0
+gsso	Gender, Sex, and Sexual Orientation Ontology	"""Gender, Sex, and Sexual Orientation Ontology""[tw] OR ""Gender, Sex, and Sexual Orientation Ontology (GSSO)""[tw]"	0
+gsfa	General Standard for Food Additives Online Database	"""General Standard for Food Additives Online Database""[tw]"	0
+grsdb	G-Rich Sequences Database	"""G-Rich Sequences Database""[tw]"	0
+grin.taxonomy	GRIN URL	"""GRIN URL""[tw]"	0
+grid	Global Research Identifier Database	"""Global Research Identifier Database""[tw]"	0
+gramene.reference	Gramene Reference	"""Gramene Reference""[tw]"	0
+frbrer	Functional Requirements for Bibliographic Records Entity-Relationship Model	"""Functional Requirements for Bibliographic Records Entity-Relationship Model""[tw]"	0
+gramene.qtl	Gramene QTL	"""Gramene QTL""[tw]"	0
+gramene.protein	Gramene protein	"""Gramene protein""[tw]"	0
+gramene.growthstage	Gramene Growth Stage Ontology	"""Gramene Growth Stage Ontology""[tw] OR ""Gramene Growth Stage Ontology (GRO)""[tw]"	0
+gramene.gene	Gramene Gene	"""Gramene Gene""[tw]"	0
+gpcrnava	GPCR Natural Variants database	"""GPCR Natural Variants database""[tw]"	0
+gpcrdb	G protein-coupled receptor database	"""G protein-coupled receptor database""[tw]"	0
+gorel	GO Relations	"""GO Relations""[tw]"	0
+google.scholar	Google Scholar Researcher	"""Google Scholar Researcher""[tw]"	0
+goldbook	IUPAC Gold Book Compendium of Chemical Terminology	"""IUPAC Gold Book Compendium of Chemical Terminology""[tw]"	0
+gxa.gene	GXA Gene	"""GXA Gene""[tw]"	0
+habronattus	Habronattus courtship	"""Habronattus courtship""[tw] OR ""Habronattus courtship (HABRONATTUS)""[tw]"	0
+hagr.genage	The Ageing Gene Database	"""The Ageing Gene Database""[tw]"	0
+hagr.gendr	The Dietary Restriction Gene Database	"""The Dietary Restriction Gene Database""[tw]"	0
+hinv.locus	H-InvDb Locus	"""H-InvDb Locus""[tw]"	0
+hgnc.symbol	HGNC gene symbol	"""HGNC gene symbol""[tw]"	0
+hgnc.genegroup	HGNC Gene Group	"""HGNC Gene Group""[tw]"	0
+hgnc.genefamily	HGNC gene family	"""HGNC gene family""[tw]"	0
+hesa	UK Higher Education Statistics Agency	"""UK Higher Education Statistics Agency""[tw]"	0
+hepro	Health Procedure Ontology	"""Health Procedure Ontology""[tw] OR ""Health Procedure Ontology (HEPRO)""[tw]"	0
+hemonc	HemOnc Terminology	"""HemOnc Terminology""[tw]"	0
+hdr	Homeodomain Research	"""Homeodomain Research""[tw]"	0
+hcvdb	Hepatitis C Virus Database Project	"""Hepatitis C Virus Database Project""[tw]"	0
+hco	Human Chromosome Ontology	"""Human Chromosome Ontology""[tw]"	0
+hcao	Human Cell Atlas Ontology	"""Human Cell Atlas Ontology""[tw]"	0
+hc.trial	Health Canada Clinical Trials Database	"""Health Canada Clinical Trials Database""[tw]"	0
+hc.npn	Health Canada Natural Product Number	"""Health Canada Natural Product Number""[tw]"	0
+hc.din	Health Canada Drug Identification Number	"""Health Canada Drug Identification Number""[tw]"	0
+hbvar	A Database of Human Hemoglobin Variants and Thalassemias	"""A Database of Human Hemoglobin Variants and Thalassemias""[tw]"	0
+hathitrust	Hathi Trust Digital Library	"""Hathi Trust Digital Library""[tw]"	0
+hao.ref	Hymenoptera Anatomy Reference	"""Hymenoptera Anatomy Reference""[tw]"	0
+hancestro	Human Ancestry Ontology	"""Human Ancestry Ontology""[tw] OR ""Human Ancestry Ontology (HANCESTRO)""[tw]"	0
+hamap	High-quality Automated and Manual Annotation of microbial Proteomes	"""High-quality Automated and Manual Annotation of microbial Proteomes""[tw]"	0
+gold.meta	GOLD metadata	"""GOLD metadata""[tw]"	0
+gold.genome	GOLD genome	"""GOLD genome""[tw]"	0
+goeco	GO Evidence Code	"""GO Evidence Code""[tw]"	0
+geogeo	Geographical Entity Ontology	"""Geographical Entity Ontology""[tw] OR ""Geographical Entity Ontology (GEOGEO)""[tw]"	0
+genepio	Genomic Epidemiology Ontology	"""Genomic Epidemiology Ontology""[tw] OR ""Genomic Epidemiology Ontology (GENEPIO)""[tw]"	0
+genecards.genenote	Gene Normal Tissue Expression	"""Gene Normal Tissue Expression""[tw]"	0
+genecards.geneannot	GeneAnnot: Microarray Gene Annotation	"""GeneAnnot: Microarray Gene Annotation""[tw]"	0
+gendis	Genomic Distribution of structural Superfamilies	"""Genomic Distribution of structural Superfamilies""[tw]"	0
+gemet	General Multilingual Environmental Thesaurus	"""General Multilingual Environmental Thesaurus""[tw]"	0
+gecko	Genomics Cohorts Knowledge Ontology	"""Genomics Cohorts Knowledge Ontology""[tw] OR ""Genomics Cohorts Knowledge Ontology (GECKO)""[tw]"	0
+gateway	Health Data Research Innovation Gateway	"""Health Data Research Innovation Gateway""[tw]"	0
+gallont	Plant Gall Ontology	"""Plant Gall Ontology""[tw] OR ""Plant Gall Ontology (GALLONT)""[tw]"	0
+gainesville.core	Gainesville Core Ontology	"""Gainesville Core Ontology""[tw]"	0
+gabi	Network of Different Plant Genomic Research Projects	"""Network of Different Plant Genomic Research Projects""[tw]"	0
+ga4ghdos	Data Object Service	"""Data Object Service""[tw]"	0
+fypo	Fission Yeast Phenotype Ontology	"""Fission Yeast Phenotype Ontology""[tw] OR ""Fission Yeast Phenotype Ontology (FYPO)""[tw]"	0
+fyeco	Fission Yeast Experimental Conditions Ontology	"""Fission Yeast Experimental Conditions Ontology""[tw] OR ""Fission Yeast Experimental Conditions Ontology (FYECO)""[tw]"	0
+funderregistry	FunderRegistry	"""FunderRegistry""[tw]"	0
+funcbase.yeast	FuncBase Yeast	"""FuncBase Yeast""[tw]"	0
+funcbase.mouse	FuncBase Mouse	"""FuncBase Mouse""[tw]"	0
+funcbase.human	FuncBase Human	"""FuncBase Human""[tw]"	0
+funcbase.fly	FuncBase Fly	"""FuncBase Fly""[tw]"	0
+ftt	Feature Type Thesaurus	"""Feature Type Thesaurus""[tw]"	0
+geno	Genotype Ontology	"""Genotype Ontology""[tw] OR ""Genotype Ontology (GENO)""[tw]"	0
+geonames.feature	GeoNames Feature Code	"""GeoNames Feature Code""[tw]"	0
+goche	GO Chemicals	"""GO Chemicals""[tw] OR ""GO Chemicals (GOCHE)""[tw]"	0
+gesiskg	GESIS Knowledge Graph Schema	"""GESIS Knowledge Graph Schema""[tw]"	0
+go.rule	Gene Ontology Rules	"""Gene Ontology Rules""[tw] OR ""Gene Ontology Rules (GORULE)""[tw]"	0
+go.resource	Gene Ontology Registry	"""Gene Ontology Registry""[tw]"	0
+go.ref	Gene Ontology Database references	"""Gene Ontology Database references""[tw]"	0
+go.issue	Gene Ontology Issue Tracker	"""Gene Ontology Issue Tracker""[tw]"	0
+go.gpi	Gene Product Information Schema	"""Gene Product Information Schema""[tw]"	0
+gnps.task	Global Natural Products Social Molecular Networking Task	"""Global Natural Products Social Molecular Networking Task""[tw]"	0
+gno	Glycan Naming and Subsumption Ontology	"""Glycan Naming and Subsumption Ontology""[tw] OR ""Glycan Naming and Subsumption Ontology (GNO)""[tw]"	0
+gnd	GND ID	"""GND ID""[tw]"	0
+gmelin	Gmelins Handbuch der anorganischen Chemie	"""Gmelins Handbuch der anorganischen Chemie""[tw]"	0
+gmd.ref	Golm Metabolome Database Reference Substance	"""Golm Metabolome Database Reference Substance""[tw]"	0
+gmd.profile	Golm Metabolome Database Profile	"""Golm Metabolome Database Profile""[tw]"	0
+gmd.gcms	Golm Metabolome Database GC-MS spectra	"""Golm Metabolome Database GC-MS spectra""[tw]"	0
+gmd.analyte	Golm Metabolome Database Analyte	"""Golm Metabolome Database Analyte""[tw]"	0
+glyconavi	GlycoNAVI	"""GlycoNAVI""[tw]"	0
+glida.ligand	GLIDA Ligand	"""GLIDA Ligand""[tw]"	0
+glida.gpcr	GLIDA GPCR	"""GLIDA GPCR""[tw]"	0
+github.pull	GitHub Pull Request	"""GitHub Pull Request""[tw]"	0
+github.issue	GitHub Issue	"""GitHub Issue""[tw]"	0
+github	GitHub username	"""GitHub username""[tw]"	0
+inaturalist.observation	iNaturalist Observation	"""iNaturalist Observation""[tw]"	0
