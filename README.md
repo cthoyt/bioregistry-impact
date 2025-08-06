@@ -1,5 +1,7 @@
 # bioregistry-impact
 
+![](data/output.png)
+
 why are we doing this?
 to make it possible to assess which ontologies are using ODK, and transitively, are using Bioregistry.
 
