@@ -62,7 +62,15 @@ def main(refresh: bool) -> None:
             tqdm.write(f"failed on {resource.prefix}")
             continue
         else:
-            rows.append((resource.prefix, resource.get_wikidata_entity(), resource.get_name() or "", query, count))
+            rows.append(
+                (
+                    resource.prefix,
+                    resource.get_wikidata_entity(),
+                    resource.get_name() or "",
+                    query,
+                    count,
+                )
+            )
 
         if i % 20 == 0:
             _write(rows)

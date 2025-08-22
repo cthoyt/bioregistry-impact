@@ -30,10 +30,12 @@ def main():
     # TODO categorize
     df = pd.DataFrame(r).replace(pd.NA, "").sort_values("shortName")
     df = df.drop_duplicates()
-    df = df[df['itemLabel'].map(lambda s: not s.startswith("bio2bel-"))]
-    df['bioregistry'] = df['item'].map(bioregistry.get_registry_invmap("wikidata.entity"))
-    df.to_csv(PATH, sep='\t', index=False)
+    df = df[df["itemLabel"].map(lambda s: not s.startswith("bio2bel-"))]
+    df["bioregistry"] = df["item"].map(
+        bioregistry.get_registry_invmap("wikidata.entity")
+    )
+    df.to_csv(PATH, sep="\t", index=False)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()

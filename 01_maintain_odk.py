@@ -41,6 +41,7 @@ SPARQL = """\
 
 # TODO output prefix to wikidata map
 
+
 def main():
     prefix_to_odk = {
         prefix: version
@@ -61,7 +62,6 @@ def main():
     for resource in bioregistry.resources():
         if resource.is_deprecated():
             continue
-
 
         obo_prefix = resource.get_obofoundry_prefix()
         if not obo_prefix or obo_prefix.casefold() in obo_prefix_annotated_with_odk:
@@ -86,8 +86,8 @@ def main():
 
     # quickstatements_client.lines_to_new_tab(lines)
     click.echo(tabulate(rows))
-    df = pd.DataFrame(rows, columns=['prefix', 'wikidata', 'odk'])
-    df.to_csv(PATH, sep='\t', index=False)
+    df = pd.DataFrame(rows, columns=["prefix", "wikidata", "odk"])
+    df.to_csv(PATH, sep="\t", index=False)
 
 
 if __name__ == "__main__":
